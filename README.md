@@ -65,7 +65,8 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 - Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
 - Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
 - N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes i did check if it's the correct ID.)
-- Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)
+- ~~Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)~~
+- All BOSSES Turn Start Voicelines Don't Work Sometimes...? (Their VLs during Combat Phase work tho... no idea what's causing this...)
 
 ## Credits
 Goliath for telling me how to do this, they make a Russian translation custom langauge mod.
