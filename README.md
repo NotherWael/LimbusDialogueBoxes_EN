@@ -38,7 +38,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 2. Download [BattleSpeechBubbleDlg.json](https://github.com/NotherWael/LimbusDialogueBoxes_EN/blob/main/Lang/SpeechDialogBoxesEN%20-%20NotherWael/BattleSpeechBubbleDlg.json)
 3. Rename `BattleSpeechBubbleDlg.json` to `EN_BattleSpeechBubbleDlg.json`
 4. Access your phone files, and navigate to `Internal storage\Android\data\com.ProjectMoon.LimbusCompany\files\Assets\Resources_moved\Localize\en`
-5. Open Limbus Company, and Touch to Start.
+5. Launch the game Limbus Company, and Touch to Start.
 6. As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
    - (This is to bypass Limbus's auto download that replaces modified files with their own correct one.)
    - You HAVE to do this before getting to Lobby screen, or else it will NOT work and you gotta restart and do it again.
