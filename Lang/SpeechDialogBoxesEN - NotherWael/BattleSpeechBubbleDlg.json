@@ -3833,6 +3833,11 @@
       "desc": "",
       "dlg": "Fire!"
     },
+	{
+      "id": "battle_s3_11107_1_2-02",
+      "desc": "",
+      "dlg": "Fire!!"
+    },
 	
 	
 	{	
@@ -3967,14 +3972,9 @@
       "dlg": "Heh, Within it."
     },
     {
-      "id": "battle_s3_10808_1_2-01",
+      "id": "battle_s3_10808_1_2-02",
       "desc": "",
-      "dlg": "Contains deadly obsession."
-    },
-    {
-      "id": "battle_s3_10808_1_3-01",
-      "desc": "",
-      "dlg": "Within it."
+      "dlg": "Contains deadly obsession, Within it."
     },
     {
       "id": "battle_s3_10808_1_3",
