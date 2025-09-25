@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.87.0 - ARKNIGHTS EVENT COLLAB
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
@@ -8,9 +8,10 @@ This mod adds speech bubbles for all characters with battle voicelines!
 <img src="Screenshot/LaShangure.png" alt="LaShangure"/>
 <img src="Screenshot/Shooting.png" alt="Shooting"/>
 
-## Installation
+## Installation Warning
 ### Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
 ### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
+## Installation - PC
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
@@ -29,6 +30,20 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 - To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
   (This will remove your custom fonts, so add them back)
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
+
+## Installation - Mobile (ANDROID ONLY)
+### Note: This method directly replaces the speech bubble localization file, and is not a custom language mod since it's not implemented on mobile, Do it on your own risk!
+### Note: Everytime you launch Limbus after doing step 6, Limbus will redownload its own file, and will replace the modifed one, so you have to do it all over again everytime you launch Limbus.
+1. Connect your Android phone to a PC. (or you can do this directly on your phone if you know how to do it, from using something like ZArchiver.)
+2. Download [BattleSpeechBubbleDlg.json](https://github.com/NotherWael/LimbusDialogueBoxes_EN/blob/main/Lang/SpeechDialogBoxesEN%20-%20NotherWael/BattleSpeechBubbleDlg.json)
+3. Rename `BattleSpeechBubbleDlg.json` to `EN_BattleSpeechBubbleDlg.json`
+4. Access your phone files, and navigate to `Internal storage\Android\data\com.ProjectMoon.LimbusCompany\files\Assets\Resources_moved\Localize\en`
+5. Open Limbus Company, and Touch to Start.
+6. As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
+   - (This is to bypass Limbus's auto download that replaces modified files with their own correct one.)
+   - You HAVE to do this before getting to Lobby screen, or else it will NOT work and you gotta restart and do it again.
+7. The mod should work now, Enjoy!
+
 ## Custom Font Styles Instructions
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
@@ -40,15 +55,15 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 8. Paste the 'Font' folder in the 'SpeechDialogBoxesEN - NotherWael' folder
 9. Done! & Restart the game if open.
 
-
 ## Q&A
-1. Is this bannable?
-   - No! it's not, it's a custom language mod supported by PM, It just changes the localization files.
+1. Is this safe? is it bannable?
+   - No it's not, it's safe! it's a custom language mod supported by PM, It just changes the localization files.
    - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning"
    - This Mod only modifies langauge text files, so it's safe. [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
 
 2. How is this done?
    - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
+   - So the mod is only a localization file to add speech bubbles, there isn't any bepinex dll plugins or asset modification or anything like that.
 
 ## Downsides & Issues
 ### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
