@@ -1519,7 +1519,12 @@
       "desc": "",
       "dlg": "It's fun~"
     },
-	
+	{
+      "id": "battle_s3_10603_1",
+      "desc": "",
+      "dlg": "Hahahahaha~!"
+    },
+		
 	
 	{	
       "id": "battle_select_10701_1",
@@ -2456,9 +2461,11 @@
       "desc": "",
       "dlg": "Krh... There are still—deeds undone..."
     },
-	
-	
-	
+	{
+      "id": "battle_s3_10304_1_2",
+      "desc": "",
+      "dlg": "Hurrah-tta!!"
+    },
 	
 	
 	{	
