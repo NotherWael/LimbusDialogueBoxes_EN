@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.87.0 - ARKNIGHTS EVENT
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.87.1 - Bug Fixes and Typos
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
@@ -57,10 +57,13 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 ## Q&A
 1. Is this safe? is it bannable?
-   - No it's not bannable, it's safe! it's a custom language mod supported by PM, It just changes the localization files.
-   - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning"
-   - This Mod only modifies langauge text files, so it's safe. [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
-   - As for the Mobile method, do it on your own risk! it's kinda similar to current visual modding, where no one has gotten banend yet but could get banned at any time. (but then again this is only modifying the text files, so in the end idk)
+   - It’s safe and not bannable. it's a custom language mod implemented by PM, It just changes the localization files.
+   - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning" [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
+
+   - But then again it's outside the intented use, cause it's not a diffirent language, so PM may not like this kind of use for the custom language implementation, so it's kinda of a grey area at the moment.
+   - **PM Recently Announced that they're gonna post new guidelines for modding and fanwork, so they might say something about this mod, if they'll allow it or not.**
+   
+   - As for the Mobile method, do it on your own risk! since you directly replace the files, it's kinda similar to current visual modding, where no one has gotten banned yet but could get banned at any time. (but then again this is only modifying the text files, so in the end idk)
 
 2. How is this done?
    - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
