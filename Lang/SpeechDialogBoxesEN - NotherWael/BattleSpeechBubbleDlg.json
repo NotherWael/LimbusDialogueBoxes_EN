@@ -7326,7 +7326,93 @@
       "id": "battle_special_10412_4_B",
       "desc": "",
       "dlg": "Don't get blinded by this gaze."
-    }
+    },
 	
+	
+	{
+      "id": "battle_select_10213_1",
+      "desc": "############ Shi East Sect3 Faust Start ############",
+      "dlg": "Waiting for the right moment."
+    },
+	{
+      "id": "battle_select_10213_2",
+      "desc": "",
+      "dlg": "... Target locked."
+    },
+    {
+      "id": "battle_break_10213_1",
+      "desc": "",
+      "dlg": "Mm..."
+    },
+    {
+      "id": "battle_dead_10213_1",
+      "desc": "",
+      "dlg": "Again, fairness is simply a universal concept—even... for me."
+    },
+	{
+      "id": "battle_endcommand_10213_1",
+      "desc": "",
+      "dlg": "Let the pelting rain bury you."
+    },
+	{
+      "id": "battle_enemy_break_10213_1",
+      "desc": "",
+      "dlg": "Clean shot through the lung."
+    },
+	{
+      "id": "battle_kill_10213_1",
+      "desc": "",
+      "dlg": "Bullseye."
+    },
+	{
+      "id": "battle_s3_10213_1_4",
+      "desc": "",
+      "dlg": "This time, I'll cut you down."
+    },
+	{
+      "id": "battle_take_aim_10213_1",
+      "desc": "",
+      "dlg": "Target confirmed."
+    },
+	{
+      "id": "battle_take_aim_10213_2",
+      "desc": "",
+      "dlg": "Wind checked."
+    },
+	{
+      "id": "battle_take_aim_10213_3",
+      "desc": "",
+      "dlg": "Hold your breath..."
+    },
+	{
+      "id": "battle_take_aim_10213_4",
+      "desc": "",
+      "dlg": "... fully ready."
+    },
+	{
+      "id": "battle_special_10213_1",
+      "desc": "",
+      "dlg": "It will hit without fail."
+    },
+	{
+      "id": "battle_special_10213_3",
+      "desc": "",
+      "dlg": "One shot, certain to hit."
+    },
+	{
+      "id": "battle_withdraw_arrow_10213",
+      "desc": "",
+      "dlg": "Ah. The arrow is not damaged, I see."
+    },
+	{
+      "id": "battle_special_10213_5_1",
+      "desc": "",
+      "dlg": "I am waiting for it to find me."
+    },
+	{
+      "id": "battle_special_10213_5",
+      "desc": "",
+      "dlg": "I am aiming."
+    }
   ]
 }
