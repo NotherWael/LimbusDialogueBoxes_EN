@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.88.0 - New Shi East Section 3 Faust ID (No Lines are added yet till im done translating)
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.88.0 - New Shi East Section 3 Faust ID (Shi Faust Lines are now Added.)
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
