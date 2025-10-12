@@ -7392,12 +7392,12 @@
 	{
       "id": "battle_special_10213_1",
       "desc": "",
-      "dlg": "It will hit without fail."
+      "dlg": "It will hit the target without fail."
     },
 	{
       "id": "battle_special_10213_3",
       "desc": "",
-      "dlg": "One shot, certain to hit."
+      "dlg": "One shot, one kill."
     },
 	{
       "id": "battle_withdraw_arrow_10213",
