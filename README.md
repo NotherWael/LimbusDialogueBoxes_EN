@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO VER 1.88.2 - New Themepack localization files added
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.89.0 - Warp Event Bokgak, WCorp Heathcliff, Prince Meursault, and Sasha (DMG Taken) Untranslated Lines Added.
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
