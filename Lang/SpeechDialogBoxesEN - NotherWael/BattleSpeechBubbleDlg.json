@@ -7413,6 +7413,112 @@
       "id": "battle_special_10213_5",
       "desc": "",
       "dlg": "… Target locked."
+    },
+	{
+        "id": "battle_select_10513_1",
+        "desc": "######### Prince of La Manchaland Meursualt Start #############",
+        "dlg": "Are you enjoying the banquet?"
+    },
+    {
+        "id": "battle_endcommand_10513_1",
+        "desc": "Commencing Attack",
+        "dlg": "The Parade and its Finale."
+    },
+    {
+        "id": "battle_enemy_break_10513_1",
+        "desc": "Enemy Stagger",
+        "dlg": "That's it. Kneel."
+    },
+    {
+        "id": "battle_break_10513_1",
+        "desc": "Staggered",
+        "dlg": "... Hah. Blood... more blood...!"
+    },
+    {
+        "id": "battle_kill_10513_1",
+        "desc": "Enemy Killed",
+        "dlg": "You... are too feeble to join the Family."
+    },
+    {
+        "id": "battle_dead_10513_1",
+        "desc": "Death",
+        "dlg": "Thus, in the end... our royal Family too, marches to ruin..."
+    },
+	{
+        "id": "battle_special_10513_1",
+        "desc": "",
+        "dlg": "I bestow upon you the King’s protection."
+    },
+	{
+        "id": "battle_special_10513_2",
+        "desc": "",
+        "dlg": "Ouvertüre...!"
+    },
+	{
+        "id": "battle_special_10513_3",
+        "desc": "",
+        "dlg": "I hear the bustling noise of a crowd...\nHas the time come?"
+    },
+	{
+        "id": "battle_special_10513_4",
+        "desc": "",
+        "dlg": "Warm blood... seeping in."
+    },
+	{
+        "id": "battle_special_10513_5",
+        "desc": "1UnknownVoiceline/UnusedLine?",
+        "dlg": "O father! I've longed to march like this again!"
+    },
+	{
+        "id": "battle_s3_10513_1_4",
+        "desc": "",
+        "dlg": "Haah... we marched, and this is...\nthe finale of the overture."
+    },
+	{
+        "id": "battle_select_10713_1",
+        "desc": "###### W Corp Heathcliff Start ######",
+        "dlg": "Leave the cleanup to the newbies. I'm off to the Congested compartment."
+    },
+    {
+        "id": "battle_endcommand_10713_1",
+        "desc": "Commencing Attack",
+        "dlg": "Confirming armour activation."
+    },
+	{
+    
+        "id": "battle_enemy_break_10713_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Now sit there nice and quiet..."
+    },
+    {
+        "id": "battle_break_10713_1",
+        "desc": "Staggered",
+        "dlg": "Gah..."
+    },
+    {
+        "id": "battle_kill_10713_1",
+        "desc": "Enemy Killed",
+        "dlg": "... Train's done operatin', that's what!"
+    },
+    {
+        "id": "battle_dead_10713_1",
+        "desc": "Death",
+        "dlg": "... So this is the last stop."
+    },
+	{
+        "id": "battle_special_10713_1",
+        "desc": "",
+        "dlg": "Come at me! If you’re confident."
+    },
+	{
+        "id": "battle_s3_10713_1_1",
+        "desc": "",
+        "dlg": "Fully charged!"
+    },
+	{
+        "id": "battle_s3_10713_1_5",
+        "desc": "",
+        "dlg": "I'll split you in two!"
     }
   ]
 }
