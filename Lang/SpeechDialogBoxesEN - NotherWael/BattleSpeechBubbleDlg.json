@@ -5426,7 +5426,7 @@
 	{
       "id": "battle_s3_11210_1-03",
       "desc": "",
-      "dlg": "Hngh...? Blood...? Blood!"
+      "dlg": "Hngh...? Blood...? Blood!!"
     },
 	{
       "id": "battle_s3_11210_1-02",
@@ -6037,7 +6037,7 @@
 	{
       "id": "battle_s3_10811_1_1-01",
       "desc": "",
-      "dlg": "4th Form"
+      "dlg": "4th form."
     },
 	{
       "id": "battle_s3_10811_1_3-02",
@@ -7467,12 +7467,12 @@
 	{
         "id": "battle_special_10513_5",
         "desc": "1UnknownVoiceline/UnusedLine?",
-        "dlg": "O father! I've longed to march like this again!"
+        "dlg": "O father! We've longed to march together like this again!"
     },
 	{
         "id": "battle_s3_10513_1_4",
         "desc": "",
-        "dlg": "Haah... we marched, and this is...\nthe finale of the overture."
+        "dlg": "Haah... we marched, and this is...\nThe Finale of the Overture."
     },
 	{
         "id": "battle_select_10713_1",
@@ -7485,7 +7485,6 @@
         "dlg": "Confirming armour activation."
     },
 	{
-    
         "id": "battle_enemy_break_10713_1",
         "desc": "Enemy Stagger",
         "dlg": "Now sit there nice and quiet..."
