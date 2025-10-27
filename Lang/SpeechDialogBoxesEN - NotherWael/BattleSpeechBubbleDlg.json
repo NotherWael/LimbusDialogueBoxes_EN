@@ -7457,7 +7457,7 @@
 	{
         "id": "battle_special_10513_3",
         "desc": "",
-        "dlg": "I hear the bustling noise of a crowd...\nHas the time come?"
+        "dlg": "I hear the sound of fireworks...\nHas the time come?"
     },
 	{
         "id": "battle_special_10513_4",
@@ -7467,12 +7467,12 @@
 	{
         "id": "battle_special_10513_5",
         "desc": "",
-        "dlg": "Oh Mother! I've longed to march together like this again!"
+        "dlg": "Oh Mother! I've longed to march together like this again."
     },
 	{
         "id": "battle_s3_10513_1_4",
         "desc": "",
-        "dlg": "Haah... we marched,\nand this is...\nThe Finale of the Overture."
+        "dlg": "Haah... the highlight of the Parade.\nThis is...  the Overture’s Finale."
     },
 	{
         "id": "battle_select_10713_1",
