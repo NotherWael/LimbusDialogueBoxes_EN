@@ -7242,7 +7242,7 @@
 	{
       "id": "battle_s3_11014_1_7-01",
       "desc": "",
-      "dlg": "More, more, more! Ha Ha!"
+      "dlg": "More, more, more! Ha ha!"
     },
 	{
       "id": "battle_s3_11014_1_3",
@@ -7290,7 +7290,7 @@
     {
       "id": "battle_special_10412_4_A",
       "desc": "",
-      "dlg": "Blood will scatter."
+      "dlg": "Blood will splatter."
     },
     {
       "id": "battle_s3_10412_1_1",
@@ -7309,18 +7309,18 @@
     },
     {
       "id": "battle_special_10412_2",
-      "desc": "Yeah this line doesn't work at all and the 2nd one too",
-      "dlg": "Getting hit by your bullet like this might be its own kind of art…"
+      "desc": "",
+      "dlg": "It'd be quite the art to let your bullet strike me..."
     },
 	{
       "id": "battle_special_10412_2-01",
-      "desc": "Same as above",
-      "dlg": "But now's not the time to leave our masterpiece unfinished."
+      "desc": "",
+      "dlg": "But... this is hardly the right time for us to leave our final masterpiece."
     },
     {
       "id": "battle_special_10412_3",
       "desc": "",
-      "dlg": "Getting hit by your bullet like this… would be its own kind of art."
+      "dlg": "Getting struck by your bullet like this... is quite an art."
     },
     {
       "id": "battle_special_10412_4_B",
