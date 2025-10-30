@@ -75,7 +75,8 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 - PC language may require to be set to English, though this might not apply to all languages.
 - Some voicelines cannot display speech bubbles (e.g., Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
-- Font may not match the base game... (like Mikodacs Font, not having Letter Spacing from the base game.) but you can use your own custom fonts!  
+- ~~Font may not match the base game... (like Mikodacs Font, not having Letter Spacing from the base game.) but you can use your own custom fonts!~~
+- **Added the correct letter-spacing Mikodacs Font! as of 30th Oct 2025**
 - A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
