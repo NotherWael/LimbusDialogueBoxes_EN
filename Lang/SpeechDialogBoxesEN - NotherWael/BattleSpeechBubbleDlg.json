@@ -7518,6 +7518,166 @@
         "id": "battle_s3_10713_1_5",
         "desc": "",
         "dlg": "I'll split you in two!"
+    },
+	{
+        "id": "battle_select_10813_1",
+        "desc": "###### Jeong's Office Ishmael ######",
+        "dlg": "I'm already carrying out my duties as an observer. Chatting me up is a rule violation."
+    },
+    {
+        "id": "battle_endcommand_10813_1",
+        "desc": "Commencing Attack",
+        "dlg": "Hey now, that makes a matching hand!"
+    },
+	{
+        "id": "battle_enemy_break_10813_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Let's go! Koi-koi!"
+    },
+    {
+        "id": "battle_break_10813_1",
+        "desc": "Staggered",
+        "dlg": "What a shitty hand..."
+    },
+    {
+        "id": "battle_kill_10813_1",
+        "desc": "Enemy Killed",
+        "dlg": "Hmph. You went all-in, didn't you?"
+    },
+    {
+        "id": "battle_dead_10813_1",
+        "desc": "Death",
+        "dlg": "Never thought I'd be cornered like this..."
+    },
+	{
+        "id": "battle_s3_10813_1_1",
+        "desc": "",
+        "dlg": "March..."
+    },
+	{
+        "id": "battle_s3_10813_1_4",
+        "desc": "",
+        "dlg": "Sakura!"
+    },
+	{
+        "id": "battle_special_10813_1",
+        "desc": "",
+        "dlg": "Hah... It’s a bust. Next."
+    },
+	{
+        "id": "battle_special_10813_2",
+        "desc": "",
+        "dlg": "Sankō!"
+    },
+	{
+        "id": "battle_special_10813_3",
+        "desc": "",
+        "dlg": "Tsk. The Rain one."
+    },
+	{
+        "id": "battle_special_10813_3-01",
+        "desc": "",
+        "dlg": "Ameshiko!"
+    },
+	{
+        "id": "battle_special_10813_4",
+        "desc": "",
+        "dlg": "Crane."
+    },
+	{
+        "id": "battle_special_10813_5",
+        "desc": "",
+        "dlg": "Blossom."
+    },
+	{
+        "id": "battle_special_10813_6",
+        "desc": "",
+        "dlg": "Moon and Rain..."
+    },
+	{
+        "id": "battle_special_10813_7",
+        "desc": "",
+        "dlg": "Gōkō!"
+    },
+	{
+        "id": "battle_select_11213_1",
+        "desc": "###### NightAwl Capitano Gregor ######",
+        "dlg": "Stay sharp and focus on the fight if you don't want to snuff it."
+    },
+    {
+        "id": "battle_endcommand_11213_1",
+        "desc": "Commencing Attack",
+        "dlg": "Let's deal with this quickly."
+    },
+	{
+        "id": "battle_enemy_break_11213_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Is this your weak spot?"
+    },
+    {
+        "id": "battle_break_11213_1",
+        "desc": "Staggered",
+        "dlg": "Gah..."
+    },
+    {
+        "id": "battle_kill_11213_1",
+        "desc": "Enemy Killed",
+        "dlg": "You were full of openings."
+    },
+    {
+        "id": "battle_dead_11213_1",
+        "desc": "Death",
+        "dlg": "I guess running away... did nothing to unseal our fate..."
+    },
+	{
+        "id": "battle_s3_11213_1_4",
+        "desc": "",
+        "dlg": "Full of openings...!"
+    },
+	{
+        "id": "battle_s3_11213_1_5",
+        "desc": "",
+        "dlg": "Stiletto!"
+    },
+	{
+        "id": "battle_special_11213_1",
+        "desc": "",
+        "dlg": "Is your stance broken?"
+    },
+	{
+        "id": "battle_special_11213_1-01",
+        "desc": "",
+        "dlg": "You’re open, I see."
+    },
+	{
+        "id": "battle_special_11213_2",
+        "desc": "",
+        "dlg": "Be thankful for mercy."
+    },
+	{
+        "id": "battle_special_11213_3",
+        "desc": "",
+        "dlg": "Eye!"
+    },
+	{
+        "id": "battle_special_11213_4",
+        "desc": "",
+        "dlg": "Throat!"
+    },
+	{
+        "id": "battle_special_11213_5",
+        "desc": "",
+        "dlg": "Heart!"
+    },
+	{
+        "id": "battle_special_11213_7",
+        "desc": "",
+        "dlg": "That gap of yours..."
+    },
+	{
+        "id": "battle_special_11213_8",
+        "desc": "",
+        "dlg": "... I’ll pierce through it."
     }
   ]
 }

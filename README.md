@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.89.1, [On Use] DMG by Keyword Removed, Typo fixes, and Prologue story dialouge changes.
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.0, The Walpurgis Night 7th Event, Night Awl Gregor & Jeong's Office Ishmael
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
