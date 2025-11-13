@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.0, The Walpurgis Night 7th Event, Night Awl Gregor & Jeong's Office Ishmael
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.1, You Only Need To Update Every New Identity for Speech Bubbles now! (and future enemies with speech bubbles too, cause this replaces the speech bubble file that enemy uses too)
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
@@ -9,8 +9,8 @@ This mod adds speech bubbles for all characters with battle voicelines!
 <img src="Screenshot/Shooting.png" alt="Shooting"/>
 
 ## Installation Warning
-### Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))
-### Honestly I recommend you to not use this mod at all when there is new story content, so finish and enjoy the new story first and then use the mod!
+### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
+### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 ## Installation - PC
 1. Click **Code** → **Download ZIP** on this GitHub repository.
