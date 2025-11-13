@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.1, You Only Need To Update Every New Identity for Speech Bubbles now! (and future enemies with speech bubbles too, cause this replaces the speech bubble file that enemy uses too)
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.1, You Only Need To Update For New Identities' Speech Bubble Now! (and future enemies with speech bubbles too, cause this may replace the speech bubble file that enemy uses.)
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
