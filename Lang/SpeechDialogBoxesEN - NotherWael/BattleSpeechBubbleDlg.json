@@ -6992,6 +6992,11 @@
       "desc": "battle_s3-2_10613_1_12-01",
       "dlg": "Charge forth, Rooster."
     },
+	{
+      "id": "battle_s3-2_10613_1_10-01",
+      "desc": "battle_s3-2_10613_1_10-01",
+      "dlg": "Scatter the Sheep."
+    },
     {
       "id": "battle_s3-2_10613_1_6-02",
       "desc": "battle_s3-2_10613_1_6-02",
@@ -7011,6 +7016,11 @@
       "id": "battle_s3-2_10613_1_12-02",
       "desc": "battle_s3-2_10613_1_12-02",
       "dlg": "Rooster..."
+    },
+	{
+      "id": "battle_s3-2_10613_1_10-02",
+      "desc": "battle_s3-2_10613_1_10-02",
+      "dlg": "Sheep..."
     },
     {
       "id": "battle_order_attack_10613_1",
@@ -7035,7 +7045,7 @@
     {
       "id": "battle_noneready_10613_1",
       "desc": "battle_noneready_10613_1",
-      "dlg": "A last-ditch stand."
+      "dlg": "Backed against a river."
     },
     {
       "id": "battle_noneready_10613_1-01",
@@ -7061,6 +7071,11 @@
       "id": "battle_s3-2_10613_1_12",
       "desc": "battle_s3-2_10613_1_12",
       "dlg": "You..."
+    },
+	{
+      "id": "battle_s3-2_10613_1_10",
+      "desc": "battle_s3-2_10613_1_10",
+      "dlg": "Wei..."
     },
     {
       "id": "battle_s3-2_10613_1_2",
@@ -7107,9 +7122,6 @@
       "desc": "battle_undead_10613_1-01",
       "dlg": "Until I fulfil my goal... Death... Pass by me once more!"
     },
-	
-	
-	
 	
 	{
       "id": "battle_select_10114_1",
