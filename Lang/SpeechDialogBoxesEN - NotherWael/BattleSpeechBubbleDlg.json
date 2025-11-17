@@ -6482,8 +6482,6 @@
     },
 	
 	
-	
-	
 	{
       "id": "battle_select_10812_1",
       "desc": "############ Xichun Ishmael Start ############",
@@ -6524,52 +6522,6 @@
       "desc": "",
       "dlg": "Simply snuffed out like a flame."
     },
-	
-	
-	
-	
-	{
-      "id": "battle_select_10812_1",
-      "desc": "############ Xichun Ishmael Start ############",
-      "dlg": "Please, I don't need any unnecessary fussing. I prefer the silence."
-    },
-    {
-      "id": "battle_endcommand_10812_1",
-      "desc": "",
-      "dlg": "Let's take them all out. No need to waste our time here."
-    },
-    {
-      "id": "battle_enemy_break_10812_1",
-      "desc": "",
-      "dlg": "Hmph. You're open!"
-    },
-    {
-      "id": "battle_kill_10812_1",
-      "desc": "",
-      "dlg": "Nice try."
-    },
-    {
-      "id": "battle_break_10812_1",
-      "desc": "",
-      "dlg": "Agh! What the hell—"
-    },
-	{
-      "id": "battle_dead_10812_1",
-      "desc": "",
-      "dlg": "What a… short-lived spring this is…"
-    },
-	{
-      "id": "battle_s3_10812_1_001",
-      "desc": "",
-      "dlg": "A fleeting life…"
-    },
-	{
-      "id": "battle_s3_10812_1_003",
-      "desc": "",
-      "dlg": "Simply snuffed out like a flame."
-    },
-	
-	
 	
 	
 	{
@@ -7664,7 +7616,7 @@
 	{
         "id": "battle_special_11213_1-01",
         "desc": "",
-        "dlg": "You’re open."
+        "dlg": "You're open."
     },
 	{
         "id": "battle_special_11213_2",
