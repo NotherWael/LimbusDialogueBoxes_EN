@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.90.1, You Only Need To Update For New Identities' Speech Bubble Now! (and future enemies with speech bubbles too, cause this may replace the speech bubble file that enemy uses.)
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.91.0, You Adept Heathcliff & Wei Don Quixote Lines Added!, RR1 Bokgak Event.
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)

@@ -7186,7 +7186,7 @@
 	{
       "id": "battle_enemy_break_11014_1",
       "desc": "",
-      "dlg": "You're cornered. Nowhere to go."
+      "dlg": "You're cornered.\nNowhere to go."
     },
 	{
       "id": "battle_kill_11014_1",
@@ -7206,7 +7206,7 @@
 	{
       "id": "battle_s3_11014_1_7-01",
       "desc": "",
-      "dlg": "More, more, more! Ha ha!"
+      "dlg": "More, more, more! Haha!"
     },
 	{
       "id": "battle_s3_11014_1_3",
@@ -7647,6 +7647,101 @@
         "id": "battle_special_11213_8",
         "desc": "",
         "dlg": "... I’ll pierce through it."
+    },
+    {
+		"id": "battle_select_10313_1",
+		"desc": "Viewed in Battle ###### Heishou Wei Don Quixote ######",
+		"dlg": "Charge!!"
+	},
+	{
+		"id": "battle_endcommand_10313_1",
+		"desc": "Commencing Attack",
+		"dlg": "Topple them ere the battle is afoot!"
+	},
+	{
+		"id": "battle_enemy_break_10313_1",
+		"desc": "Enemy Stagger",
+		"dlg": "Doth not thy brainpan rattle from within?"
+	},
+	{
+		"id": "battle_break_10313_1",
+		"desc": "Staggered",
+		"dlg": "Hrrk...!"
+	},
+	{
+		"id": "battle_kill_10313_1",
+		"desc": "Enemy Killed",
+		"dlg": "Down they crumble!"
+	},
+	{
+		"id": "battle_dead_10313_1",
+		"desc": "Death",
+		"dlg": "Gah?! Aah... Is... is this... mine end?"
+	},
+    {
+		"id": "battle_s3_10313_1_4",
+		"desc": "",
+		"dlg": "Aaaagh...! Crush!!"
+    },
+	{
+		"id": "battle_select_10714_1",
+		"desc": "Viewed in Battle ###### Heishou You Adept Heathcliff ######",
+		"dlg": "Sod off or die."
+	},
+	{
+		"id": "battle_endcommand_10714_1",
+		"desc": "Commencing Attack",
+		"dlg": "Talons out!"
+	},
+	{
+		"id": "battle_enemy_break_10714_1",
+		"desc": "Enemy Stagger",
+		"dlg": "Wha, you're down already? That's a bit bland, innit?"
+	},
+	{
+		"id": "battle_break_10714_1",
+		"desc": "Staggered",
+		"dlg": "Keheh, yes! I like that!"
+	},
+	{
+		"id": "battle_kill_10714_1",
+		"desc": "Enemy Killed",
+		"dlg": "Pecked 'em to death! Next! NEXT!"
+	},
+	{
+		"id": "battle_dead_10714_1",
+		"desc": "Death",
+		"dlg": "Hah... I totally lost control, didn't I...? Well... I was always going to end up a carcass... anyway."
+	},
+    {
+		"id": "battle_s3_10714_1_1",
+		"desc": "",
+		"dlg": "Bloodtalons... Conflagrate!"
+    },
+    {
+		"id": "battle_special_10714_1",
+		"desc": "1UnknownVL-Stilllooking",
+		"dlg": "Thought my damn neck was gonna snap from holding back...\nHeh. Kill ’em all!!"
+    },
+    {
+		"id": "battle_special_10714_2",
+		"desc": "",
+		"dlg": "Bloodtalons... Conflagrate!!"
+    },
+    {
+		"id": "battle_special_10714_2-01",
+		"desc": "",
+		"dlg": "<i>Hahahahahahaha!!</i>"
+    },
+    {
+		"id": "battle_special_10714_2-02",
+		"desc": "",
+		"dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven[血天下雞舞亂刀]!!</i>"
+    },
+    {
+		"id": "battle_special_10714_3",
+		"desc": "",
+		"dlg": "Flame Rooster's Death Defiance\n[炎鳥不死戦]... Heh!\nYou really thought I was gonna kick it...\nHuh?!"
     }
   ]
 }
