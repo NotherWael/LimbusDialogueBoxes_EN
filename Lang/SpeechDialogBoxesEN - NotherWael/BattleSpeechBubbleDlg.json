@@ -7681,7 +7681,7 @@
     {
 		"id": "battle_s3_10313_1_4",
 		"desc": "",
-		"dlg": "Aaaagh...! Crush!!"
+		"dlg": "Aaaagh...! Shatter!!"
     },
 	{
 		"id": "battle_select_10714_1",
@@ -7731,7 +7731,7 @@
     {
 		"id": "battle_special_10714_2-02",
 		"desc": "",
-		"dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven[血天下雞舞亂刀]!!</i>"
+		"dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven [血天下雞舞亂刀]!!</i>"
     },
     {
 		"id": "battle_special_10714_3",
