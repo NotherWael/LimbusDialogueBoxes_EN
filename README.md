@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.91.0, You Adept Heathcliff & Wei Don Quixote Lines Added!, RR1 Bokgak Event.
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.92.0, Drifting Blade of Hongyuan Ryōshū Added.
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)

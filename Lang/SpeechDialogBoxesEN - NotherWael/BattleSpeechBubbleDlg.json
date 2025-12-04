@@ -4558,7 +4558,7 @@
 	{
       "id": "battle_kill_11009_2",
       "desc": "",
-      "dlg": "If i keep hesitating, I can't move forward."
+      "dlg": "If I keep hesitating, I can't move forward."
     },
     {
       "id": "battle_dead_11009_2",
@@ -7716,7 +7716,7 @@
     {
 		"id": "battle_s3_10714_1_1",
 		"desc": "",
-		"dlg": "Bloodtalons... Conflagrate!"
+		"dlg": "Bloodtalons...! Conflagrate!"
     },
     {
 		"id": "battle_special_10714_1",
@@ -7731,12 +7731,67 @@
     {
 		"id": "battle_special_10714_2-02",
 		"desc": "",
-		"dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven [血天下雞舞亂刀]!!</i>"
+		"dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven(血天下雞舞亂刀])!!</i>"
     },
     {
 		"id": "battle_special_10714_3",
 		"desc": "",
-		"dlg": "Flame Rooster's Death Defiance\n[炎鳥不死戦]... Heh!\nYou really thought I was gonna kick it...\nHuh?!"
-    }
+		"dlg": "Flame Rooster's Death Defiance\n(炎鳥不死戦)... Heh!\nYou really thought I was gonna kick it...\nHuh?!"
+    },
+    {
+        "id": "battle_select_10413_1",
+        "desc": "Viewed in Battle ###### Drifting Blade Ryoshu ######",
+        "dlg": "Straying from my back isn't a smart choice."
+    },
+    {
+        "id": "battle_endcommand_10413_1",
+        "desc": "Commencing Attack",
+        "dlg": "Gladly."
+    },
+    {
+        "id": "battle_enemy_break_10413_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Storm them without mercy..."
+    },
+    {
+        "id": "battle_break_10413_1",
+        "desc": "Staggered",
+        "dlg": "... Hah."
+    },
+    {
+        "id": "battle_kill_10413_1",
+        "desc": "Enemy Killed",
+        "dlg": "Scatter, never again to be found."
+    },
+    {
+        "id": "battle_dead_10413_1",
+        "desc": "Death",
+        "dlg": "My only regret... is that I die without avenging... that foolish lord of mine."
+    },
+	{
+        "id": "battle_s3_10413_1_3-02",
+        "desc": "",
+        "dlg": "Skystepping Spear\n(踏空槍零)."
+	},
+	{
+        "id": "battle_special_10413_1",
+        "desc": "",
+        "dlg": "Get behind me."
+	},     
+	{
+        "id": "battle_special_10413_1-02",
+        "desc": "",
+        "dlg": "Whirlwind(廻風)!"
+	},      
+	{
+        "id": "battle_special_10413_2",
+        "desc": "",
+        "dlg": "The Lord of Hongyuan?\nHeh, is that so?\nIf that’s the case… then this time…\nI won’t fail."
+	},
+	{
+        "id": "battle_special_10413_3",
+        "desc": "",
+        "dlg": "I won't let you die."
+	}
   ]
 }
