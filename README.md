@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.92.0, Drifting Blade of Hongyuan Ryōshū Added.
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.93.0, R Corp Rodion Added.
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)

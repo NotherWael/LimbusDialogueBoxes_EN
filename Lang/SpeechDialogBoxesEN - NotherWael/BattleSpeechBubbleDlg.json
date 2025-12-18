@@ -7792,6 +7792,41 @@
         "id": "battle_special_10413_3",
         "desc": "",
         "dlg": "I won't let you die."
+	},
+	{
+		"id": "battle_select_10914_1",
+		"desc": "Viewed in Battle ########## R Corp Rodion ##########",
+		"dlg": "... Ha ha. Would ya look at that. Everybody's twinkle-twinkle."
+	},
+	{
+		"id": "battle_endcommand_10914_1",
+		"desc": "Commencing Attack",
+		"dlg": "Why's it gotta be today...? Why's it gotta be just the 4th Pack Reindeer, why's it gotta be <i>just</i> me and my roomies for this mission, huh...?"
+	},
+	{
+		"id": "battle_enemy_break_10914_1",
+		"desc": "Enemy Stagger",
+		"dlg": "Hah, I'll zap you in all the pretty colors. It's the Christmas special."
+	},
+	{
+		"id": "battle_break_10914_1",
+		"desc": "Staggered",
+		"dlg": "Ngh, nngh..."
+	},
+	{
+		"id": "battle_kill_10914_1",
+		"desc": "Enemy Killed",
+		"dlg": "Good kids on the nice list woulda gone easy on you... agh. Too bad we're on the naughty list, huh?"
+	},
+	{
+		"id": "battle_dead_10914_1",
+		"desc": "Death",
+		"dlg": "This... is the worst... I'll be one... morbid Christmas tree..."
+	},
+	{
+		"id": "battle_s3_10914_1_4",
+        "desc": "",
+		"dlg": "Ahaha… aren’t the fireworks pretty?"
 	}
   ]
 }
