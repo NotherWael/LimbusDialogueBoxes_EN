@@ -1,4 +1,5 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.93.0, R Corp Rodion Added.
+# HAPPY NEW YEAR!!!!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.94.0, Canto 9 Release, Thumb Apperentice Boss Missing S3 Line Added, Udjat Vanguard Outis & Index Faust Added!
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
