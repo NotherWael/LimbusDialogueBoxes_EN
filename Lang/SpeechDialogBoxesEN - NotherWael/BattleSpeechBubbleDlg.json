@@ -7827,6 +7827,167 @@
 		"id": "battle_s3_10914_1_4",
         "desc": "",
 		"dlg": "Ahaha… aren’t the fireworks pretty?"
-	}
+	},
+	  
+	{
+        "desc": "##### SEASON 7 - CANTO 9 ######"
+    },
+	  
+    {
+      "id": "battle_select_11114_1",
+      "desc": "Viewed in Battle ######## LCA Udjat Vanguard Outis ########",
+      "dlg": "No need. I've already spotted a gap. The Eye of Udjat… never misses faults in allied defensive positions."
+    },
+    {
+      "id": "battle_endcommand_11114_1",
+      "desc": "",
+      "dlg": "Encircle the target."
+    },
+    {
+      "id": "battle_enemy_break_11114_1",
+      "desc": "",
+      "dlg": "As predicted…"
+    },
+    {
+      "id": "battle_break_11114_1",
+      "desc": "",
+      "dlg": "Dammit, this pattern…"
+    },
+    {
+      "id": "battle_kill_11114_1",
+      "desc": "",
+      "dlg": "Enemy unit neutralized…\nKill confirmed."
+    },
+    {
+      "id": "battle_dead_11114_1",
+      "desc": "",
+      "dlg": "This is… *sigh* Disregard. All units, continue to… engage…"
+    },
+    {
+      "id": "battle_s3_11114_1_1-01-1",
+      "desc": "",
+      "dlg": "Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4",
+      "desc": "",
+      "dlg": "Stop their advance. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-01",
+      "desc": "3스",
+      "dlg": "Stop their advance."
+    },
+    {
+      "id": "battle_s3_11114_1_4-02",
+      "desc": "탄 3스",
+      "dlg": "Stop their advance. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-03",
+      "desc": "탄 3스",
+      "dlg": "Stop their advance. Fire!"
+    },
+    {
+      "id": "battle_special_11114_1",
+      "desc": "",
+      "dlg": "Weak-side reinforcement complete!"
+    },
+    {
+      "id": "battle_special_11114_2",
+      "desc": "",
+      "dlg": "Tactical vision deployed! Through Udjat’s eyes…"
+    },
+    {
+      "id": "battle_special_11114_3",
+      "desc": "",
+      "dlg": "Successfully suppressed."
+    },
+    {
+      "id": "battle_special_11114_4",
+      "desc": "",
+      "dlg": "Reloading."
+    },
+
+    {
+      "id": "battle_select_10214_1",
+      "desc": "############## Index Proselyte Faust #############",
+      "dlg": "To converse is not a violation of the Prescript."
+    },
+    {
+      "id": "battle_endcommand_10214_1",
+      "desc": "",
+      "dlg": "As the Prescript commands—my blade strikes."
+    },
+    {
+      "id": "battle_enemy_break_10214_1",
+      "desc": "",
+      "dlg": "Please hold. You are to be cleaved five more times."
+    },
+    {
+      "id": "battle_break_10214_1",
+      "desc": "흐트러질 시 대사",
+      "dlg": "Nngh…"
+    },
+    {
+      "id": "battle_kill_10214_1",
+      "desc": "",
+      "dlg": "It is done."
+    },
+    {
+      "id": "battle_dead_10214_1",
+      "desc": "",
+      "dlg": "Did the Prescript… point toward death…? If not… whose will… could this be…?"
+    },
+    {
+      "id": "battle_s3_10214_1_4",
+      "desc": "",
+      "dlg": "Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-01",
+      "desc": "",
+      "dlg": "Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-02",
+      "desc": "",
+      "dlg": "Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-03",
+      "desc": "",
+      "dlg": "Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-04",
+      "desc": "",
+      "dlg": "Fulfilled."
+    },
+    {
+      "id": "battle_special_10214_1",
+      "desc": "",
+      "dlg": "I act according to the Prescript."
+    },
+    {
+      "id": "battle_special_10214_2",
+      "desc": "",
+      "dlg": "Even without seeing it directly… I can feel it."
+    },
+    {
+      "id": "battle_special_10214_3",
+      "desc": "",
+      "dlg": "Whether I die or live, it is the Will of the Prescript. I do not fear it."
+    },
+    {
+      "id": "battle_special_10214_4",
+      "desc": "",
+      "dlg": "By the Will of the Prescript."
+    },
+    {
+      "id": "battle_special_10214_5",
+      "desc": "",
+      "dlg": "It is the Will of the Prescript… I have no regrets."
+    }
   ]
 }
