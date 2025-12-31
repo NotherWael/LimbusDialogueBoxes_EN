@@ -7886,24 +7886,9 @@
       "dlg": "Fire!"
     },
     {
-      "id": "battle_s3_11114_1_4",
-      "desc": "",
-      "dlg": "Stop their advance. Fire!"
-    },
-    {
       "id": "battle_s3_11114_1_4-01",
       "desc": "3스",
       "dlg": "Stop their advance."
-    },
-    {
-      "id": "battle_s3_11114_1_4-02",
-      "desc": "탄 3스",
-      "dlg": "Stop their advance. Fire!"
-    },
-    {
-      "id": "battle_s3_11114_1_4-03",
-      "desc": "탄 3스",
-      "dlg": "Stop their advance. Fire!"
     },
     {
       "id": "battle_special_11114_1",
@@ -7943,7 +7928,7 @@
     },
     {
       "id": "battle_break_10214_1",
-      "desc": "흐트러질 시 대사",
+      "desc": "",
       "dlg": "Nngh…"
     },
     {
@@ -7989,7 +7974,7 @@
     {
       "id": "battle_special_10214_2",
       "desc": "",
-      "dlg": "Even without seeing it directly… I can feel it."
+      "dlg": "Even without seeing it directly… I can still feel it."
     },
     {
       "id": "battle_special_10214_3",
@@ -7999,12 +7984,12 @@
     {
       "id": "battle_special_10214_4",
       "desc": "",
-      "dlg": "By the Will of the Prescript."
+      "dlg": "As the Prescript orders."
     },
     {
       "id": "battle_special_10214_5",
       "desc": "",
-      "dlg": "It is the Will of the Prescript… I have no regrets."
+      "dlg": "It is the Will of the Prescript… There will be no regrets."
     }
   ]
 }
