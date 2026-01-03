@@ -1025,6 +1025,11 @@
       "desc": "1Might actually be this ID",
       "dlg": "Demonstration complete."
     },
+	{
+      "id": "9SV-BAT7-00-02",
+      "desc": "1UnknownVL-Stilllooking",
+      "dlg": "Observe the angle, speed, and the precise arc with which I swing the sword. Let it jog your memories."
+    },
 
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
@@ -7893,17 +7898,17 @@
     {
       "id": "battle_s3_11114_1_4-01",
       "desc": "3스",
-      "dlg": "Stop their advance."
+      "dlg": "Stop their advance..."
     },
     {
       "id": "battle_special_11114_1",
       "desc": "",
-      "dlg": "Weak-side reinforcement complete!"
+      "dlg": "Reinforcement complete!"
     },
     {
       "id": "battle_special_11114_2",
       "desc": "",
-      "dlg": "Tactical vision deployed! Through Udjat’s eyes…"
+      "dlg": "Tactical vision deployed! Through The Eye of Udjat…"
     },
     {
       "id": "battle_special_11114_3",
@@ -7994,7 +7999,7 @@
     {
       "id": "battle_special_10214_5",
       "desc": "",
-      "dlg": "It is the Will of the Prescript… There will be no regrets."
+      "dlg": "It is the Will of the Prescript… I will not have any regrets."
     }
   ]
 }
