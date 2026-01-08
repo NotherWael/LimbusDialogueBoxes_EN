@@ -1007,7 +1007,7 @@
 	  
     {
       "id": "9SV-BAT7-00-04",
-      "desc": "####### The Thumb Nursefather(mother?) Apperentice missing lines #############",
+      "desc": "####### The Thumb Nursefather Apperentice Lucio missing lines #############",
       "dlg": "Witness a demonstration of the Palermitan dismantling technique. Sezionatura di Cervo."
     },
 	{
@@ -1030,7 +1030,30 @@
       "desc": "1UnknownVL-Stilllooking",
       "dlg": "Observe the angle, speed, and the precise arc with which I swing the sword. Let it jog your memories."
     },
-
+	
+	{
+      "id": "9SV-BAT18-BR3-3",
+      "desc": "####### The Index Apperentice Sora missing lines #############",
+      "dlg": "O-over here!"
+    },
+	{
+      "id": "9SV-BAT18-BR3-3-01",
+      "desc": "",
+      "dlg": "O-over here."
+    },
+	
+	
+	{
+      "id": "9SV-BAT1-04_2",
+      "desc": "####### The Yellow Harpoon Vespa missing lines #############",
+      "dlg": "Gungnir."
+    },
+	{
+      "id": "9SV-BAT1-06_2",
+      "desc": "",
+      "dlg": "Return to me."
+    },
+	
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
     },
@@ -8000,6 +8023,78 @@
       "id": "battle_special_10214_5",
       "desc": "",
       "dlg": "It is the Will of the Prescript… I will not have any regrets."
+    },
+	
+	
+	{
+      "id": "battle_select_10314_1",
+      "desc": "Viewed in Battle ######## Index EGO Don Quixote ########",
+      "dlg": "Prithee, hold awhile. Prescripts delivered by the Great Magicked Beeper are, in sooth, o-obscure to decipher..."
+    },
+    {
+      "id": "battle_endcommand_10314_1",
+      "desc": "Commencing Attack",
+      "dlg": "Render it unforeseeable."
+    },
+    {
+      "id": "battle_enemy_break_10314_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Thou art shaken."
+    },
+    {
+      "id": "battle_break_10314_1",
+      "desc": "Staggered",
+      "dlg": "Guuh... Th-that paineth me sore..."
+    },
+    {
+      "id": "battle_kill_10314_1",
+      "desc": "Enemy Killed",
+      "dlg": "'Tis a fate long prescribed."
+    },
+    {
+      "id": "battle_dead_10314_1",
+      "desc": "Death",
+      "dlg": "... Prithee... t-tell him... I have... done my utmost..."
+    },
+	{
+      "id": "battle_s3_10314_1_4",
+      "desc": "",
+      "dlg": "Thou wert not kind."
+    },
+	{
+      "id": "battle_special_10314_1",
+      "desc": "",
+      "dlg": "The Prescript knows naught of uncertainty."
+    },
+	{
+      "id": "battle_special_10314_2",
+      "desc": "",
+      "dlg": "Preordained. Absolute."
+    },
+	{
+      "id": "battle_special_10314_3",
+      "desc": "",
+      "dlg": "Decide. Unlock. Transcend."
+    },
+	{
+      "id": "battle_special_10314_4",
+      "desc": "",
+      "dlg": "Regard the future as thou wouldst regard the past."
+    },
+	{
+      "id": "battle_special_10314_5",
+      "desc": "",
+      "dlg": "That will… shall be unlocked!"
+    },
+	{
+      "id": "battle_special_10314_6",
+      "desc": "",
+      "dlg": "Execution complete."
+    },
+	{
+      "id": "battle_special_10314_7",
+      "desc": "",
+      "dlg": "'Tis death most fateful."
     }
   ]
 }

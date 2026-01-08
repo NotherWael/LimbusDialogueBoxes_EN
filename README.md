@@ -1,5 +1,4 @@
-# HAPPY NEW YEAR!!!!
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.94.0, Canto 9 Release, Thumb Apperentice Boss Missing S3 Line Added, Udjat Vanguard Outis & Index Faust Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.95.0, Canto 9 Part 2 Release, S's Missing S3 Line Added (PM forgot), V's Missing S3 Line Added (PM forgot again), The Index @#$#:【Device】Don Quixote Added!
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
