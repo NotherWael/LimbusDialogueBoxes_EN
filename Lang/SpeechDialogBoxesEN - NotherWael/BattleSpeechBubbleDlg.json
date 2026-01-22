@@ -1055,6 +1055,32 @@
     },
 	
 	{
+      "id": "9SV-BAT8-BR4-1",
+      "desc": "####### Thumb Nursefather Valencina #############",
+      "dlg": "Fuck off!"
+    },
+	{
+      "id": "9SV-BAT8-BR4-1-01",
+      "desc": "",
+      "dlg": "Fuck off!"
+    },
+	{
+      "id": "9SV-BAT8-BR4-1-02",
+      "desc": "",
+      "dlg": "Fuck off!"
+    },
+	{
+      "id": "9SV-BAT8-BR4-1-03",
+      "desc": "",
+      "dlg": "Fuck off!"
+    },
+	{
+      "id": "9SV-BAT8-BR4-1-04",
+      "desc": "",
+      "dlg": "Fuck off!"
+    },
+	
+	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
     },
 	
@@ -8095,6 +8121,76 @@
       "id": "battle_special_10314_7",
       "desc": "",
       "dlg": "'Tis death most fateful."
-    }
+    },
+	{
+		"id": "battle_select_10814_1",
+		"desc": "Viewed in Battle ####### House of Spiders Middle Apperentice Ishmael #######",
+		"dlg": "Didya see that move just now? That detail, man, that was just insane...\nIs this the way to move? Or—nah, like <i>this</i>?"
+	},
+	{
+		"id": "battle_endcommand_10814_1",
+		"desc": "Commencing Attack",
+		"dlg": "This is gonna be so dope!"
+	},
+	{
+		"id": "battle_enemy_break_10814_1",
+		"desc": "Enemy Stagger",
+		"dlg": "Teehee. You malding, bro? Whatchagonna do about it?"
+	},
+	{
+		"id": "battle_break_10814_1",
+		"desc": "Staggered",
+		"dlg": "Argh!"
+	},
+	{
+		"id": "battle_kill_10814_1",
+		"desc": "Enemy Killed",
+		"dlg": "Hah! In your dreams, dumbass~"
+	},
+	{
+		"id": "battle_dead_10814_1",
+		"desc": "Death",
+		"dlg": "Ma... ma..."
+	},
+	{
+        "id": "battle_s3_10814_1_1",
+        "desc": "",
+        "dlg": "This is the best angle for an ult, right?"
+    },
+	{
+		"id": "battle_s3_10814_1_2",
+		"desc": "",
+		"dlg": "Take my ultimate move! Violet~ Breaking Slam!!!"
+	},
+	{
+		"id": "battle_s3_10814_1_3",
+		"desc": "",
+		"dlg": "Agh! I guess it wasn't... Whatever Slam!"
+	},
+	{
+		"id": "battle_special_10814_1",
+		"desc": "",
+		"dlg": "From where you're staring... I know mama's pretty cool..."
+	},
+	{
+		"id": "battle_special_10814_2",
+		"desc": "",
+		"dlg": "It's not as good as mama's... but I can also slice and sizzle at the same time, y'know?"
+	},
+	{
+		"id": "battle_special_10814_3",
+		"desc": "",
+		"dlg": "Rage gauge… max."
+	},
+	{
+		"id": "battle_special_10814_4",
+		"desc": "",
+		"dlg": "Oh? Stayed in the House of Spiders today, huh? So... have you seen the 'The Cloudburst Blade' I told you about? Ah, w-wait! don't run away!"
+	},
+	{
+		"id": "battle_special_10814_5",
+		"desc": "",
+		"dlg": "As expected, mama's the best~!"
+	}
   ]
 }
