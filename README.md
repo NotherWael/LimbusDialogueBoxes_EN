@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.95.0, Canto 9 Part 2 Release, S's Missing S3 Line Added (PM forgot), V's Missing S3 Line Added (PM forgot again), The Index Proxy - Effloresced E.G.O::Procuration Don Quixote Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.97.0, Added Valen's Missing S3 Line Added (PM forgot), The House of Spiders: The Middle Apprentice Ishmael Added!
 
 This mod adds speech bubbles for all characters with battle voicelines!
 (Including Untranslated Lines!)
