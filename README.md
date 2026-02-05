@@ -83,7 +83,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - Speech bubbles stay longer than they have to blocking visibility on skills during combat.
 - ~~Speech bubbles can end early because of the previous speech bubble before it.~~
-- **As of 5th of Feb 2026, PM Has Made Speech Bubbles more dynamic where it finishes much faster as soon as the voiceline ends which can make slow readers miss out on some words on voicelines with long text but short spoken korean, and on mulitple voicelines it slowly transitions to the next Speech Bubble which causes about 0.7 second delay to see what the text is as the voiceline plays.**
+- **As of 5th of Feb 2026, PM Has Made Speech Bubbles more dynamic where it finishes much faster as soon as the voiceline ends which can make slow readers miss out on some words on voicelines with long text but short spoken korean, and on mulitple voicelines it slowly transitions to the next Speech Bubble which causes about 0.7 second delay to see what the text is as the voiceline plays. (It also happens when the Speech Bubble first appears i think)**
 - Retreating IDs VLs move their Speech bubbles to the Substituted ID.
 
 ## Known Voicelines That Do Not Work
