@@ -1,7 +1,7 @@
 # Regarding Youtube Channel
 ## Hey everyone, just letting you know that I won't be able to upload videos for while, Life's gotten pretty busy...
 
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.98.0, PM has Updated how Speech Bubbles Work, Added LCE EGO Lamp Gregor & The Pinky Apprentice Sinclair!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.98.0, PM has Updated how Speech Bubbles Work, Added Lobotomy E.G.O Lamp Gregor & The Pinky Apprentice Sinclair!
 
 ### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
 
