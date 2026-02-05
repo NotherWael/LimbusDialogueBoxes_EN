@@ -8191,6 +8191,146 @@
 		"id": "battle_special_10814_5",
 		"desc": "",
 		"dlg": "As expected, mama's the best~!"
-	}
+	},
+	{
+		"id": "battle_select_11214_1",
+		"desc": "########## Lamp EGO Gregor ############",
+		"dlg": "Sadly, only the dead live in my forest. Now, the only thing I can do… is kill the beast."
+	},
+	{
+		"id": "battle_endcommand_11214_1",
+		"desc": "",
+		"dlg": "Boosting E.G.O Attunement…"
+	},
+	{
+		"id": "battle_enemy_break_11214_1",
+		"desc": "",
+		"dlg": "Sit still."
+	},
+	{
+		"id": "battle_break_11214_1",
+		"desc": "",
+		"dlg": "Oh…"
+	},
+	{
+		"id": "battle_kill_11214_1",
+		"desc": "",
+		"dlg": "I'm here to save you."
+	},
+	{
+		"id": "battle_dead_11214_1",
+		"desc": "",
+		"dlg": "So… this is how it ends, huh…"
+	},
+	{
+		"id": "battle_s3_11214_1_5",
+		"desc": "",
+		"dlg": "Let's brighten the road ahead, so I can have a good view of the lives I must save."
+	},
+	{
+		"id": "battle_s3_11214_1_6",
+		"desc": "",
+		"dlg": "I see it clearly now… who it is I must save!"
+	},
+	{
+		"id": "battle_special_11214_1",
+		"desc": "",
+		"dlg": "Come this way… I’ll make sure to keep you safe."
+	},
+    {
+      "id": "battle_select_11015_1",
+      "desc": "########## The Pinky Apperentice Sinclair ############",
+      "dlg": "A single straight stroke to fell them all…!"
+    },
+    {
+      "id": "battle_endcommand_11015_1",
+      "desc": "",
+      "dlg": "Permit me to demonstrate."
+    },
+    {
+      "id": "battle_enemy_break_11015_1",
+      "desc": "",
+      "dlg": "One mustn't submit so easily."
+    },
+    {
+      "id": "battle_break_11015_1",
+      "desc": "",
+      "dlg": "Hngh…!"
+    },
+    {
+      "id": "battle_kill_11015_1",
+      "desc": "",
+      "dlg": "Another step closer to that singular Way of the Blade."
+    },
+    {
+      "id": "battle_dead_11015_1",
+      "desc": "본인 사망",
+      "dlg": "A life so fleeting, a death meant to be… But this failure to inherit the name of a Star… is my woeful regret."
+    },
+    {
+      "id": "battle_s2_11015_1_4",
+      "desc": "",
+      "dlg": "To attain that Way of the Blade…"
+    },
+    {
+      "id": "battle_s2_11015_1_4-01",
+      "desc": "",
+      "dlg": "To attain that Way of the Blade…"
+    },
+    {
+      "id": "battle_s2_11015_1_4-02",
+      "desc": "",
+      "dlg": "To attain that Way of the Blade…"
+    },
+    {
+      "id": "battle_s2_11015_1_6",
+      "desc": "",
+      "dlg": "Second Slash."
+    },
+    {
+      "id": "battle_s2_11015_1_6-01",
+      "desc": "",
+      "dlg": "Second Slash."
+    },
+    {
+      "id": "battle_s2_11015_1_6-02",
+      "desc": "",
+      "dlg": "Second Slash."
+    },
+    {
+      "id": "battle_s2_11015_1_7",
+      "desc": "",
+      "dlg": "Third Decisive Slash."
+    },
+    {
+      "id": "battle_s2_11015_1_7-01",
+      "desc": "",
+      "dlg": "Third Decisive Slash."
+    },
+    {
+      "id": "battle_s2_11015_1_7-02",
+      "desc": "",
+      "dlg": "Third Decisive Slash."
+    },
+    {
+      "id": "battle_s3_11015_1_5",
+      "desc": "",
+      "dlg": "Hush all sound and one’s breath…"
+    },
+    {
+      "id": "battle_s3_11015_1_6",
+      "desc": "",	
+      "dlg": "Cleave through the fleeting opening in an instant…"
+    },
+    {
+      "id": "battle_s3_11015_1_7",
+      "desc": "",
+      "dlg": "In an instant, witness as the sword cleaves and falls."
+    },
+    {
+      "id": "battle_s3_11015_1_8",
+      "desc": "",
+      "dlg": "At last, the moon has risen to full."
+    }
   ]
 }
