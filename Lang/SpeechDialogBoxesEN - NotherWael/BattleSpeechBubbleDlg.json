@@ -8331,6 +8331,142 @@
       "id": "battle_s3_11015_1_8",
       "desc": "",
       "dlg": "At last, the moon has risen to full."
+    },
+	
+	{
+		"id": "battle_select_10115_1",
+		"desc": "############# House of Spiders Index Nuresfather Yi Sang #################",
+		"dlg": "It would seem... that I am \"frozen\" still."
+	},
+	{
+		"id": "battle_endcommand_10115_1",
+		"desc": "",
+		"dlg": "How far, I wonder, are you resolved to go?"
+	},
+	{
+		"id": "battle_enemy_break_10115_1",
+		"desc": "",
+		"dlg": "That glimmer of sorrow in your eyes... makes quite a fine sight."
+	},
+	{
+		"id": "battle_break_10115_1",
+		"desc": "",
+		"dlg": "Haha."
+	},
+	{
+		"id": "battle_kill_10115_1",
+		"desc": "",
+		"dlg": "Because a brief sting... paid a visit to my heart."
+	},
+	{
+		"id": "battle_dead_10115_1",
+		"desc": "",
+		"dlg": "... How... lonely."
+	},
+	{
+        "id": "battle_s3_10115_1_6",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*beep*</color></i> Hah... the waves are rolling in."
+	},
+    {
+        "id": "battle_special_10115_1",
+        "desc": "",
+        "dlg": "One."
+    },
+    {
+        "id": "battle_special_10115_2",
+        "desc": "",
+        "dlg": "Two."
+    },
+    {
+        "id": "battle_special_10115_3",
+        "desc": "",
+        "dlg": "Third."
+    },
+    {
+        "id": "battle_special_10115_4",
+        "desc": "",
+        "dlg": "Four."
+    },
+    {
+        "id": "battle_special_10115_5",
+        "desc": "",
+        "dlg": "Five."
+    },
+    {
+        "id": "battle_special_10115_6",
+        "desc": "",
+        "dlg": "Sixth."
+    },
+    {
+        "id": "battle_special_10115_7",
+        "desc": "",
+        "dlg": "Seven. Two to go."
+    },
+    {
+        "id": "battle_special_10115_8",
+        "desc": "",
+        "dlg": "Eight. One left."
+    },
+    {
+        "id": "battle_special_10115_9",
+        "desc": "",
+        "dlg": "Ninth. Executed."
+    },
+    {
+        "id": "battle_special_10115_10",
+        "desc": "",
+        "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+    },
+    {
+        "id": "battle_special_10115_11",
+        "desc": "",
+        "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+    },
+    {
+        "id": "battle_special_10115_12",
+        "desc": "",
+        "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+    },
+    {
+        "id": "battle_special_10115_13",
+        "desc": "",
+        "dlg": "Remain cheerful in your final moments. For you have been chosen."
+    },
+    {
+        "id": "battle_special_10115_14-1",
+        "desc": "",
+        "dlg": "Hah… I hope my darling daughter, too, remembers this wound."
+    },
+    {
+        "id": "battle_special_10115_14-2",
+        "desc": "",
+        "dlg": "Ha… I wonder if my darling daughter would remember this wound…"
+    },
+    {
+        "id": "battle_special_10115_15-1",
+        "desc": "",
+        "dlg": "I shall replicate a passionate heart."
+    },
+    {
+        "id": "battle_special_10115_15-2",
+        "desc": "",
+        "dlg": "Replication complete."
+    },
+    {
+        "id": "battle_special_10115_16-1",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*beep*</color></i> The Will of Hermes."
+    },
+    {
+        "id": "battle_special_10115_16-2",
+        "desc": "",
+        "dlg": "Throughout with passion."
+    },
+    {
+        "id": "battle_special_10115_17",
+        "desc": "",
+        "dlg": "Ah… Don Quixote. Indeed, if you complete this battle well… I shall praise you."
     }
   ]
 }

@@ -4,7 +4,8 @@ I recommend for you to check out these youtube channels instead! (Although they 
 [Natucal](https://www.youtube.com/@natucal1)
 [Nobu](https://www.youtube.com/@Nobu123-h7h)
 
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.98.0, PM has Updated how Speech Bubbles Work, Added Lobotomy E.G.O Lamp Gregor & The Pinky Apprentice Sinclair!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.99.0, Added The House of Spiders: The Index Nursefather Yi Sang Lines!
+### (His Stagger recover voiceline is off-screen so you might not be able to read it in time... Since PM updated the speech bubbles to end quicker now.)
 
 ### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
 
