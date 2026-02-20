@@ -5248,9 +5248,9 @@
       "dlg": "Ah… I'll be… just another suitcase recovery mission, huh…"
     },
 	{
-      "id": "battle_s3_10910_1_1-01",
+      "id": "battle_s3_10910_1_1-02",
       "desc": "",
-      "dlg": "Polu, use your strength a bit!\n<i>[Output increase request confirmed.]</i>"
+      "dlg": "Polu, use your strength a bit!\n<color=#00BB77><size=70%><i>[Output increase request confirmed.]</i></size></color>"
     },
 	{
       "id": "battle_special_10910_1",
@@ -5265,7 +5265,7 @@
 	{
 	  "id": "battle_dead_10910_2",
 	  "desc": "",
-	  "dlg": "N-no, stop! I'll get moving right now, oka-\n<i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i>"
+	  "dlg": "N-no, stop! I'll get moving right now, oka-\n<color=#00BB77><size=70%><i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i></size></color>"
 	},
 	
 	
@@ -5577,7 +5577,7 @@
 	{
       "id": "battle_dead_11011_1",
       "desc": "",
-      "dlg": "Poludnitsa… help…\n<i>[Pathfinding failed. Courier absence detected. Poludnitsa, engaging Protection Mode.]</i>"
+      "dlg": "Poludnitsa… help…\n<color=#00BB77><size=70%><i>[Pathfinding failed. Courier absence detected. Poludnitsa, engaging Protection Mode.]</i></size></color>"
     },
 	{
       "id": "battle_s3_11011_1_4",
@@ -5607,7 +5607,7 @@
 	{
       "id": "battle_devai_11011_11",
       "desc": "",
-      "dlg": "<i>[Low-power R&R mode activated. Caution. Strategic R&R Mode is only provided for the day. Please proceed with the delivery immediately.]</i>"
+      "dlg": "<color=#00BB77><i>[Low-power R&R mode activated. Caution. Strategic R&R Mode is only provided for the day. Please proceed with the delivery immediately.]</i></color>"
     },
 	{
       "id": "",
@@ -5637,7 +5637,7 @@
 	{
       "id": "battle_dead_11011_2",
       "desc": "",
-      "dlg": "N-no! Please, please give me another chance! I've never been late bef—\n<i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i>"
+      "dlg": "N-no! Please, please give me another chance! I've never been late bef—\n<color=#00BB77><size=70%><i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i></size></color>"
     },
 	
 	{
