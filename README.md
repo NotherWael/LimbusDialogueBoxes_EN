@@ -1,5 +1,5 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.99.0, Added The House of Spiders: The Index Nursefather Yi Sang Lines!
-### (His Stagger recover voiceline is off-screen so you might not be able to read it in time... Since PM updated the speech bubbles to end quicker now.)
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, Walpurgis 9th Event, Added Hornet E.G.O Meursualt & Faint Aroma & Solitude E.G.O Ryoshu 
+### Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 4 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...
 
 # Regarding Youtube Channel
 ## Hey everyone, just letting you know that I won't be able to upload videos for while, Life's gotten pretty busy...
