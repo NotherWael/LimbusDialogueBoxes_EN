@@ -8546,12 +8546,12 @@
   {
     "id": "battle_special_10514_6-4",
     "desc": "",
-    "dlg": "Buckshot, Field test successful..."
+    "dlg": "Buckshot, Field test successful."
   },
   {
     "id": "battle_special_10514_6-5",
     "desc": "",
-    "dlg": "Buckshot, Field test successful."
+    "dlg": "Incendiary rounds, Field test successful."
   },
   {
     "id": "battle_special_10514_7",
@@ -8599,7 +8599,7 @@
   {
     "id": "battle_special_10414_1-1",
     "desc": "",
-    "dlg": "Rapid fire."
+    "dlg": "Rapid fire!"
   },
   {
     "id": "battle_special_10414_1-1-01",
@@ -8609,12 +8609,12 @@
   {
     "id": "battle_special_10414_1-2",
     "desc": "",
-    "dlg": "Rapid fire."
+    "dlg": "Fanning!"
   },
   {
     "id": "battle_special_10414_1-2-01",
     "desc": "",
-    "dlg": "Rapid fire."
+    "dlg": "Fanning."
   },
   {
     "id": "battle_special_10414_1-3",
