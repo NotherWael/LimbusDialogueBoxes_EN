@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, Walpurgis 9th Event, Added Hornet E.G.O Meursault & Faint Aroma & Solitude E.G.O Ryoshu 
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, The Walpurgis 8th Event, Added Hornet E.G.O Meursault & Faint Aroma (Currently Bugged) & Solitude E.G.O Ryoshu
 ### Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 4 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...
 
 # Regarding Youtube Channel
