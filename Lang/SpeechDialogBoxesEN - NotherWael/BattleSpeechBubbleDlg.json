@@ -8546,17 +8546,17 @@
   {
     "id": "battle_special_10514_6-4",
     "desc": "",
-    "dlg": "Buckshot, Field test successful."
+    "dlg": "Buckshot ammo, Field test successful."
   },
   {
     "id": "battle_special_10514_6-5",
     "desc": "",
-    "dlg": "Incendiary rounds, Field test successful."
+    "dlg": "Incendiary ammo, Field test successful."
   },
   {
     "id": "battle_special_10514_7",
     "desc": "",
-    "dlg": "... Spare ammo recovered."
+    "dlg": "Hm, spare ammo recovered."
   },
   {
     
@@ -8639,7 +8639,7 @@
   {
     "id": "battle_special_10414_4",
     "desc": "",
-    "dlg": "Go back to the grave with all that desires to live."
+    "dlg": "Go back to the grave... with all that desires to live."
   }
   ]
 }
