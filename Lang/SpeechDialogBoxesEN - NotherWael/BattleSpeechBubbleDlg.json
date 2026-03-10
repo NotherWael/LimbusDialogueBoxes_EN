@@ -6247,7 +6247,7 @@
 	{
       "id": "battle_s3_11211_1_3-02",
       "desc": "",
-      "dlg": "<i>AAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>HYAAAAAAAAAAAAAAAAAAH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-05",
@@ -6257,7 +6257,7 @@
 	{
       "id": "battle_s3_11211_1_3",
       "desc": "",
-      "dlg": "<i>HAAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>RAAAAAAAAAAAAGGGGHHHH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-03",
@@ -6267,7 +6267,7 @@
 	{
       "id": "battle_s3_11211_1_3-01",
       "desc": "",
-      "dlg": "<i>YAAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>YRRAAAAAAAAAAAAAAAGH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-04",
@@ -8558,9 +8558,7 @@
     "desc": "",
     "dlg": "Hm, spare ammo recovered."
   },
-  {
-    
-  },
+
   {
     "id": "battle_select_10414_1",
     "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
