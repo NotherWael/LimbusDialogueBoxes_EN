@@ -1081,6 +1081,22 @@
     },
 	
 	{
+      "id": "9SV-BAT14-03-2",
+      "desc": "##################### Shiomi Yoru S3 Voiceline Bubble Fix ###################",
+      "dlg": "Mang of Resentment (怨望), Mang of Futility (非望), Mang of Dismay (落望)."
+    },
+	{
+      "id": "9SV-BAT14-03-1",
+      "desc": "",
+      "dlg": "What is left to rage on..."
+    },
+	{
+      "id": "9SV-BAT14-03-3",
+      "desc": "",
+      "dlg": "... is only my wretched heart."
+    },
+	
+	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
     },
 	
