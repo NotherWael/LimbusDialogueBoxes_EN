@@ -3,7 +3,7 @@
 
 # About the Façade Projection (Skin System)
 ## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
-Example:
+
 https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 
 
