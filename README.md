@@ -2,7 +2,8 @@
 ### ~~Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...~~ Hornet Meursault Lines are now Fixed! and they are going to fix FA&S Ryoshu lines next!
 
 # About the Façade Projection (Skin System)
-## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. Example:
+## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
+Example:
 https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 
 
