@@ -8106,7 +8106,12 @@
 	{
       "id": "battle_special_10314_2",
       "desc": "",
-      "dlg": "Preordained! Absolute."
+      "dlg": "Preordained!"
+    },
+	{
+      "id": "battle_special_10314_2-01",
+      "desc": "",
+      "dlg": "Absolute."
     },
 	{
       "id": "battle_special_10314_3",
