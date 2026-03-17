@@ -8096,7 +8096,7 @@
 	{
       "id": "battle_s3_10314_1_4",
       "desc": "",
-      "dlg": "Thou wert not kind."
+      "dlg": "<i><color=#50acff>*beep*</color></i> Thou wert not kind."
     },
 	{
       "id": "battle_special_10314_1",
