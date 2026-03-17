@@ -1,9 +1,8 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.100.0, The Walpurgis 8th Event, Added Hornet E.G.O Meursault & Faint Aroma & Solitude E.G.O Ryoshu
-### Meursault Untranslated battle ~~Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...~~
-Hornet Meursault Lines are now Fixed! and they are going to fix FA&S Ryoshu lines next!
+### ~~Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...~~ Hornet Meursault Lines are now Fixed! and they are going to fix FA&S Ryoshu lines next!
 
 # About the Façade Projection (Skin System)
-## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble.
+## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. Example: https://github.com/user-attachments/assets/0bd201b6-a490-4688-a69c-95aa905f579d
 
 # Regarding Youtube Channel
 ## Videos soon hopefully.
