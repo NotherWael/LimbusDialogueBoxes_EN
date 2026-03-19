@@ -1,4 +1,11 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
+## Changelog:
+- Added LCE E.G.O::AEDD Gregor.
+- FA&S Ryoshu Voicelines got fixed so she has some new lines now!
+- Fixed Index DonQ S3-1 Line.
+- Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
+- Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
+
 
 # About the Façade Projection (Skin System)
 ## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
