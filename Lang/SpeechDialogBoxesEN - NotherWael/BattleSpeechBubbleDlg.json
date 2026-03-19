@@ -961,6 +961,22 @@
       "dlg": "Your neck, at least... will be cut easily."
     },
 	
+	{
+      "id": "6SV-016_1",
+      "desc": "############ Bloodfiend Sasha ############",
+      "dlg": "Curses!"
+    },
+	{
+      "id": "6SV-016_1-01",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "Curses!"
+    },
+	{
+      "id": "6SV-016_1-02",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "Curses!"
+    },
+	
 	{	
       "id": "special_vergil_bufftarget_atk",
       "desc": "############ Kkomi and Vergilius? - I'll do the AF sinners if they add them back ############",
@@ -6407,10 +6423,6 @@
     },
 	
 	
-	
-	
-	
-	
 	{
       "id": "battle_select_10612_1",
       "desc": "############ R Corp Hong Lu Start ############",
@@ -7630,27 +7642,22 @@
         "desc": "",
         "dlg": "Ameshikō!"
     },
-	{
+	  {
         "id": "battle_special_10813_4",
         "desc": "",
-        "dlg": "Crane."
+        "dlg": "Crane, Blossom."
     },
-	{
-        "id": "battle_special_10813_5",
-        "desc": "",
-        "dlg": "Blossom."
-    },
-	{
+	  {
         "id": "battle_special_10813_6",
         "desc": "",
         "dlg": "Moon and Rain..."
     },
-	{
+	  {
         "id": "battle_special_10813_7",
         "desc": "",
         "dlg": "Gōkō!"
     },
-	{
+	  {
         "id": "battle_select_11213_1",
         "desc": "###### NightAwl Capitano Gregor ######",
         "dlg": "Stay sharp and focus on the fight if you don't want to snuff it."
@@ -8654,6 +8661,66 @@
     "id": "battle_special_10414_4",
     "desc": "",
     "dlg": "Go back to the grave... with all that desires to live."
+  },
+  {
+    "id": "battle_select_11215_1",
+    "desc": "",
+    "dlg": "Experiment is underway. Do practice caution when controlling the variables."
+  },
+  {
+    "id": "battle_endcommand_11215_1",
+    "desc": "",
+    "dlg": "Let us run a test and trial."
+  },
+  {
+    "id": "battle_enemy_break_11215_1",
+    "desc": "",
+    "dlg": "Admirable effort. However..."
+  },
+  {
+    "id": "battle_break_11215_1",
+    "desc": "",
+    "dlg": "Ngh... Hah."
+  },
+  {
+    "id": "battle_kill_11215_1",
+    "desc": "",
+    "dlg": "... Nothing too remarkable."
+  },
+  {
+    "id": "battle_dead_11215_1",
+    "desc": "",
+    "dlg": "Well... I don't suppose I was all that exceptional either..."
+  },
+  {
+    "id": "battle_s3_11215_1_3",
+    "desc": "",
+    "dlg": "Standard-duty battery, temporary discharge!"
+  },
+  {
+    "id": "battle_special_11215_1",
+    "desc": "",
+    "dlg": "Changing output mode!"
+  },
+  {
+    "id": "battle_special_11215_1-01",
+    "desc": "",
+    "dlg": "Whew… it’s been nicely fried."
+  },
+  {
+    "id": "battle_special_11215_2",
+    "desc": "",
+    "dlg": "I'll provide you support."
+  },
+  {
+    "id": "battle_special_11215_3",
+    "desc": "",
+    "dlg": "Transfer sequence activated."
+  },
+  {
+    "id": "battle_special_11215_4",
+    "desc": "",
+    "dlg": "Self-charge, activate."
   }
   ]
 }
