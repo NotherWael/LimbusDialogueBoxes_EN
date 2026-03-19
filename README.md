@@ -4,7 +4,7 @@
 - Fixed Index DonQ S3-1 Line.
 - Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
 - Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
-
+- Translation fixes...
 
 # About the Façade Projection (Skin System)
 ## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
