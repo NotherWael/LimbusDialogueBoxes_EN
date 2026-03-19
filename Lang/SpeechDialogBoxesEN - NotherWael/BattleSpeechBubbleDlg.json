@@ -8175,11 +8175,26 @@
 		"desc": "Death",
 		"dlg": "Ma... ma..."
 	},
+  {
+      "id": "battle_s2_10814_1_1-02",
+      "desc": "",
+      "dlg": "One."
+  },
+  {
+      "id": "battle_s2_10814_1_2-02",
+      "desc": "",
+      "dlg": "Two."
+  },
+  {
+      "id": "battle_s2_10814_1_3",
+      "desc": "",
+      "dlg": "Three!"
+  },
 	{
-        "id": "battle_s3_10814_1_1",
-        "desc": "",
-        "dlg": "This is the best angle for an ult, right?"
-    },
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "This is the best angle for an ult, right?"
+  },
 	{
 		"id": "battle_s3_10814_1_2",
 		"desc": "",
@@ -8664,7 +8679,7 @@
   },
   {
     "id": "battle_select_11215_1",
-    "desc": "",
+    "desc": "################# LCE AEDD Gregor ###############",
     "dlg": "Experiment is underway. Do practice caution when controlling the variables."
   },
   {
