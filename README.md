@@ -1,5 +1,4 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
-## Changelog:
 - Added LCE E.G.O::AEDD Gregor.
 - FA&S Ryoshu Voicelines got fixed so she has some new lines now!
 - Fixed Index DonQ S3-1 Line.
