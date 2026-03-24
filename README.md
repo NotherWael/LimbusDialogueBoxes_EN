@@ -29,14 +29,16 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
-## Installation - PC
-### New Installer Method
+# Installation - PC
+## Using the Installer:
 Report any issues when using this installer since this is the first version!
-1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
-2. if the Game folder path directory is correct, Click on [Install / Update Mod] (It should alert you if it isn't)
-3. You can also use this installer to check for updates and easily update to latest!
-___
-### Original Method
+1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe) and open it,
+2. It should check if the game folder location is correct, if it isn't, It will alert you to redirect it to where your game folder directory is and select `LimbusCompany_Data` folder.
+3. Click on [Install / Update Mod]
+4. The mod should now be installed and Updated to Latest!
+5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+6. Don't forget the Launch Setup below.
+## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
@@ -44,17 +46,16 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
       <img src="Screenshot/datass.png" alt="datass"/>
 
-5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
+4. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
-
-5. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
-   - If it’s already selected, you can skip this step.
-   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
-6. Enjoy the mod!
-
 - To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
   (This will remove your custom fonts, so add them back)
 - To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
+## Launch Setup:
+1. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
+   - If it’s already selected, you can skip this step.
+   <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
+2. Enjoy the mod!
 
 ## Installation - Mobile (ANDROID ONLY)
 ### Note: This method directly replaces the speech bubble localization file, and is not a custom language mod since it's not implemented on mobile, Do it on your own risk!
