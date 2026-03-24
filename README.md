@@ -29,6 +29,12 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 ## Installation - PC
+### New Installer Method
+Report any issues when using this installer since this is the first version!
+1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
+2. if the Game folder path directory is correct, Click on [Install / Update Mod] (It should alert you if it isn't)
+3. You can also use this installer to check for updates and easily update to latest!
+### Original Method
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
