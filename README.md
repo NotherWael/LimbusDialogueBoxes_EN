@@ -1,5 +1,5 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
-- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version.
+- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
 - Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
 - Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
 - Added LCE E.G.O::AEDD Gregor.
@@ -31,11 +31,13 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 ## Installation - PC
 ### New Installer Method
+___
 Report any issues when using this installer since this is the first version!
 1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe)
 2. if the Game folder path directory is correct, Click on [Install / Update Mod] (It should alert you if it isn't)
 3. You can also use this installer to check for updates and easily update to latest!
 ### Original Method
+___
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
