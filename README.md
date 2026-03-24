@@ -1,4 +1,5 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
+- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version.
 - Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
 - Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
 - Added LCE E.G.O::AEDD Gregor.
