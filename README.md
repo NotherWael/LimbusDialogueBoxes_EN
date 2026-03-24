@@ -32,12 +32,12 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 # Installation - PC
 ## Using the Installer:
 Report any issues when using this installer since this is the first version!
-1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe) and open it,
-2. It should check if the game folder location is correct, if it isn't, It will alert you to redirect it to where your game folder directory is and select `LimbusCompany_Data` folder.
+1. Download [LimbusSpeechBubbleInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleInstaller.exe) and open it.
+2. It should check if the game folder location is correct, if it isn't, It will alert you to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
 3. Click on [Install / Update Mod]
-4. The mod should now be installed and Updated to Latest!
+4. The mod should now be installed and updated to latest!
 5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-6. Don't forget the Launch Setup below.
+6. Don't forget the Launch Setup below, if installing for the first-time.
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
