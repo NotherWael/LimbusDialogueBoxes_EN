@@ -1,13 +1,7 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.1, A Midspring Night's Dream 3 Event!
 - I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe)
-- Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
-- Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
-- Added LCE E.G.O::AEDD Gregor.
-- FA&S Ryoshu Voicelines got fixed so she has some new lines now!
-- Fixed Index DonQ S3-1 Line.
-- Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
-- Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
-- Translation fixes...
+
+- Added Speech Bubbles to the ???s in 'A Midspring Night's Dream 3'
 
 # About the Façade Projection (Skin System)
 ## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 

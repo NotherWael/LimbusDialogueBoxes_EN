@@ -1105,7 +1105,194 @@
       "id": "9SV-BAT14-03-3",
       "desc": "",
       "dlg": "What is left to rage on... is only my wretched heart."
-    },
+  },
+
+  {
+    "desc": "################# A Midspring Night's Dream 3 Event ###############"
+  },
+
+  {
+    "id": "battle_select_400025_1",
+    "desc": "################# Baby Yi Sang ###############",
+    "dlg": "You called... yah?"
+  },
+  {
+    "id": "battle_endcommand_400025_1",
+    "desc": "",
+    "dlg": "I will do ittt!"
+  },
+  {
+    "id": "battle_s3_400025_1",
+    "desc": "",
+    "dlg": "Iss ideal..."
+  },
+  {
+    "id": "battle_select_400026_1",
+    "desc": "################# Baby Faust ###############",
+    "dlg": "I’m wistening."
+  },
+  {
+    "id": "battle_endcommand_400026_1",
+    "desc": "",
+    "dlg": "Paus will do dis."
+  },
+  {
+    "id": "battle_s3_400026_1",
+    "desc": "",
+    "dlg": "Ah, I muss impwove my balance."
+  },
+  {
+    "id": "battle_select_400027_1",
+    "desc": "################# Baby Quixote ###############",
+    "dlg": "Jussis! Jussis!!"
+  },
+  {
+    "id": "battle_endcommand_400027_1",
+    "desc": "",
+    "dlg": "Jussis!!!"
+  },
+  {
+    "id": "battle_s3_400027_1",
+    "desc": "",
+    "dlg": "<i>Hyaaaaaaah!!</i>"
+  },
+  {
+    "id": "battle_select_400028_1",
+    "desc": "################# Baby Ryoshu ###############",
+    "dlg": "Wha... issit?"
+  },
+  {
+    "id": "battle_endcommand_400028_1",
+    "desc": "",
+    "dlg": "Hum, shweet Shwordmanship."
+  },
+  {
+    "id": "battle_s3_400028_1",
+    "desc": "",
+    "dlg": "S.C. N.C"
+  },
+  {
+    "id": "battle_select_400029_1",
+    "desc": "################# Baby Meursault ###############",
+    "dlg": "Yes, Principal."
+  },
+  {
+    "id": "battle_endcommand_400029_1",
+    "desc": "",
+    "dlg": "Leave it to me."
+  },
+  {
+    "id": "battle_s3_400029_1",
+    "desc": "",
+    "dlg": "Mizanplas."
+  },
+  {
+    "id": "battle_select_400030_1",
+    "desc": "################# Baby Hong Lu ###############",
+    "dlg": "I'm wistening~"
+  },
+  {
+    "id": "battle_endcommand_400030_1",
+    "desc": "",
+    "dlg": "Feews like my body is getting lighter~"
+  },
+  {
+    "id": "battle_s3_400030_1",
+    "desc": "",
+    "dlg": "Not weally my taste~"
+  },
+  {
+    "id": "battle_select_400031_1",
+    "desc": "################# Baby Heathcliff ###############",
+    "dlg": "Engh... Waschu lookin' at!"
+  },
+  {
+    "id": "battle_endcommand_400031_1",
+    "desc": "",
+    "dlg": "Hehehehehe! Issa leggy billy!"
+  },
+  {
+    "id": "battle_s3_400031_1",
+    "desc": "",
+    "dlg": "Dye!!"
+  },
+  {
+    "id": "battle_select_400032_1",
+    "desc": "################# Baby Ishmael ###############",
+    "dlg": "If I’m da Wice Capain! I can do even bettah!"
+  },
+  {
+    "id": "battle_endcommand_400032_1",
+    "desc": "",
+    "dlg": "Big Teesh! Pwease watch over them!"
+  },
+  {
+    "id": "battle_s3_400032_1",
+    "desc": "",
+    "dlg": "Give me da ingredients!"
+  },
+  {
+    "id": "battle_select_400033_1",
+    "desc": "################# Baby Rodion ###############",
+    "dlg": "<i>*giggle*</i> Looks dewicious!"
+  },
+  {
+    "id": "battle_endcommand_400033_1",
+    "desc": "",
+    "dlg": "Dat leggy is mine!"
+  },
+  {
+    "id": "battle_s3_400033_1",
+    "desc": "",
+    "dlg": "Uugh... da lower limb is yucky!"
+  },
+  {
+    "id": "battle_select_400034_1",
+    "desc": "################# Baby Sinclair ###############",
+    "dlg": "Ca- can I be Wice Captin?"
+  },
+  {
+    "id": "battle_endcommand_400034_1",
+    "desc": "",
+    "dlg": "I'm gonna be bwave, too!"
+  },
+  {
+    "id": "battle_s3_400034_1",
+    "desc": "",
+    "dlg": "C’mewe!"
+  },
+  {
+    "id": "battle_select_400035_1",
+    "desc": "################# Baby Outis ###############",
+    "dlg": "Did you cawl me?"
+  },
+  {
+    "id": "battle_endcommand_400035_1",
+    "desc": "",
+    "dlg": "Commeewce Opewation!"
+  },
+  {
+    "id": "battle_s3_400035_1",
+    "desc": "",
+    "dlg": "Pwease look at me…\nExecutive Teach!"
+  },
+  {
+    "id": "battle_select_400036_1",
+    "desc": "################# Baby Gregor ###############",
+    "dlg": "All of wus… have no choice but to faight…"
+  },
+  {
+    "id": "battle_endcommand_400036_1",
+    "desc": "",
+    "dlg": "<i>Hiyaaaah!!</i>"
+  },
+  {
+    "id": "battle_s3_400036_1",
+    "desc": "",
+    "dlg": "It's not... buggy!"
+  },
+
+
 	
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
