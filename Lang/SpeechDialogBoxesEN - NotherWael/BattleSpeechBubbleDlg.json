@@ -1129,7 +1129,7 @@
   {
     "id": "battle_select_400026_1",
     "desc": "################# Baby Faust ###############",
-    "dlg": "I’m wistening."
+    "dlg": "I’m listening."
   },
   {
     "id": "battle_endcommand_400026_1",
@@ -1169,7 +1169,8 @@
   {
     "id": "battle_s3_400028_1",
     "desc": "",
-    "dlg": "N. S." 
+    "dlg": "N. S.\n<size=50%>(Neck. Snapped.)</size>"
+     
   },
   {
     "id": "battle_select_400029_1",
@@ -1184,12 +1185,12 @@
   {
     "id": "battle_s3_400029_1",
     "desc": "",
-    "dlg": "Mizan... plas."
+    "dlg": "Mizan—plas."
   },
   {
     "id": "battle_select_400030_1",
     "desc": "################# Baby Hong Lu ###############",
-    "dlg": "I'm wistening~"
+    "dlg": "I'm listening~"
   },
   {
     "id": "battle_endcommand_400030_1",
@@ -1589,7 +1590,7 @@
     {
       "id": "battle_kill_10402_1",
       "desc": "",
-      "dlg": "PACTS."
+      "dlg": "PACTS\n<size=50%>(Peak Art Created Through Swordsmanship)</size>"
     },
     {
       "id": "battle_break_10402_1",
@@ -2664,22 +2665,22 @@
 	{
       "id": "battle_s3_10404_1_1",
       "desc": "",
-      "dlg": "Y.\n(You're.)"
+      "dlg": "Y.\n<size=50%>(You're.)</size>"
     },
 	{
       "id": "battle_s3_10404_1_2",
       "desc": "",
-      "dlg": "Y.A.\n(You're a.)"
+      "dlg": "Y.A.\n<size=50%>(You're a.)</size>"
     },
 	{
       "id": "battle_s3_10404_1_3",
       "desc": "",
-      "dlg": "Y.A.T.T\n(You're a tastebud-tickiling.)"
+      "dlg": "Y.A.T.T\n<size=50%>(You're a tastebud-tickiling.)</size>"
     },
 	{
       "id": "battle_s3_10404_1_4",
       "desc": "",
-      "dlg": "Y.A.T.T.A.\n(You're a tastebud-tickiling attraction.)"
+      "dlg": "Y.A.T.T.A.\n<size=50%>(You're a tastebud-tickiling attraction.)</size>"
     },
 	
 	
@@ -6327,12 +6328,12 @@
 	{
       "id": "battle_s3_10811_1_1-01",
       "desc": "",
-      "dlg": "4th form."
+      "dlg": "4th Form..."
     },
 	{
       "id": "battle_s3_10811_1_3-02",
       "desc": "",
-      "dlg": "Ink Over."
+      "dlg": "... Ink Over."
     },
 	{
       "id": "battle_special_10811_1",
