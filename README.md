@@ -1,5 +1,5 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.1, A Midspring Night's Dream 3 Event!
-- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe)
+- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)
 
 - Added Speech Bubbles to the ???s in 'A Midspring Night's Dream 3'
 
@@ -26,12 +26,12 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 # Installation - PC
 ## Using the Installer:
 Report any issues when using this installer!
-1. Download [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) and open it.
-2. It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
-3. Click on [Install / Update Mod]
-4. The mod should now be installed and updated to latest!
-5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-6. Don't forget the Launch Setup below, if installing for the first-time.
+1. Download [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) and open it. (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)
+3. It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+4. Click on [Install / Update Mod]
+5. The mod should now be installed and updated to latest!
+6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+7. Don't forget the Launch Setup below, if installing for the first-time.
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
