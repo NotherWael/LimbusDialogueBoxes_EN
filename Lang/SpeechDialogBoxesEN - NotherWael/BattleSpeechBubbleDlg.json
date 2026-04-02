@@ -8959,7 +8959,7 @@
     {
       "id": "battle_s2_10215_1_1",
       "desc": "",
-      "dlg": "I'll take that Corpus."
+      "dlg": "I'll take that Corpus Ingredient."
     },
     {
       "id": "battle_s3_10215_1_1",
@@ -9016,7 +9016,7 @@
     {
       "id": "battle_s3_10614_1_2",
       "desc": "",
-      "dlg": "Do you hear it? Listen to Tibia's melody, the euphonious harmony of the humerus pair and 24 ribs...!"
+      "dlg": "Do you hear it? The euphonious harmony of the humerus pair and 24 ribs...! Tibia's Melody!"
     },
     {
       "id": "battle_special_10614_1",
@@ -9051,17 +9051,17 @@
     {
       "id": "battle_special_10614_4-1",
       "desc": "",
-      "dlg": "Everyone, Good-bye!"
+      "dlg": "Everyone. Good-bye!"
     },
     {
       "id": "battle_special_10614_4-01-1",
       "desc": "",
-      "dlg": "Everyone, Good-bye!"
+      "dlg": "Everyone. Good-bye!"
     },
     {
       "id": "battle_special_10614_4-02",
       "desc": "",
-      "dlg": "Is it the gallery's closing time already?"
+      "dlg": "The gallery's closing hour is here?"
     },
     {
       "id": "battle_special_10614_4-02-1",
@@ -9071,7 +9071,7 @@
     {
       "id": "battle_special_10614_4-03",
       "desc": "",
-      "dlg": "Is it the gallery's closing time already?"
+      "dlg": "The gallery's closing hour is here?"
     },
     {
       "id": "battle_special_10614_4-03-1",
