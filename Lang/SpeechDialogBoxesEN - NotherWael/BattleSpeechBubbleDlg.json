@@ -9021,12 +9021,12 @@
     {
       "id": "battle_special_10614_1",
       "desc": "",
-      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+      "dlg": "I cannot let the audience witness such a degrading sight."
     },
     {
       "id": "battle_special_10614_1-01",
       "desc": "",
-      "dlg": "To the audience…\nI can't show any more disgraceful behavior."
+      "dlg": "I cannot let the audience witness such a degrading sight."
     },
     {
       "id": "battle_special_10614_2",
@@ -9061,7 +9061,7 @@
     {
       "id": "battle_special_10614_4-02",
       "desc": "",
-      "dlg": "The gallery's closing hour is here?"
+      "dlg": "The gallery's closing hour is here..."
     },
     {
       "id": "battle_special_10614_4-02-1",
@@ -9071,7 +9071,7 @@
     {
       "id": "battle_special_10614_4-03",
       "desc": "",
-      "dlg": "The gallery's closing hour is here?"
+      "dlg": "The gallery's closing hour is here..."
     },
     {
       "id": "battle_special_10614_4-03-1",
@@ -9086,12 +9086,12 @@
     {
       "id": "battle_special_10614_6",
       "desc": "",
-      "dlg": "Ah…! How artistic…!"
+      "dlg": "Ah...! Marvelous art...!"
     },
     {
       "id": "battle_special_10614_7",
       "desc": "",
-      "dlg": "From there… Please observe…!"
+      "dlg": "From there... Please observe...!"
     }
   ]
 }
