@@ -1,5 +1,5 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
-- Remade the installer again, MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!! [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
+- Remade the installer again since the old one started flagging as virus again... MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!! [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
 
 - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
 
