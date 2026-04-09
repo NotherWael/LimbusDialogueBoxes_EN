@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
 - The installer will not install any Font files if it detects that the `Font` folder already exists.
-- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first.
+- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the Original Method.
 - Don't forget the Launch Setup below, if installing for the first-time.
 
 ## Using the Original Method:
@@ -48,7 +48,8 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
 - To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
   (This will remove your custom fonts, so add them back)
-- To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
+- To Uninstall the mod, simply delete the `Lang` Folder and restart the game.
+- To Disable it Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 ## Launch Setup:
 1. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
    - If it’s already selected, you can skip this step.
