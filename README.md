@@ -1,6 +1,5 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
-- ~~I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)~~
-Removed Installer till i fix it again, WHY IS IT FLAGGING AS VIRUS AGAIN???
+- Remade the installer again, MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!! [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
 
 - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
 
@@ -25,15 +24,16 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 # Installation - PC
-~~## Using the Installer:~~
-~~Report any issues when using this installer!~~
-~~1. Download [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) and open it. (If Windows says it's not safe, tell it to S.T.F.U. and Run Anyway)
-3. It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+## Using the Installer:
+Report any issues when using this installer!~~
+1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.
+2. Make SURE that the `_internal` folder is next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.
+<img width="423" height="190" alt="image" src="https://github.com/user-attachments/assets/43ccf32c-ca06-4183-8094-b9d7b98c524e" />
+3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
 4. Click on [Install / Update Mod]
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-7. Don't forget the Launch Setup below, if installing for the first-time.~~
-Currently Flagging as Virus gotta find a way and fix again.
+7. Don't forget the Launch Setup below, if installing for the first-time.
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
