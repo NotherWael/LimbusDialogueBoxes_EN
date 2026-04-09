@@ -25,15 +25,15 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 # Installation - PC
 ## Using the Installer:
-Report any issues when using this installer!~~
 1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.
 2. Make SURE that the `_internal` folder is next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.
-<img width="423" height="190" alt="image" src="https://github.com/user-attachments/assets/43ccf32c-ca06-4183-8094-b9d7b98c524e" />
+      <img width="423" height="190" alt="image" src="https://github.com/user-attachments/assets/43ccf32c-ca06-4183-8094-b9d7b98c524e"/>
 3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
-4. Click on [Install / Update Mod]
+4. Click on `[Install / Update Mod]`
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-7. Don't forget the Launch Setup below, if installing for the first-time.
+- Don't forget the Launch Setup below, if installing for the first-time.
+
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
 2. Open or Extract the ZIP file.
