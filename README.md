@@ -32,6 +32,8 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 4. Click on `[Install / Update Mod]`
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+- The installer will not install any Font files if it detects that the `Font` folder already exists.
+- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first.
 - Don't forget the Launch Setup below, if installing for the first-time.
 
 ## Using the Original Method:
