@@ -38,13 +38,16 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
-2. Open or Extract the ZIP file.
-3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
+      <img width="977" height="373" alt="image" src="https://github.com/user-attachments/assets/18fd7a76-a4d7-4947-979d-950e20afd45d" />
+
+
+3. Open or Extract the ZIP file.
+4. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
 Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
       <img src="Screenshot/datass.png" alt="datass"/>
 
-4. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
+5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
 - To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
   (This will remove your custom fonts, so add them back)
