@@ -73,7 +73,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 7. The mod should work now, Enjoy!
 
 ## Custom Font Styles Instructions
-1. Click **Code** → **Download ZIP** on this GitHub repository.
+1. Click **Code** → **Download ZIP** at the top of this GitHub repository.
 2. Open or Extract the ZIP file.
 3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
 4. Open the 'Lang' folder and then 'SpeechDialogBoxesEN - NotherWael' folder
