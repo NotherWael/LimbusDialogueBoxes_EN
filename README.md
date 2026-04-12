@@ -1,16 +1,14 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
-- Remade the installer again since the old one started flagging as a virus again...<br>MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!!<br>[LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
-<br>
-- Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
 
-# About the Façade Projection (Skin System)
-## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
+<details>
+  <summary>Changelog (Click!)</summary>
 
-https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
+  ### v1.102.0
+  - Remade the installer again since the old one started flagging as a virus again...<br>MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!!<br>[LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
+  - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
 
 
-# Regarding Youtube Channel
-## Videos soon hopefully.
+</details>
 
 ### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
 
@@ -49,16 +47,15 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 5. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
-- To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
-  (This will remove your custom fonts, so add them back)
-- To Uninstall the mod, simply delete the `Lang` Folder and restart the game.
-- To Disable it Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 ## Launch Setup:
 1. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
    - If it’s already selected, you can skip this step.
    <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
 2. Enjoy the mod!
-
+- To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
+  (This will remove your custom fonts, so add them back)
+- To Uninstall the mod, simply delete the `Lang` Folder and restart the game.
+- To Disable it Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
 ## Installation - Mobile (ANDROID ONLY)
 ### Note: This method directly replaces the speech bubble localization file, and is not a custom language mod since it's not implemented on mobile, Do it on your own risk!
 ### Note: Everytime you launch Limbus after doing step 6, Limbus will redownload its own file, and will replace the modifed one, so you have to do it all over again everytime you launch Limbus.
@@ -85,17 +82,25 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 
 ## Q&A
 1. Is this safe? is it bannable?
-   - It’s safe and not bannable. it's a custom language mod implemented by PM, It just changes the localization files.
+   - It's been a while now and a lot of people have used this mod, they have not gotten banned or anything so I assure you that it's safe. And knowing PM they will NOT start banning people without announcing a warning regarding and specificly talking about this mod first.
+
+Old Answer:
+   - It’s safe and not bannable. This is a custom language mod implemented by PM, It just changes the localization files.
    - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning" [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
 
    - But then again it's outside the intented use, cause it's not a different language, so PM may not like this kind of use for the custom language implementation, so it's kinda of a grey area at the moment.
-   - **PM Recently Announced that they're gonna post new guidelines for modding and fanwork, so they might say something about this mod, if they'll allow it or not.**
+   - **PM Recently Announced that they're gonna post new guidelines for modding and fanwork, so they might say something about this mod, if they'll allow it or not.** (still no information about this yet...)
    
    - As for the Mobile method, do it on your own risk! since you directly replace the files, it's kinda similar to current visual modding, where no one has gotten banned yet but could get banned at any time. (but then again this is only modifying the text files, so in the end idk)
 
 2. How is this done?
    - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
    - So the mod is only a localization file to add speech bubbles, there isn't any bepinex dll plugins or asset modification or anything like that.
+  
+# About the Façade Projection (Skin System)
+## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
+
+https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 
 ## Downsides & Issues
 ### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
@@ -116,7 +121,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 - Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
 - N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes i did check if it's the correct ID.)
 - ~~Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)~~
-- All BOSSES Turn Start Voicelines Don't Work Sometimes...? (Their VLs during Combat Phase work tho... no idea what's causing this...)
+- All Bosses Speech Bubbles in Mirror Dungeon sometimes do NOT work. (No idea why, but this effects official Speech Bubbles by PM too, so they'll probably fix it eventually.)
 
 ## Credits
 Goliath for telling me how to do this, they make a Russian translation custom langauge mod.
