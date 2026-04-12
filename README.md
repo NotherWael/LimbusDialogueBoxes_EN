@@ -1,12 +1,32 @@
 # Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
 
 <details>
-  <summary>Changelog (Click!)</summary>
+  <summary><h3>Changelogs (Click To Expand!)</h3></summary>
 
   ### v1.102.0
   - Remade the installer again since the old one started flagging as a virus again...<br>MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!!<br>[LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
-  - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu
+  - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu.
+  - Revised Drifting Blade Ryoshu S3 Line.
 
+  ### v1.101.1
+  - Added Speech Bubbles to the ???s in 'A Midspring Night's Dream 3'
+
+  ### v1.101.0
+  - Added LCE E.G.O::AEDD Gregor Speech Bubbles.
+  - Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
+  - Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
+  - FA&S Ryoshu Voicelines got fixed so she has some new lines now!
+  - Fixed Index DonQ S3-1 Line.
+  - Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
+  - Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
+  - Translation fixes...
+
+  ### v1.100.0
+  - Added Hornet E.G.O Meursault & Faint Aroma & Solitude E.G.O Ryoshu Speech Bubbles.
+  - ~~Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...~~
+- PM has now fixed Hornet Meursault Voicelines! and are now going to fix FA&S Ryoshu Voicelines next update!
+---
+(Yeah I only now just started logging my changes on v1.100.0...)
 
 </details>
 
@@ -18,7 +38,7 @@
 <img src="Screenshot/Shooting.png" alt="Shooting"/>
 
 ## Installation Warning
-### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
+### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a Vew update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 # Installation - PC
