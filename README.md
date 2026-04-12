@@ -7,6 +7,7 @@
   - Remade the installer again since the old one started flagging as a virus again...<br>MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!!<br>[LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)
   - Added Speech Bubbles to The Ring Apperentice Faust & Nursefather Hong Lu.
   - Revised Drifting Blade Ryoshu S3 Line.
+  - Revised Ring Hong Lu's Ring Faust's Death Line.
 
   ### v1.101.1
   - Added Speech Bubbles to the ???s in 'A Midspring Night's Dream 3'
