@@ -25,9 +25,9 @@
   ### v1.100.0
   - Added Hornet E.G.O Meursault & Faint Aroma & Solitude E.G.O Ryoshu Speech Bubbles.
   - ~~Meursault Untranslated battle Voicelines aren't playing and currently broken, and Ryoshu is missing 5 Untranslated Voiceines that aren't playing, Please someone email PM about this issue... it sucks...~~
-- PM has now fixed Hornet Meursault Voicelines! and are now going to fix FA&S Ryoshu Voicelines next update!
+- PM has now fixed Hornet Meursault Voicelines! and are now going to fix FA&S Ryoshu Voicelines next update!<br>
+  (Yeah I only now just started logging my changes on v1.100.0...)
 ---
-(Yeah I only now just started logging my changes on v1.100.0...)
 
 </details>
 
@@ -105,7 +105,7 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 1. Is this safe? is it bannable?
    - It's been a while now and a lot of people have used this mod, they have not gotten banned or anything so I assure you that it's safe. And knowing PM they will NOT start banning people without announcing a warning regarding and specificly talking about this mod first.
 
-Old Answer:
+Old Answer but still important:
    - It’s safe and not bannable. This is a custom language mod implemented by PM, It just changes the localization files.
    - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning" [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
 
@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
 - Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
 - ~~Speech bubbles stay longer than they have to blocking visibility on skills during combat.~~
 - ~~Speech bubbles can end early because of the previous speech bubble before it.~~
-- **As of 5th of Feb 2026, PM Has Made Speech Bubbles more dynamic where it finishes much faster as soon as the voiceline ends which can make slow readers miss out on some words on voicelines with long text but short spoken korean, and on mulitple voicelines it slowly transitions to the next Speech Bubble which causes about 0.7 second delay to see what the text is as the voiceline plays. (It also happens when the Speech Bubble first appears i think)**
+- **As of 5th of Feb 2026, PM Has Made Speech Bubbles more dynamic where it finishes much faster as soon as the voiceline ends which can make slow readers miss out on some words on voicelines with long text but short spoken korean, and on mulitple voicelines it slowly transitions to the next Speech Bubble which causes about 0.7 second delay to see what the text is as the voiceline plays. (The 0.7 sec delay also happens when the Speech Bubble first appears too)**
 - Retreating IDs VLs move their Speech bubbles to the Substituted ID.
 
 ## Known Voicelines That Do Not Work
