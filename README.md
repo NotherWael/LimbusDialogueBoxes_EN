@@ -85,10 +85,13 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 3. Rename `BattleSpeechBubbleDlg.json` to `EN_BattleSpeechBubbleDlg.json`
 4. Access your phone files, and navigate to `Internal storage\Android\data\com.ProjectMoon.LimbusCompany\files\Assets\Resources_moved\Localize\en`
 5. Launch the game Limbus Company, and Touch to Start.
-6. As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
+6. After the Download finishes or As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
    - (This is to bypass Limbus's auto download that replaces modified files with their own correct one.)
    - You HAVE to do this before getting to Lobby screen, or else it will NOT work and you gotta restart and do it again.
 7. The mod should work now, Enjoy!
+Video Setup as an Example:
+[![Youtube Video](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c5e6a55-d969-4b1a-916c-f264e071d0ec" />)](https://www.youtube.com/watch?v=iRC-ds4lQrE)
+
 
 ## Custom Font Styles Instructions
 1. Click **Code** → **Download ZIP** at the top of this GitHub repository.
