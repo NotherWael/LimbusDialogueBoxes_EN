@@ -88,9 +88,11 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 6. After the Download finishes or As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
    - (This is to bypass Limbus's auto download that replaces modified files with their own correct one.)
    - You HAVE to do this before getting to Lobby screen, or else it will NOT work and you gotta restart and do it again.
-7. The mod should work now, Enjoy!
-Video Setup as an Example:
-[![Youtube Video](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4c5e6a55-d969-4b1a-916c-f264e071d0ec" />)](https://www.youtube.com/watch?v=iRC-ds4lQrE)
+7. The mod should work now, Enjoy!<br>
+### Video Setup as an Example:<br>
+<a href="https://www.youtube.com/watch?v=iRC-ds4lQrE">
+  <img src="https://github.com/user-attachments/assets/4c5e6a55-d969-4b1a-916c-f264e071d0ec" width="1280" height="720" alt="Youtube Video">
+</a>
 
 
 ## Custom Font Styles Instructions
