@@ -6,8 +6,8 @@
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
   - Added a Speech Bubble to W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
-  - Fixed Installer not updating correctly.
-
+  - Fixed Installer not updating correctly, update to v1.5 [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip
+)
 
 
   ### v1.102.0
