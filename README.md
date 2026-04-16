@@ -1,7 +1,13 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.102.0, Added The Ring Apperentice Faust & The Ring Nursefather Hong Lu!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.103.0, Added The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion Added!
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
+
+  ### v1.103.0
+  - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
+  - Added a Speech Bubble to  W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
+
+
 
   ### v1.102.0
   - Remade the installer again since the old one started flagging as a virus again...<br>MAKE SURE TO READ THE INSTRUCTIONS BELOW!!!!<br>[LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip)

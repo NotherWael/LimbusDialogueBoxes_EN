@@ -3420,35 +3420,40 @@
 	
 	
 	{	
-      "id": "battle_select_10606_1",
-      "desc": "############ W Corp Hong Lu ############",
-      "dlg": "Oh dear~ You're not supposed to come in while we're cleaning up."
-    },
-    {
-      "id": "battle_endcommand_10606_1",
-      "desc": "",
-      "dlg": "Taking care of problem passengers."
-    },
-    {
-      "id": "battle_enemy_break_10606_1",
-      "desc": "",
-      "dlg": "Stay calm and stay down, now~"
-    },
-    {
-      "id": "battle_kill_10606_1",
-      "desc": "",
-      "dlg": "Okay, let's get their limbs and torsos over here~"
-    },
-    {
-      "id": "battle_break_10606_1",
-      "desc": "",
-      "dlg": "Ouch!"
-    },
+    "id": "battle_select_10606_1",
+    "desc": "############ W Corp Hong Lu ############",
+    "dlg": "Oh dear~ You're not supposed to come in while we're cleaning up."
+  },
+  {
+    "id": "battle_endcommand_10606_1",
+    "desc": "",
+    "dlg": "Taking care of problem passengers."
+  },
+  {
+    "id": "battle_enemy_break_10606_1",
+    "desc": "",
+    "dlg": "Stay calm and stay down, now~"
+  },
+  {
+    "id": "battle_kill_10606_1",
+    "desc": "",
+    "dlg": "Okay, let's get their limbs and torsos over here~"
+  },
+  {
+    "id": "battle_break_10606_1",
+    "desc": "",
+    "dlg": "Ouch!"
+  },
 	{
-      "id": "battle_dead_10606_1",
-      "desc": "",
-      "dlg": "Ah... It was... supposed to be a simple cleanup...?"
-    },
+    "id": "battle_dead_10606_1",
+    "desc": "",
+    "dlg": "Ah... It was... supposed to be a simple cleanup...?"
+  },
+  {
+    "id": "battle_s2_10606_1-04",
+    "desc": "",
+    "dlg": "Ah-ha~"
+  },
 	
 	
 	
@@ -8782,7 +8787,7 @@
     {
       "id": "battle_special_10514_7",
       "desc": "",
-      "dlg": "Hm, spare ammo recovered."
+      "dlg": "Hm. Spare ammo recovered."
     },
 
     {
@@ -9092,6 +9097,144 @@
       "id": "battle_special_10614_7",
       "desc": "",
       "dlg": "From there... Please observe...!"
+    },
+
+    {
+      "id": "battle_select_10515_1",
+      "desc": "####### The Ring Fauvist Student Meursault #######",
+      "dlg": "Tugging a hound's leash before its prey is—!"
+    },
+    {
+      "id": "battle_endcommand_10515_1",
+      "desc": "",
+      "dlg": "C'est Sauvage!"
+    },
+    {
+      "id": "battle_enemy_break_10515_1",
+      "desc": "",
+      "dlg": "Once the canine material has been mastered,"
+    },
+    {
+      "id": "battle_break_10515_1",
+      "desc": "",
+      "dlg": "Ngh, but the assignment—"
+    },
+    {
+      "id": "battle_kill_10515_1",
+      "desc": "",
+      "dlg": "I would like to work <i>with</i> you for my next project."
+    },
+    {
+      "id": "battle_dead_10515_1",
+      "desc": "",
+      "dlg": "The fetor of death... was myself as the artwork... all along."
+    },
+    {
+      "id": "battle_s3_10515_1_2",
+      "desc": "",
+      "dlg": "Into a more savage depth…"
+    },
+    {
+      "id": "battle_special_10515_1",
+      "desc": "",
+      "dlg": "The finishing touch, with intensity."
+    },
+    {
+      "id": "battle_special_10515_3",
+      "desc": "",
+      "dlg": "Hmm. Claw-shaped scars… it suits you."
+    },
+    {
+      "id": "battle_special_10515_4",
+      "desc": "",
+      "dlg": "Thank you for the inspiration."
+    },
+    
+    
+    {
+        "id": "battle_select_10915_1",
+        "desc": "####### The Ring Fauvist Docent Rodion #######",
+        "dlg": "Careful. You're undressing the artwork with your eyes."
+    },
+    {
+        "id": "battle_endcommand_10915_1",
+        "desc": "",
+        "dlg": "With a palette of colors out of this world."
+    },
+    {
+        "id": "battle_enemy_break_10915_1",
+        "desc": "",
+        "dlg": "What's wrong? Did my claws get under your skin?"
+    },
+    {
+        "id": "battle_break_10915_1",
+        "desc": "",
+        "dlg": "Hmm. This material's got more bite than it looks."
+    },
+    {
+        "id": "battle_kill_10915_1",
+        "desc": "",
+        "dlg": "Adieu."
+    },
+    {
+        "id": "battle_dead_10915_1",
+        "desc": "",
+        "dlg": "Hah... Wasn't planning... on marking up my stuff... with a posthumous premium this soon."
+    },
+    {
+      "id": "battle_s3_10915_1_1",
+      "desc": "",
+      "dlg": "Underdone art..."
+    },
+    {
+      "id": "battle_s3_10915_1_5",
+      "desc": "",
+      "dlg": "... can only be reworked by taking a bite out of it!"
+    },
+    {
+      "id": "battle_special_10915_1_1",
+      "desc": "",
+      "dlg": "Nerv, align."
+    },
+    {
+      "id": "battle_special_10915_1_2",
+      "desc": "",
+      "dlg": "<i>Ahahahahahaha!</i>"
+    },
+    {
+      "id": "battle_special_10915_1_3",
+      "desc": "",
+      "dlg": "Vividly!"
+    },
+    {
+      "id": "battle_special_10915_2_1",
+      "desc": "",
+      "dlg": "Shall I take a look a bit?"
+    },
+    {
+      "id": "battle_special_10915_2_2",
+      "desc": "",
+      "dlg": "The intensity is a bit underwhelming...?"
+    },
+    {
+      "id": "battle_special_10915_2_3",
+      "desc": "",
+      "dlg": "Not bad, I would say..."
+    },
+    {
+      "id": "battle_special_10915_3",
+      "desc": "",
+      "dlg": "My prized needlework...\nI’ll show it to you specially...!"
+    },
+    {
+      "id": "battle_special_10915_4",
+      "desc": "",
+      "dlg": "Impasto...!"
+    },
+    {
+      "id": "battle_special_10915_5",
+      "desc": "",
+      "dlg": "Okay~ That's all for my impressions."
     }
   ]
 }
