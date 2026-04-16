@@ -5,7 +5,7 @@
 
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
-  - Added a Speech Bubble to  W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
+  - Added a Speech Bubble to W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
 
 
 
