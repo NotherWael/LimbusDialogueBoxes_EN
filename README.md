@@ -56,7 +56,7 @@
     <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
 
 3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
-  - If you see this, click `More Info` and `Run Anyway`
+  - If you see this, click `More Info` and `Run Anyway` (It's cause its not a signed app from a known publisher which costs money.)
     <img width="531" height="191" alt="image" src="https://github.com/user-attachments/assets/8861a243-b115-4d49-8f03-9342a50340de" />
     <img width="529" height="491" alt="image" src="https://github.com/user-attachments/assets/0affab0b-3ec7-4624-95b2-46a8a4b96744" />
 4. Click on `[Install / Update Mod]`
