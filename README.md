@@ -56,14 +56,15 @@
     <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
 
 3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+  - If you see this, click `More Info` and Run Anyway
+  <img width="537" height="498" alt="image" src="https://github.com/user-attachments/assets/0e9d3f57-615a-4a59-a317-26cefaf16ea0" />
+  <img width="529" height="491" alt="image" src="https://github.com/user-attachments/assets/0affab0b-3ec7-4624-95b2-46a8a4b96744" />
 4. Click on `[Install / Update Mod]`
 5. The mod should now be installed and updated to latest!
 6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
 - The installer will not install any Font files if it detects that the `Font` folder already exists.
 - If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the Original Method.
 - Don't forget the Launch Setup below, if installing for the first-time.
-
-Getting falsely flagged as a virus again... (3rd time now!) Just use the **Original Method** until I find a way to fix this. (Or just tell windows defender it's an ok file.)
 
 ## Using the Original Method:
 1. Click **Code** → **Download ZIP** on this GitHub repository.
