@@ -7,7 +7,7 @@
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
   - Added a Speech Bubble to W Corp Hong Lu's S3 (Ah-ha~, felt weird for him to say that with no speech bubble.)
   - Fixed Installer not updating correctly, update to v1.5 [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip
-)
+  - Rewrote the Installer (Again) in C# to finally stop it getting flagged as a virus.
 
 
   ### v1.102.0
@@ -50,17 +50,18 @@
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
 # Installation - PC
-## ~~Using the Installer:~~
-~~1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.~~
-~~2. Make SURE that the `_internal` folder is next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.~~
-      <img width="423" height="190" alt="image" src="https://github.com/user-attachments/assets/43ccf32c-ca06-4183-8094-b9d7b98c524e"/>
-~~3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.~~
-~~4. Click on `[Install / Update Mod]`~~
-~~5. The mod should now be installed and updated to latest!~~
-~~6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.~~
-~~- The installer will not install any Font files if it detects that the `Font` folder already exists.~~
-~~- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the Original Method.~~
-~~- Don't forget the Launch Setup below, if installing for the first-time.~~
+## Using the Installer:
+1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.
+2. Make SURE that the `.dll` files are next to the `LimbusSpeechBubbleENInstaller.exe` file or it will NOT open.
+    <img width="256" height="198" alt="image" src="https://github.com/user-attachments/assets/9e84b5dd-d3cb-4bee-b90d-3974f47252f7" />
+
+3. Now open the `LimbusSpeechBubbleENInstaller.exe` file It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
+4. Click on `[Install / Update Mod]`
+5. The mod should now be installed and updated to latest!
+6. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
+- The installer will not install any Font files if it detects that the `Font` folder already exists.
+- If you are facing any issues please try deleting the `Lang` folder entirely in `LimbusCompany_Data` first, or do the Original Method.
+- Don't forget the Launch Setup below, if installing for the first-time.
 
 Getting falsely flagged as a virus again... (3rd time now!) Just use the **Original Method** until I find a way to fix this. (Or just tell windows defender it's an ok file.)
 
