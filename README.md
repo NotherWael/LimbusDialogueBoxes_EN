@@ -1,8 +1,13 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.103.0, Added The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.104.0, The Middle Big Brother Heathcliff Added!
 ## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
+
+  ### v1.104.0
+  - Added Speech Bubbles to The Middle Big Brother Heathcliff. (COMPLETE AND TOTAL EXTERMINATION!!)
+  - Fixed Liu Rodion's S3 line typo.
+
 
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.

@@ -4517,7 +4517,7 @@
 	{
       "id": "battle_s3_10908_1_2",
       "desc": "",
-      "dlg": "You wont even realize you've been pierced, will you?"
+      "dlg": "You won't even realize you've been pierced, will you?"
     },
 	
 
@@ -9140,6 +9140,11 @@
       "dlg": "... with a finishing touch of intensity."
     },  
     {
+      "id": "battle_special_10515_2",
+      "desc": "",
+      "dlg": "!!!... Haaaah..."
+    },
+    {
       "id": "battle_special_10515_3",
       "desc": "",
       "dlg": "Hmm. Claw-shaped scars...\nIt suits you."
@@ -9235,6 +9240,101 @@
       "id": "battle_special_10915_5",
       "desc": "",
       "dlg": "Okay~ That's all for my impressions."
+    },
+
+    {
+      "id": "battle_select_10715_1",
+      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
+      "dlg": "Hmm... What d'you reckon? Looks more luscious now, don't it?"
+    },
+    {
+      "id": "battle_endcommand_10715_1",
+      "desc": "",
+      "dlg": "Get ready, here comes Big Bro!"
+    },
+    {
+      "id": "battle_enemy_break_10715_1",
+      "desc": "",
+      "dlg": "Out cold, are we? All right—one line crossed off the Book."
+    },
+    {
+      "id": "battle_break_10715_1",
+      "desc": "",
+      "dlg": "Tch... *spit*"
+    },
+    {
+      "id": "battle_kill_10715_1",
+      "desc": "",
+      "dlg": "Oi, get up! You've still got 11 deaths left in you!"
+    },
+    {
+      "id": "battle_dead_10715_1",
+      "desc": "",
+      "dlg": "Gah... even if I drop... Great Brother's Vengeance'll find you...!"
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "I bring you... the promised suffering!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-01",
+      "desc": "",
+      "dlg": "I bring you... the promised suffering!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-02",
+      "desc": "",
+      "dlg": "I bring you... the promised suffering!"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "Enough games."
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "Crank up the music louder!"
+    },
+    {
+      "id": "battle_special_10715_2",
+      "desc": "",
+      "dlg": "Ha!"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "Complete and total..."
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "Extermination!"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "Tch. you little half-pint..."
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "Get the hell... outta my sight!"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "Stop me if you can!"
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "The punishment for all involved parties and bystanders at the site of your crimes... shall be complete and total extermination!"
     }
+
+
+
+
   ]
 }
