@@ -1,4 +1,4 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.104.0, The Middle Big Brother Heathcliff Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.104.0, The Middle Big Brother Heathcliff, Ricardo & Werner Missing Speech Bubbles Added!
 ## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
 
 <details>
@@ -7,7 +7,8 @@
   ### v1.104.0
   - Added Speech Bubbles to The Middle Big Brother Heathcliff. (COMPLETE AND TOTAL EXTERMINATION!!)
   - Fixed Liu Rodion's S3 line typo.
-
+  - Added Ricardo & Werner Untranslated missing Speech Bubbbles Voicelines. (Pm forgot peak)
+  - Sweepers also have untranslated voicelines during battle but they are filtered and i have no idea how to unfilter them. (no unfiltered versions anywhere in the files too)
 
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.

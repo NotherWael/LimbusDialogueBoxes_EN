@@ -1013,14 +1013,14 @@
       "desc": "############ Ricardo ############",
       "dlg": "Complete and total..."
     },
-	{	
+	  {	
       "id": "battle_8099_s2_2-02",
       "desc": "",
       "dlg": "Extermination!"
     },
 
+    
 
-	  
     {
       "id": "9SV-BAT7-00-04",
       "desc": "####### The Thumb Nursefather Apperentice Lucio missing lines #############",
@@ -1294,6 +1294,73 @@
   },
 
 
+  {	
+    "id": "7SV-022",
+    "desc": "##### Ricardo Bokgak ####",
+    "dlg": "Enough games."
+  },
+  {	
+    "id": "7SV-023-1",
+    "desc": "",
+    "dlg": "No more..."
+  },
+  {	
+    "id": "7SV-023-2",
+    "desc": "",
+    "dlg": "... tests!"
+  },
+  {	
+    "id": "7SV-024-2",
+    "desc": "",
+    "dlg": "I bring you..."
+  },
+  {	  
+    "id": "7SV-024-3",
+    "desc": "",
+    "dlg": "... the promised suffering!!"
+  },
+  {	
+    "id": "7SV-025",
+    "desc": "",
+    "dlg": "Leave the rear to me."
+  },
+  {	
+    "id": "7SV-025-01",
+    "desc": "",
+    "dlg": "Leave the rear... to me."
+  },
+
+  {	
+    "id": "7SV-026",
+    "desc": "####### Werner Bokgak #####",
+    "dlg": "I'm sorry... Big Bro..!"
+  },
+
+  {	
+    "id": "7SV-028_3",
+    "desc": "",
+    "dlg": "I'll crush you!"
+  },
+  {	
+    "id": "7SV-029_1",
+    "desc": "",
+    "dlg": "Vengeance...!"
+  },
+  {	
+    "id": "7SV-029_2",
+    "desc": "",
+    "dlg": "... awaits...!"
+  },
+  {	
+    "id": "7SV-029_3",
+    "desc": "",
+    "dlg": "... you all!!"
+  },
+  {	
+    "id": "7SV-030",
+    "desc": "",
+    "dlg": "... Vengeance..."
+  },
 	
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
