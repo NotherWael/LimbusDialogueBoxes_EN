@@ -9275,17 +9275,17 @@
     {
       "id": "battle_s3_10715_1_5",
       "desc": "",
-      "dlg": "I bring you... the promised suffering!"
+      "dlg": "I bring you the promised suffering!"
     },
     {
       "id": "battle_s3_10715_1_5-01",
       "desc": "",
-      "dlg": "I bring you... the promised suffering!"
+      "dlg": "I bring you the promised suffering!"
     },
     {
       "id": "battle_s3_10715_1_5-02",
       "desc": "",
-      "dlg": "I bring you... the promised suffering!"
+      "dlg": "I bring you the promised suffering!"
     },
     {
       "id": "battle_special_10715_1_1",
@@ -9296,11 +9296,6 @@
       "id": "battle_special_10715_1_2",
       "desc": "",
       "dlg": "Crank up the music louder!"
-    },
-    {
-      "id": "battle_special_10715_2",
-      "desc": "",
-      "dlg": "Ha!"
     },
     {
       "id": "battle_special_10715_2_1",
@@ -9315,7 +9310,7 @@
     {
       "id": "battle_special_10715_3_1",
       "desc": "",
-      "dlg": "Tch. you little half-pint..."
+      "dlg": "Tch. you little half-pints..."
     },
     {
       "id": "battle_special_10715_3_2",
