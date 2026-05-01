@@ -10,6 +10,7 @@
   - Added Ricardo & Werner Untranslated missing Speech Bubbbles Voicelines. (Pm forgot peak)
   - Sweepers also have untranslated voicelines during battle but they are filtered and i have no idea how to unfilter them. (no unfiltered versions anywhere in the files too)
   - Fixed wrong voiceline Ids for Ricardo & Werner (Hotfix 4)
+  - Shortened Bigbro Heathcliff Substitued In VL (Hotfix 5)
 
   ### v1.103.0
   - Added Speech Bubbles to The Ring Fauvist Student Meursault & The Ring Fauvist Docent Rodion.
