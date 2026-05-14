@@ -1,8 +1,11 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.104.0, The Middle Big Brother Heathcliff, Ricardo & Werner Missing Speech Bubbles Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.105.0, Blade of the House of Spiders Ryōshū Added!
 ## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
+
+  ### v1.105.0
+  - Added Speech Bubbles to Blade of the House of Spiders Ryōshū, and fixed the unique interaction lines.
 
   ### v1.104.0
   - Added Speech Bubbles to The Middle Big Brother Heathcliff. (COMPLETE AND TOTAL EXTERMINATION!!)

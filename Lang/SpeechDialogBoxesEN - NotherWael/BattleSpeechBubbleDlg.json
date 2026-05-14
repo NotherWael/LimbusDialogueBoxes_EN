@@ -9393,10 +9393,224 @@
       "id": "battle_special_10715_4",
       "desc": "",
       "dlg": "The punishment for all involved parties here... shall be complete and total extermination."
+    },
+
+    {
+      "id": "battle_eE_10415_1",
+      "desc": "############ Blade of the House of Spiders Ryoshu ##############이스터 - 메인(상) - 루치오 조우 시",
+      "dlg": "I'll cut you up so you won't dare attempt such mimicry again."
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "이스터 - 메인(상) - 렌 조우 시",
+      "dlg": "Who... are you? There wasn't anyone like you at the House of Spiders."
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "이스터 - 메인(상) - 알비나 조우 시",
+      "dlg": "... At least that armor keeps that revolting sight of you hidden."
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "이스터 - 메인(중) - 소라 조우 시",
+      "dlg": "Maybe that irksome beeping will fall silent once I've cut you up into a shapeless thing and tossed what's left of you into some forsaken gutter."
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+      "dlg": "... This place too, has a thing like me?"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+      "dlg": "I can see every thread of time entangling with your being."
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+      "dlg": "As I erase myself, I hope you'll be able to erase yourself."
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "이스터 - 메인(하) - 아라야 조우 시",
+      "dlg": "Pity... You saw the sky you never wanted to see and began to hope."
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+      "dlg": "You may speak of it again and again, but she still wouldn't remember."
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+      "dlg": "She wouldn't return even as those same flowers wilt."
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+      "dlg": "And not a day must have passed without you wanting to cry."
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+      "dlg": "Yes. So sever them all away here and now. Every single thread."
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
+      "dlg": "That awful noise... It's you. You're the one I'm meant to sever away here."
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+      "dlg": "You must've wanted this day to come. Or should I say, your god did?"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+      "dlg": "I'm not the one who belongs in hell. It's you."
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+      "dlg": "I <i>can</i> cut it off.\nBefore the weight of these entangling, strangling threads crush me to death... I will raise this sword... and cut them all off!"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
+      "dlg": "You don't deserve to ask me for explanations. I'm cutting you up because I want to, exactly as you used to kick me just because you felt like letting off some steam."
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
+      "dlg": "I'd prefer if your death isn't in that god's plans. Won't get an opportunity to have my share of joy otherwise."
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
+      "dlg": "That Relic, those chains, the juvenile collection of toys, your life... I will find every last one of the things you hold dear and destroy them."
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
+      "dlg": "Will you be happy once the blade cuts you through, knowing that your work is nearly complete? Or will you lament that you won't be there to witness its completion?"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "이스터 - 거던(히든) - 소라 조우 시",
+      "dlg": "That infuriating beeper... No wonder Arayashiki cut you to ribbons."
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "이스터 - 거던(히든) - 렌 조우 시",
+      "dlg": "... A stranger with a familiar form. But how? Our threads have never been entangled."
+    },
+
+    {
+      "id": "battle_select_10415_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... This ticking, too, will break away in the end."
+    },
+    {
+      "id": "battle_endcommand_10415_1",
+      "desc": "Commencing Attack",
+      "dlg": "As painted."
+    },
+    {
+      "id": "battle_enemy_break_10415_1",
+      "desc": "Enemy Stagger",
+      "dlg": "The more I cut..."
+    },
+    {
+      "id": "battle_break_10415_1",
+      "desc": "Staggered",
+      "dlg": "Not now... I don't want to return yet..."
+    },
+    {
+      "id": "battle_kill_10415_1",
+      "desc": "Enemy Killed",
+      "dlg": "... Does resentment dull, too?"
+    },
+    {
+      "id": "battle_dead_10415_1",
+      "desc": "Death",
+      "dlg": "Even in death... It still won't be severed..."
+    },
+
+    {
+      "id": "battle_s3_10415_1",
+      "desc": "",
+      "dlg": "I will erase all... cutting endlessly until my breath itself burns away."
+    },
+    {
+      "id": "battle_special_10415_1",
+      "desc": "",
+      "dlg": "Have I finally severed it completely...?"
+    },
+    {
+      "id": "battle_special_10415_1_2",
+      "desc": "",
+      "dlg": "Severance."
+    },
+    {
+      "id": "battle_special_10415_2",
+      "desc": "",
+      "dlg": "... Presistent, aren’t you."
+    },
+    {
+      "id": "battle_special_10415_4",
+      "desc": "",
+      "dlg": "You know it, don't you, It's pointless to predict my moves."
+    },
+    {
+      "id": "battle_special_10415_5",
+      "desc": "",
+      "dlg": "I'm sick and tired of you and your Palermitan technique—to hell with you!"
+    },
+    {
+      "id": "battle_special_10415_6",
+      "desc": "",
+      "dlg": "Be warned, it's gonna be hot. Hot as hell!"
+    },
+    {
+      "id": "battle_special_10415_7",
+      "desc": "",
+      "dlg": "Do you hear it? The roar of every moment of my life screaming to kill you!!"
+    },
+    {
+      "id": "battle_special_10415_8",
+      "desc": "",
+      "dlg": "And so, until this moment burns away... shall it be severed."
+    },
+    {
+      "id": "battle_special_10415_9",
+      "desc": "",
+      "dlg": "And the hunt comes to a close!"
+    },
+    {
+      "id": "battle_special_10415_9_1",
+      "desc": "",
+      "dlg": "Prediction is meaningless..."
+    },
+    {
+      "id": "battle_special_10415_9_2",
+      "desc": "",
+      "dlg": "Bullseye!"
+    },
+    {
+      "id": "battle_special_10415_9_3",
+      "desc": "",
+      "dlg": "Everyone. Good-bye."
+    },
+    {
+      "id": "battle_special_10415_10",
+      "desc": "",
+      "dlg": "Suffocatingly I have endured.\nDesperately I have longed.\nBeyond all count, I have cursed."
+    },
+    {
+      "id": "battle_special_10415_11",
+      "desc": "",
+      "dlg": "What is left to rage on... is nothing but agonized resentment."
     }
-
-
-
-
   ]
 }
