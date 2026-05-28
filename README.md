@@ -1,8 +1,11 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.105.0, Blade of the House of Spiders Ryōshū Added!
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.106.0, The Middle Nursefather Outis Added!
 ## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
+  
+  ### v1.106.0
+  - Added Speech Bubbles to The Middle Nursefather Outis.
 
   ### v1.105.0
   - Added Speech Bubbles to Blade of the House of Spiders Ryōshū, and fixed the unique interaction lines.

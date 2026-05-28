@@ -9611,6 +9611,107 @@
       "id": "battle_special_10415_11",
       "desc": "",
       "dlg": "What is left to rage on... is nothing but agonized resentment."
+    },
+
+    {
+      "id": "battle_select_11115_1",
+      "desc": "###### HoS The Middle Nursefather Outis ###### Viewed in Battle",
+      "dlg": "That unsettling noise... Got a bad feeling about this. Don't let your guard down."
+    },
+    {
+      "id": "battle_endcommand_11115_1",
+      "desc": "Commencing Attack",
+      "dlg": "Welcome to the kill zone!"
+    },
+    {
+      "id": "battle_enemy_break_11115_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Alright, out of phases, or do you have more surprises up your sleeve?"
+    },
+    {
+      "id": "battle_break_11115_1",
+      "desc": "Staggered",
+      "dlg": "Haha! It's been so long. I'm actually kinda winded!"
+    },
+    {
+      "id": "battle_kill_11115_1",
+      "desc": "Enemy Killed",
+      "dlg": "Game over!"
+    },
+    {
+      "id": "battle_dead_11115_1",
+      "desc": "Death",
+      "dlg": "... Won't let you... take my sword. Not ever..."
+    },
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "These toys..."
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "... ain't fun..."
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "... no more!"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "C'mere."
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "Be warned, it's gonna be hot."
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "Hot as hell!"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "Hah! Bullseye!"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "I’ve humored you enough!\nTime to unbox a layer!"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "Hahaha! Interesting!"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "Watch this closely!"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "Huh. Won't even need to open the book."
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "Hell yeah! you doin' it right, Kiddo!"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "Remember, Kiddo? A little sacrifice...! ain't a thing if it's for one of us!"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "This is all for the family!"
     }
   ]
 }
