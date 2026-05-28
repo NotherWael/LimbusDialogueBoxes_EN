@@ -8468,7 +8468,7 @@
     {
       "id": "battle_special_10814_1",
       "desc": "",
-      "dlg": "From where you're staring... I know mama's pretty cool..."
+      "dlg": "Staring at her...\nYou know mama's pretty cool..."
     },
     {
       "id": "battle_special_10814_2",
@@ -9696,7 +9696,7 @@
     {
       "id": "battle_special_11115_7",
       "desc": "",
-      "dlg": "Huh. Won't even need to open the book."
+      "dlg": "Huh. Not even gonna write that down."
     },
     {
       "id": "battle_special_11115_8",
@@ -9706,7 +9706,12 @@
     {
       "id": "battle_special_11115_9",
       "desc": "",
-      "dlg": "Remember, Kiddo? A little sacrifice...! ain't a thing if it's for one of us!"
+      "dlg": "Remember, Kiddo?"
+    },
+    {
+      "id": "battle_special_11115_9-01",
+      "desc": "",
+      "dlg": "A little sacrifice ain't a thing if it's for one of us!"
     },
     {
       "id": "battle_special_11115_10_2-03",

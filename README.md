@@ -6,6 +6,7 @@
   
   ### v1.106.0
   - Added Speech Bubbles to The Middle Nursefather Outis.
+  - Revised The Middle Apprentice Ishmael's New Line. (might be a mistranslation lowkey a confusing line)
 
   ### v1.105.0
   - Added Speech Bubbles to Blade of the House of Spiders Ryōshū, and fixed the unique interaction lines.
