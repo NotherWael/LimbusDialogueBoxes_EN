@@ -1038,12 +1038,12 @@
     },
 	{
       "id": "9SV-BAT7-00",
-      "desc": "1Might actually be this ID",
+      "desc": "",
       "dlg": "Demonstration complete."
     },
 	{
       "id": "9SV-BAT7-00-02",
-      "desc": "1UnknownVL-Stilllooking",
+      "desc": "",
       "dlg": "Observe the angle, speed, and the precise arc with which I swing the sword. Let it jog your memories."
     },
 	
@@ -1477,13 +1477,8 @@
     },
 
 	{
-      "id": "battle_dead_10905_1",
-      "desc": "############ Rosespanner Rodion ############",
-      "dlg": "If I knew this would happen... I woulda gone for a bigger spree... the other day."
-    },
-	{
       "id": "battle_s3_10905_1_2",
-      "desc": "",
+      "desc": "############ Rosespanner Rodion ############",
       "dlg": "Get caught...!"
     },
 	
@@ -2489,38 +2484,6 @@
       "dlg": "Urgh... If you don't want to get caught up in it, then move!"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_10912_1",
-      "desc": "",
-      "dlg": "Didya call, m'lord? Feel free to summon me for anything ya need."
-    },
-    {
-      "id": "battle_endcommand_10912_1",
-      "desc": "",
-      "dlg": "Let's sink our fangs into that thing."
-    },
-    {
-      "id": "battle_enemy_break_10912_1",
-      "desc": "",
-      "dlg": "My, did I catch ya off guard?"
-    },
-    {
-      "id": "battle_kill_10912_1",
-      "desc": "",
-      "dlg": "So sloppy."
-    },
-    {
-      "id": "battle_break_10912_1",
-      "desc": "",
-      "dlg": "Ngh…"
-    },
-	  {
-      "id": "battle_dead_10912_1",
-      "desc": "",
-      "dlg": "What… was the point…? All that time… I wasted… for the lord…"
-    },
 	  {
       "id": "battle_s3_10912_1_3",
       "desc": "############ Si Branch Rodion Start ############",
@@ -2736,7 +2699,7 @@
     {
       "id": "battle_s3-2_10613_1_9-01",
       "desc": "battle_s3-2_10613_1_9-01",
-      "dlg": "Intercept with the Horse."
+      "dlg": "Intercept with the Steed."
     },
     {
       "id": "battle_s3-2_10613_1_12-01",
@@ -2761,7 +2724,7 @@
     {
       "id": "battle_s3-2_10613_1_9-02",
       "desc": "battle_s3-2_10613_1_9-02",
-      "dlg": "Horse..."
+      "dlg": "Steed..."
     },
     {
       "id": "battle_s3-2_10613_1_12-02",
@@ -2806,27 +2769,27 @@
     {
       "id": "battle_s3-2_10613_1_6",
       "desc": "battle_s3-2_10613_1_6",
-      "dlg": "Mao..."
+      "dlg": "Mao (卯)..."
     },
     {
       "id": "battle_s3-2_10613_1_8",
       "desc": "battle_s3-2_10613_1_8",
-      "dlg": "Si..."
+      "dlg": "Si (蛇)..."
     },
     {
       "id": "battle_s3-2_10613_1_9",
       "desc": "battle_s3-2_10613_1_9",
-      "dlg": "Wu..."
+      "dlg": "Wu (午)..."
     },
     {
       "id": "battle_s3-2_10613_1_12",
       "desc": "battle_s3-2_10613_1_12",
-      "dlg": "You..."
+      "dlg": "You (酉)..."
     },
 	  {
       "id": "battle_s3-2_10613_1_10",
       "desc": "battle_s3-2_10613_1_10",
-      "dlg": "Wei..."
+      "dlg": "Wei (未)..."
     },
     {
       "id": "battle_s3-2_10613_1_2",
@@ -2864,16 +2827,12 @@
       "dlg": "No matter how tainted the blood may be,\nThe Lord will not die."
     },
     {
-      "id": "battle_undead_10613_1",
-      "desc": "battle_undead_10613_1",
-      "dlg": "The Lord will not die."
-    },
-    {
       "id": "battle_undead_10613_1-01",
       "desc": "battle_undead_10613_1-01",
-      "dlg": "Until I fulfil my goal... Death... Pass by me once more!"
+      "dlg": "Until I fulfil my goal... O Death... Pass by me once more!"
     },
-	
+
+    
     {
       "id": "battle_s3_10114_1_1",
       "desc": "############ Wu Branch Yi Sang Start ############",
@@ -2969,7 +2928,7 @@
     {
       "id": "battle_s3_10412_1_4",
       "desc": "",
-      "dlg": "Crimson Red Contempt."
+      "dlg": "... Crimson Red Contempt."
     },
     {
       "id": "battle_special_10412_1",
@@ -3026,11 +2985,6 @@
       "id": "battle_special_10213_1",
       "desc": "",
       "dlg": "It will hit the target without fail."
-    },
-	  {
-      "id": "battle_special_10213_3",
-      "desc": "",
-      "dlg": "One shot, one kill."
     },
 	  {
       "id": "battle_withdraw_arrow_10213",
@@ -3096,39 +3050,34 @@
     },
 	
 	  {
-        "id": "battle_s3_10813_1_1",
-        "desc": "###### Jeong's Office Ishmael ######",
-        "dlg": "March..."
-    },
-	  {
-        "id": "battle_s3_10813_1_4",
-        "desc": "",
-        "dlg": "Sakura!"
-    },
-	  {
         "id": "battle_special_10813_1",
-        "desc": "",
+        "desc": "###### Jeong's Office Ishmael ######",
         "dlg": "Hah... It’s a bust. Next."
     },
 	  {
         "id": "battle_special_10813_2",
         "desc": "",
-        "dlg": "Sankō!"
+        "dlg": "Sankō (三光)!"
     },
 	  {
         "id": "battle_special_10813_3",
         "desc": "",
-        "dlg": "Tsk. The Rain one."
+        "dlg": "Tsk. The Rain comes down."
     },
 	  {
         "id": "battle_special_10813_3-01",
         "desc": "",
-        "dlg": "Ameshikō!"
+        "dlg": "Ameshikō (雨四光)!"
     },
 	  {
         "id": "battle_special_10813_4",
         "desc": "",
         "dlg": "Crane, Blossom."
+    },
+    {
+      "id": "battle_special_10813_5",
+      "desc": "",
+      "dlg": ""
     },
 	  {
         "id": "battle_special_10813_6",
@@ -3138,7 +3087,7 @@
 	  {
         "id": "battle_special_10813_7",
         "desc": "",
-        "dlg": "Gōkō!"
+        "dlg": "Gōkō (五光)!"
     },
 
 	  {
@@ -3206,7 +3155,7 @@
     {
         "id": "battle_s3_10714_1_1",
         "desc": "###### Heishou You Adept Heathcliff ######",
-        "dlg": "Bloodtalons...! Conflagrate!"
+        "dlg": "Bloodtalons...! Conflagrate!\n(血爪炎化)!"
     },
     {
         "id": "battle_special_10714_1",
@@ -3242,7 +3191,7 @@
     {
           "id": "battle_special_10413_1-02",
           "desc": "",
-          "dlg": "Whirlwind(廻風)!"
+          "dlg": "Whirlwind (廻風)!"
     },      
     {
           "id": "battle_special_10413_2",
@@ -3993,6 +3942,11 @@
       "id": "battle_special_10715_1_2",
       "desc": "",
       "dlg": "Crank up the music louder!"
+    },
+    {
+      "id": "battle_special_10715_2",
+      "desc": "",
+      "dlg": ""
     },
     {
       "id": "battle_special_10715_2_1",
