@@ -81,6 +81,9 @@ Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_D
 ### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a Vew update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
 ### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
 ### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
+## Make sure to enable this setting in-game or else the Speech Bubbles wont appear!
+<img width="598" height="54" alt="image" src="https://github.com/user-attachments/assets/dbd4b03d-40db-4619-8143-af201e903a51" />
+
 # Installation - PC
 ## Using the Installer:
 1. Download [LimbusSpeechBubbleEN_Installer-main.zip](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) and extract it.
