@@ -2,7 +2,7 @@
 ## PM Added a new setting in options that is disabled by default make sure to enable it, to see the speech bubbles!
 <img width="598" height="54" alt="image" src="https://github.com/user-attachments/assets/c10532b4-c2ef-4d78-b236-9944300693aa" />
 
-## REGARDING UNINSTALLATION TO SEE PM's SPEECH BUBBLES
+## REGARDING **UNINSTALLATION** TO SEE PM's SPEECH BUBBLES
 1. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
 Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
