@@ -1366,515 +1366,15 @@
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
     },
 	
-	
-	{	
-      "id": "battle_select_10101_1",
-      "desc": "############ LCB Sinner Yi Sang ############",
-      "dlg": "Have you found what you seek?"
-    },
-    {
-      "id": "battle_endcommand_10101_1",
-      "desc": "",
-      "dlg": "I shall remove the bumps."
-    },
-    {
-      "id": "battle_enemy_break_10101_1",
-      "desc": "",
-      "dlg": "Such is the fate of a frequent target."
-    },
-    {
-      "id": "battle_kill_10101_1",
-      "desc": "",
-      "dlg": "The mirror of this bump has shattered."
-    },
-    {
-      "id": "battle_break_10101_1",
-      "desc": "",
-      "dlg": "Hnf..."
-    },
-	
-	{	
-      "id": "battle_select_10102_1",
-      "desc": "############ Seven South Sect6 Yi Sang ############",
-      "dlg": "How about you examine that one?"
-    },
-    {
-      "id": "battle_endcommand_10102_1",
-      "desc": "",
-      "dlg": "I have finished my studies."
-    },
-    {
-      "id": "battle_enemy_break_10102_1",
-      "desc": "",
-      "dlg": "That one has become vulnerable."
-    },
-    {
-      "id": "battle_kill_10102_1",
-      "desc": "",
-      "dlg": "Fallen into silence."
-    },
-    {
-      "id": "battle_break_10102_1",
-      "desc": "",
-      "dlg": "Oh..."
-    },
-	
-	
-	{	
-      "id": "battle_select_10103_1",
-      "desc": "############ Blade Lineage Yi Sang ############",
-      "dlg": "The sword is still sharp."
-    },
-    {
-      "id": "battle_endcommand_10103_1",
-      "desc": "",
-      "dlg": "I shall carve the sin unto you."
-    },
-    {
-      "id": "battle_enemy_break_10103_1",
-      "desc": "",
-      "dlg": "It’s bloodshed."
-    },
-    {
-      "id": "battle_kill_10103_1",
-      "desc": "",
-      "dlg": "A consequence of the scars."
-    },
-    {
-      "id": "battle_break_10103_1",
-      "desc": "",
-      "dlg": "Hmh…"
-    },
-	
-	
-	{	
-      "id": "battle_select_10201_1",
-      "desc": "############ LCB Sinner Faust ############",
-      "dlg": "What is it, Manager?"
-    },
-    {
-      "id": "battle_endcommand_10201_1",
-      "desc": "",
-      "dlg": "Commencing action."
-    },
-    {
-      "id": "battle_enemy_break_10201_1",
-      "desc": "",
-      "dlg": "An opportunity has arrived."
-    },
-    {
-      "id": "battle_kill_10201_1",
-      "desc": "",
-      "dlg": "An obvious outcome."
-    },
-    {
-      "id": "battle_break_10201_1",
-      "desc": "",
-      "dlg": "Ugh!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10202_1",
-      "desc": "############ W Corp Faust ############",
-      "dlg": "Things are rather busying at the moment."
-    },
-    {
-      "id": "battle_endcommand_10202_1",
-      "desc": "",
-      "dlg": "It will be quick work."
-    },
-    {
-      "id": "battle_enemy_break_10202_1",
-      "desc": "",
-      "dlg": "Weakness noted."
-    },
-    {
-      "id": "battle_kill_10202_1",
-      "desc": "",
-      "dlg": "The job is done."
-    },
-    {
-      "id": "battle_break_10202_1",
-      "desc": "",
-      "dlg": "Tch!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10203_1",
-      "desc": "############ L Corp Remnant Faust ############",
-      "dlg": "What was done wrong?"
-    },
-    {
-      "id": "battle_endcommand_10203_1",
-      "desc": "",
-      "dlg": "There’s no fear right now."
-    },
-    {
-      "id": "battle_enemy_break_10203_1",
-      "desc": "",
-      "dlg": "You’re up next."
-    },
-    {
-      "id": "battle_kill_10203_1",
-      "desc": "",
-      "dlg": "That wasn’t scary."
-    },
-    {
-      "id": "battle_break_10203_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10301_1",
-      "desc": "############ LCB Sinner DonQ ############",
-      "dlg": "Thine eyes were upon me!"
-    },
-    {
-      "id": "battle_endcommand_10301_1",
-      "desc": "",
-      "dlg": "To arms!"
-    },
-    {
-      "id": "battle_enemy_break_10301_1",
-      "desc": "",
-      "dlg": "Just as I foresaw!"
-    },
-    {
-      "id": "battle_kill_10301_1",
-      "desc": "",
-      "dlg": "A triumph!"
-    },
-    {
-      "id": "battle_break_10301_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10302_1",
-      "desc": "############ W Corp DonQ ############",
-      "dlg": "I'm always ready to speed forward!"
-    },
-    {
-      "id": "battle_endcommand_10302_1",
-      "desc": "",
-      "dlg": "None shall stop me!"
-    },
-    {
-      "id": "battle_enemy_break_10302_1",
-      "desc": "",
-      "dlg": "Now seems to be our chance!"
-    },
-    {
-      "id": "battle_kill_10302_1",
-      "desc": "",
-      "dlg": "Where to next?!"
-    },
-    {
-      "id": "battle_break_10302_1",
-      "desc": "",
-      "dlg": "Urk!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10303_1",
-      "desc": "############ Shi South Sect5 DonQ ############",
-      "dlg": "I was preparing a surprise attack- you were able to detect me?"
-    },
-    {
-      "id": "battle_endcommand_10303_1",
-      "desc": "",
-      "dlg": "Let us vanquish these evildoers!"
-    },
-    {
-      "id": "battle_enemy_break_10303_1",
-      "desc": "",
-      "dlg": "You shan't be let a moment of clarity!"
-    },
-    {
-      "id": "battle_kill_10303_1",
-      "desc": "",
-      "dlg": "I slew them!"
-    },
-    {
-      "id": "battle_break_10303_1",
-      "desc": "",
-      "dlg": "Ack..."
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10401_1",
-      "desc": "############ LCB Sinner Ryoshu ############",
-      "dlg": "Brought a light?"
-    },
-    {
-      "id": "battle_endcommand_10401_1",
-      "desc": "",
-      "dlg": "I’ll show you proper art."
-    },
-    {
-      "id": "battle_enemy_break_10401_1",
-      "desc": "",
-      "dlg": "Easy. It’s not done yet."
-    },
-    {
-      "id": "battle_kill_10401_1",
-      "desc": "",
-      "dlg": "Could’ve been more beautiful."
-    },
-    {
-      "id": "battle_break_10401_1",
-      "desc": "",
-      "dlg": "Tch."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10402_1",
-      "desc": "############ Seven South Sect6 Ryoshu ############",
-      "dlg": "Found the info you need?"
-    },
-    {
-      "id": "battle_endcommand_10402_1",
-      "desc": "",
-      "dlg": "Time to get going. Morons."
-    },
-    {
-      "id": "battle_enemy_break_10402_1",
-      "desc": "",
-      "dlg": "Got their weak spots down."
-    },
-    {
-      "id": "battle_kill_10402_1",
-      "desc": "",
-      "dlg": "PACTS\n<size=50%>(Peak Art Created Through Swordsmanship)</size>"
-    },
-    {
-      "id": "battle_break_10402_1",
-      "desc": "",
-      "dlg": "Ugh!"
-    },
 	{
       "id": "battle_s3_10402_1",
-      "desc": "",
+      "desc": "############ Seven South Sect6 Ryoshu ############",
       "dlg": "I'll cut you down."
     },
-	
-	
-	
-	{	
-      "id": "battle_select_10403_1",
-      "desc": "############ Kurokumo Ryoshu ############",
-      "dlg": "You're not picking a fight, are you?"
-    },
-    {
-      "id": "battle_endcommand_10403_1",
-      "desc": "",
-      "dlg": "Just don't get in the way."
-    },
-    {
-      "id": "battle_enemy_break_10403_1",
-      "desc": "",
-      "dlg": "Was the edge dull?"
-    },
-    {
-      "id": "battle_kill_10403_1",
-      "desc": "",
-      "dlg": "Was sharpened pretty nicely."
-    },
-    {
-      "id": "battle_break_10403_1",
-      "desc": "",
-      "dlg": "Tch!"
-    },
-	{
-      "id": "battle_s2_10403_1_2",
-      "desc": "",
-      "dlg": "It's over."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10501_1",
-      "desc": "############ LCB Sinner Meursault ############",
-      "dlg": "Is there a problem, Manager?"
-    },
-    {
-      "id": "battle_endcommand_10501_1",
-      "desc": "",
-      "dlg": "I shall execute the order according to the rules."
-    },
-    {
-      "id": "battle_enemy_break_10501_1",
-      "desc": "",
-      "dlg": "I am awaiting your next order."
-    },
-    {
-      "id": "battle_kill_10501_1",
-      "desc": "",
-      "dlg": "Done accordingly."
-    },
-    {
-      "id": "battle_break_10501_1",
-      "desc": "",
-      "dlg": "Ugh!"
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10502_1",
-      "desc": "############ Liu South Sect6 Meursault ############",
-      "dlg": "Is it not progressing well?"
-    },
-    {
-      "id": "battle_endcommand_10502_1",
-      "desc": "",
-      "dlg": "Follow my fire."
-    },
-    {
-      "id": "battle_enemy_break_10502_1",
-      "desc": "",
-      "dlg": "It seems to have gone well."
-    },
-    {
-      "id": "battle_kill_10502_1",
-      "desc": "",
-      "dlg": "A natural outcome."
-    },
-    {
-      "id": "battle_break_10502_1",
-      "desc": "",
-      "dlg": "Nkh!"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10503_1",
-      "desc": "############ W Corp Meursault ############",
-      "dlg": "You certainly are a peculiar individual."
-    },
-    {
-      "id": "battle_endcommand_10503_1",
-      "desc": "",
-      "dlg": "Removing obstacles."
-    },
-    {
-      "id": "battle_enemy_break_10503_1",
-      "desc": "",
-      "dlg": "I am not particularly amused."
-    },
-    {
-      "id": "battle_kill_10503_1",
-      "desc": "",
-      "dlg": "I won't have to collect these remains."
-    },
-    {
-      "id": "battle_break_10503_1",
-      "desc": "",
-      "dlg": "Hmpfh!"
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10601_1",
-      "desc": "############ LCB Sinner Hong Lu ############",
-      "dlg": "What is it, Dante?"
-    },
-    {
-      "id": "battle_endcommand_10601_1",
-      "desc": "",
-      "dlg": "I’ll do what I can~ If it flunks, it flunks~"
-    },
-    {
-      "id": "battle_enemy_break_10601_1",
-      "desc": "",
-      "dlg": "Haha. What an amusing moment~"
-    },
-    {
-      "id": "battle_kill_10601_1",
-      "desc": "",
-      "dlg": "I never run out of new sights to see~"
-    },
-    {
-      "id": "battle_break_10601_1",
-      "desc": "",
-      "dlg": "Oh my!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10602_1",
-      "desc": "############ Kurokumo Hong Lu ############",
-      "dlg": "Ah, you're here, Lord Dante."
-    },
-    {
-      "id": "battle_endcommand_10602_1",
-      "desc": "",
-      "dlg": "It won't be as fun, but I'll do it~"
-    },
-    {
-      "id": "battle_enemy_break_10602_1",
-      "desc": "",
-      "dlg": "I think I could do a better job next time?"
-    },
-    {
-      "id": "battle_kill_10602_1",
-      "desc": "",
-      "dlg": "What a joy it is to slash~"
-    },
-    {
-      "id": "battle_break_10602_1",
-      "desc": "",
-      "dlg": "Mmpf!"
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10603_1",
-      "desc": "############ Tingtang Hong Lu ############",
-      "dlg": "Do you need my help, Dante?"
-    },
-    {
-      "id": "battle_endcommand_10603_1",
-      "desc": "",
-      "dlg": "I hope luck is at my side~"
-    },
-    {
-      "id": "battle_enemy_break_10603_1",
-      "desc": "",
-      "dlg": "Did you see, Dante?"
-    },
-    {
-      "id": "battle_kill_10603_1",
-      "desc": "",
-      "dlg": "Just too easy~"
-    },
-    {
-      "id": "battle_break_10603_1",
-      "desc": "",
-      "dlg": "Unk!"
-    },
+    
 	{
       "id": "battle_s2_10603_1_3",
-      "desc": "",
+      "desc": "############ Tingtang Hong Lu ############",
       "dlg": "It's fun~"
     },
 	{
@@ -1883,200 +1383,9 @@
       "dlg": "Hahahahaha~!"
     },
 		
-	
-	{	
-      "id": "battle_select_10701_1",
-      "desc": "############ LCB Sinner Heathcliff ############",
-      "dlg": "What? Why?"
-    },
-    {
-      "id": "battle_endcommand_10701_1",
-      "desc": "",
-      "dlg": "Already there!"
-    },
-    {
-      "id": "battle_enemy_break_10701_1",
-      "desc": "",
-      "dlg": "Haha, how do ya like that?"
-    },
-    {
-      "id": "battle_kill_10701_1",
-      "desc": "",
-      "dlg": "Piss easy."
-    },
-    {
-      "id": "battle_break_10701_1",
-      "desc": "",
-      "dlg": "Grh...!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10702_1",
-      "desc": "############ Shi South Sect5 Heathcliff ############",
-      "dlg": "Alright, who do you want me to scrap?"
-    },
-    {
-      "id": "battle_endcommand_10702_1",
-      "desc": "",
-      "dlg": "Aye, I'll go cut 'em!"
-    },
-    {
-      "id": "battle_enemy_break_10702_1",
-      "desc": "",
-      "dlg": "How's that? Hurts to death, don't it?"
-    },
-    {
-      "id": "battle_kill_10702_1",
-      "desc": "",
-      "dlg": "Target wiped~"
-    },
-    {
-      "id": "battle_break_10702_1",
-      "desc": "",
-      "dlg": "Tch...!"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10703_1",
-      "desc": "############ R Corp 4th Pack Rabbit Heathcliff ############",
-      "dlg": "Got some sort of bombastic plan?"
-    },
-    {
-      "id": "battle_endcommand_10703_1",
-      "desc": "",
-      "dlg": "Hop on!"
-    },
-    {
-      "id": "battle_enemy_break_10703_1",
-      "desc": "",
-      "dlg": "Go on and get wild for me!"
-    },
-    {
-      "id": "battle_kill_10703_1",
-      "desc": "",
-      "dlg": "Huff, that feels good to chew."
-    },
-    {
-      "id": "battle_break_10703_1",
-      "desc": "",
-      "dlg": "Hah...!"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10801_1",
-      "desc": "############ LCB Sinner Ishmael ############",
-      "dlg": "I'm busy at the moment, so please keep it brief."
-    },
-    {
-      "id": "battle_endcommand_10801_1",
-      "desc": "",
-      "dlg": "Sounds like a plan. Let's go."
-    },
-    {
-      "id": "battle_enemy_break_10801_1",
-      "desc": "",
-      "dlg": "The enemy has been stranded."
-    },
-    {
-      "id": "battle_kill_10801_1",
-      "desc": "",
-      "dlg": "Down they sink."
-    },
-    {
-      "id": "battle_break_10801_1",
-      "desc": "",
-      "dlg": "Nghk...!"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10802_1",
-      "desc": "############ R Corp 4th Pack Reindeer Ishmael ############",
-      "dlg": "I'm in my right mind... for now."
-    },
-    {
-      "id": "battle_endcommand_10802_1",
-      "desc": "",
-      "dlg": "Huff... Engaging in combat."
-    },
-    {
-      "id": "battle_enemy_break_10802_1",
-      "desc": "",
-      "dlg": "Your mind...is too weak."
-    },
-    {
-      "id": "battle_kill_10802_1",
-      "desc": "",
-      "dlg": "Huff... The noise is reduced a little."
-    },
-    {
-      "id": "battle_break_10802_1",
-      "desc": "",
-      "dlg": "Argh!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10803_1",
-      "desc": "############ Shi South Sect5 Ishmael ############",
-      "dlg": "You aren't supposed to visit me in the middle of a mission..."
-    },
-    {
-      "id": "battle_endcommand_10803_1",
-      "desc": "",
-      "dlg": "Unseen by any."
-    },
-    {
-      "id": "battle_enemy_break_10803_1",
-      "desc": "",
-      "dlg": "I'll render you silent next."
-    },
-    {
-      "id": "battle_kill_10803_1",
-      "desc": "",
-      "dlg": "Total silence."
-    },
-    {
-      "id": "battle_break_10803_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10804_1",
-      "desc": "############ LCCB Assistant Manager Ishmael ############",
-      "dlg": "...Wilco."
-    },
-    {
-      "id": "battle_endcommand_10804_1",
-      "desc": "",
-      "dlg": "Engaging the target."
-    },
-    {
-      "id": "battle_enemy_break_10804_1",
-      "desc": "",
-      "dlg": "Target incapitated."
-    },
-    {
-      "id": "battle_kill_10804_1",
-      "desc": "",
-      "dlg": "Target neutralization confirmed."
-    },
-    {
-      "id": "battle_break_10804_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
 	{
       "id": "battle_s2_10804_1",
-      "desc": "",
+      "desc": "############ LCCB Assistant Manager Ishmael ############",
       "dlg": "Target confirmed."
     },
 	{
@@ -2085,610 +1394,37 @@
       "dlg": "Kill confirmed."
     },
 	
-	{	
-      "id": "battle_select_10901_1",
-      "desc": "############ LCB Sinner Rodion ############",
-      "dlg": "What? Did you miss me?"
-    },
-    {
-      "id": "battle_endcommand_10901_1",
-      "desc": "",
-      "dlg": "Be back in a jiffy~"
-    },
-    {
-      "id": "battle_enemy_break_10901_1",
-      "desc": "",
-      "dlg": "Is that all?"
-    },
-    {
-      "id": "battle_kill_10901_1",
-      "desc": "",
-      "dlg": "Score! You owe me a treat, Dante~"
-    },
-    {
-      "id": "battle_break_10901_1",
-      "desc": "",
-      "dlg": "Ngh…!"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10902_1",
-      "desc": "############ Kurokumo Rodion ############",
-      "dlg": "My, I don't like to be bothered while I'm working~"
-    },
-    {
-      "id": "battle_endcommand_10902_1",
-      "desc": "",
-      "dlg": "I like some substance in my victims~"
-    },
-    {
-      "id": "battle_enemy_break_10902_1",
-      "desc": "",
-      "dlg": "You're not too soft, huh?"
-    },
-    {
-      "id": "battle_kill_10902_1",
-      "desc": "",
-      "dlg": "You were mushy after all."
-    },
-    {
-      "id": "battle_break_10902_1",
-      "desc": "",
-      "dlg": "Hngh...!"
-    },
-	
-	
-	{	
-      "id": "battle_select_10903_1",
-      "desc": "############ LCCB Assistant Manager Rodion ############",
-      "dlg": "Hm? Ya need something?"
-    },
-    {
-      "id": "battle_endcommand_10903_1",
-      "desc": "",
-      "dlg": "Rodya, engaging enemy forces!"
-    },
-    {
-      "id": "battle_enemy_break_10903_1",
-      "desc": "",
-      "dlg": "Target’s incapacitated."
-    },
-    {
-      "id": "battle_kill_10903_1",
-      "desc": "",
-      "dlg": "Target neutralization confirmed!"
-    },
-    {
-      "id": "battle_break_10903_1",
-      "desc": "",
-      "dlg": "Tch...!"
-    },
 	{
       "id": "battle_s3_10903_1_2",
-      "desc": "",
+      "desc": "############ LCCB Assistant Manager Rodion ############",
       "dlg": "Breaching!"
     },
 	
-	{	
-      "id": "battle_select_11001_1",
-      "desc": "############ LCB Sinner Sinclair ############",
-      "dlg": "Did I do something wrong…?"
-    },
-    {
-      "id": "battle_endcommand_11001_1",
-      "desc": "",
-      "dlg": "I’ll try…!"
-    },
-    {
-      "id": "battle_enemy_break_11001_1",
-      "desc": "",
-      "dlg": "I did it, right…?"
-    },
-    {
-      "id": "battle_kill_11001_1",
-      "desc": "",
-      "dlg": "I did it!"
-    },
-    {
-      "id": "battle_break_11001_1",
-      "desc": "",
-      "dlg": "Ngh...!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11002_1",
-      "desc": "############ Blade Lineage Sinclair ############",
-      "dlg": "Please trust my blade..."
-    },
-    {
-      "id": "battle_endcommand_11002_1",
-      "desc": "",
-      "dlg": "I won't hesitate...!"
-    },
-    {
-      "id": "battle_enemy_break_11002_1",
-      "desc": "",
-      "dlg": "I'll be able to cut them down next, right?"
-    },
-    {
-      "id": "battle_kill_11002_1",
-      "desc": "",
-      "dlg": "I slew them!"
-    },
-    {
-      "id": "battle_break_11002_1",
-      "desc": "",
-      "dlg": "Hng...!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11003_1",
-      "desc": "############ Zwei South Sect6 Sinclair ############",
-      "dlg": "I'll try my best to keep the others safe!"
-    },
-    {
-      "id": "battle_endcommand_11003_1",
-      "desc": "",
-      "dlg": "This way!"
-    },
-    {
-      "id": "battle_enemy_break_11003_1",
-      "desc": "",
-      "dlg": "Now's our chance!"
-    },
-    {
-      "id": "battle_kill_11003_1",
-      "desc": "",
-      "dlg": "I did it!"
-    },
-    {
-      "id": "battle_break_11003_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11004_1",
-      "desc": "############ Los Mariachis Jefe Sinclair ############",
-      "dlg": "What's up, Dante...?"
-    },
-    {
-      "id": "battle_endcommand_11004_1",
-      "desc": "",
-      "dlg": "I'll bust your head."
-    },
-    {
-      "id": "battle_enemy_break_11004_1",
-      "desc": "",
-      "dlg": "I'll take your head next."
-    },
-    {
-      "id": "battle_kill_11004_1",
-      "desc": "",
-      "dlg": "Too easy."
-    },
-    {
-      "id": "battle_break_11004_1",
-      "desc": "",
-      "dlg": "Unk!"
-    },
 	{
       "id": "battle_s2_11004_1_1",
-      "desc": "",
+      "desc": "############ Los Mariachis Jefe Sinclair ############",
       "dlg": "Now, now~"
-    },
-	
-	{	
-      "id": "battle_select_11101_1",
-      "desc": "############ LCB Sinner Outis ############",
-      "dlg": "Do you have any business with me, Executive Manager?"
-    },
-    {
-      "id": "battle_endcommand_11101_1",
-      "desc": "",
-      "dlg": "As you order."
-    },
-    {
-      "id": "battle_enemy_break_11101_1",
-      "desc": "",
-      "dlg": "The plan is going smoothly."
-    },
-    {
-      "id": "battle_kill_11101_1",
-      "desc": "",
-      "dlg": "A sound strategy."
-    },
-    {
-      "id": "battle_break_11101_1",
-      "desc": "",
-      "dlg": "Ugh!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11102_1",
-      "desc": "############ Blade Lineage Outis ############",
-      "dlg": "I'd appreciate it if you kept it simple."
-    },
-    {
-      "id": "battle_endcommand_11102_1",
-      "desc": "",
-      "dlg": "I won't stand back."
-    },
-    {
-      "id": "battle_enemy_break_11102_1",
-      "desc": "",
-      "dlg": "I should be able to slay them with ease."
-    },
-    {
-      "id": "battle_kill_11102_1",
-      "desc": "",
-      "dlg": "A result earned through calmness."
-    },
-    {
-      "id": "battle_break_11102_1",
-      "desc": "",
-      "dlg": "Mmpf!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11103_1",
-      "desc": "############ G Corp Head Manager Outis ############",
-      "dlg": "Do you need my advice?"
-    },
-    {
-      "id": "battle_endcommand_11103_1",
-      "desc": "",
-      "dlg": "Charging in."
-    },
-    {
-      "id": "battle_enemy_break_11103_1",
-      "desc": "",
-      "dlg": "I spotted a vulnerability."
-    },
-    {
-      "id": "battle_kill_11103_1",
-      "desc": "",
-      "dlg": "Where do I go next?"
-    },
-    {
-      "id": "battle_break_11103_1",
-      "desc": "",
-      "dlg": "Tch!"
     },
 	{
       "id": "battle_s2_11103_1",
-      "desc": "",
+      "desc": "############ G Corp Head Manager Outis ############",
       "dlg": "Attack!"
     },
-	
-	{	
-      "id": "battle_select_11201_1",
-      "desc": "############ LCB Sinner Gregor ############",
-      "dlg": "What’s up? You got something to say?"
-    },
-    {
-      "id": "battle_endcommand_11201_1",
-      "desc": "",
-      "dlg": "Alright, here I go!"
-    },
-    {
-      "id": "battle_enemy_break_11201_1",
-      "desc": "",
-      "dlg": "Whoa, that was a pretty clean hit."
-    },
-    {
-      "id": "battle_break_11201_1",
-      "desc": "",
-      "dlg": "Ah, shoot…"
-    },
-	
-	
-	{	
-      "id": "battle_select_11202_1",
-      "desc": "############ Liu South Sect6 Gregor ############",
-      "dlg": "What is it, Manager Bud?"
-    },
-    {
-      "id": "battle_endcommand_11202_1",
-      "desc": "",
-      "dlg": "Let’s get right into it."
-    },
-    {
-      "id": "battle_enemy_break_11202_1",
-      "desc": "",
-      "dlg": "Pretty flammable, aren’t ya?"
-    },
-    {
-      "id": "battle_kill_11202_1",
-      "desc": "",
-      "dlg": "Next."
-    },
-    {
-      "id": "battle_break_11202_1",
-      "desc": "",
-      "dlg": "Ugh!"
-    },
-	
-	
-	{	
-      "id": "battle_select_11203_1",
-      "desc": "############ G Corp Manager Corporal Gregor ############",
-      "dlg": "Manager Corporal Gregor reporting!"
-    },
-    {
-      "id": "battle_endcommand_11203_1",
-      "desc": "",
-      "dlg": "Roger that!"
-    },
-    {
-      "id": "battle_enemy_break_11203_1",
-      "desc": "",
-      "dlg": "I took one down!"
-    },
-    {
-      "id": "battle_kill_11203_1",
-      "desc": "",
-      "dlg": "Next."
-    },
-    {
-      "id": "battle_break_11203_1",
-      "desc": "",
-      "dlg": "Ngh…"
-    },
-	
-	
-	{	
-      "id": "battle_select_10504_1",
-      "desc": "############ N Corp Großhammer Meursault ############",
-      "dlg": "I heed your words."
-    },
-    {
-      "id": "battle_endcommand_10504_1",
-      "desc": "",
-      "dlg": "You shall repent."
-    },
-    {
-      "id": "battle_enemy_break_10504_1",
-      "desc": "",
-      "dlg": "A worthless resistance."
-    },
-    {
-      "id": "battle_kill_10504_1",
-      "desc": "",
-      "dlg": "The heretic has been purged."
-    },
-    {
-      "id": "battle_break_10504_1",
-      "desc": "",
-      "dlg": "Such feeble faith."
-    },
-	{
-      "id": "battle_dead_10504_1",
-      "desc": "",
-      "dlg": "The hammer… shall pursue you to the end…"
-    },
+
 	{
       "id": "battle_s3_10504_1_2",
-      "desc": "",
-      "dlg": "Silence."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10504_1",
       "desc": "############ N Corp Großhammer Meursault ############",
-      "dlg": "I heed your words."
-    },
-    {
-      "id": "battle_endcommand_10504_1",
-      "desc": "",
-      "dlg": "You shall repent."
-    },
-    {
-      "id": "battle_enemy_break_10504_1",
-      "desc": "",
-      "dlg": "A worthless resistance."
-    },
-    {
-      "id": "battle_kill_10504_1",
-      "desc": "",
-      "dlg": "The heretic has been purged."
-    },
-    {
-      "id": "battle_break_10504_1",
-      "desc": "",
-      "dlg": "Such feeble faith."
-    },
-	{
-      "id": "battle_dead_10504_1",
-      "desc": "",
-      "dlg": "The hammer… shall pursue you to the end…"
-    },
-	{
-      "id": "battle_s3_10504_1_2",
-      "desc": "",
       "dlg": "Silence."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10904_1",
-      "desc": "############ N Corp Mittlehammer Rodion ############",
-      "dlg": "Did you call for me?"
-    },
-    {
-      "id": "battle_endcommand_10904_1",
-      "desc": "",
-      "dlg": "Purge!"
-    },
-    {
-      "id": "battle_enemy_break_10904_1",
-      "desc": "",
-      "dlg": "The heretic falters."
-    },
-    {
-      "id": "battle_kill_10904_1",
-      "desc": "",
-      "dlg": "You will repent with your death."
-    },
-    {
-      "id": "battle_break_10904_1",
-      "desc": "",
-      "dlg": "Such weakness!"
-    },
-	{
-      "id": "battle_dead_10904_1",
-      "desc": "",
-      "dlg": "This… can’t be..."
-    },
-	
-	
-	{	
-      "id": "battle_select_10204_1",
-      "desc": "############ One Who Grips Faust ############",
-      "dlg": "Save your confession for later."
-    },
-    {
-      "id": "battle_endcommand_10204_1",
-      "desc": "",
-      "dlg": "Purge!"
-    },
-    {
-      "id": "battle_enemy_break_10204_1",
-      "desc": "",
-      "dlg": "From dirt…"
-    },
-    {
-      "id": "battle_kill_10204_1",
-      "desc": "",
-      "dlg": "…to dirt!"
-    },
-    {
-      "id": "battle_break_10204_1",
-      "desc": "",
-      "dlg": "…Goodness."
-    },
-	{
-      "id": "battle_dead_10204_1",
-      "desc": "",
-      "dlg": "I’ve… yet to be whole…"
     },
 	{
       "id": "battle_s3_10204_1_2",
-      "desc": "",
+      "desc": "############ One Who Grips Faust ############",
       "dlg": "Pierce through!"
     },
 	
-	
-	
-	{	
-      "id": "battle_select_10704_1",
-      "desc": "############ N Corp Klienhammer Heathcliff ############",
-      "dlg": "What is it now…?"
-    },
-    {
-      "id": "battle_endcommand_10704_1",
-      "desc": "",
-      "dlg": "“Puri…fy.” Was that how it goes?"
-    },
-    {
-      "id": "battle_enemy_break_10704_1",
-      "desc": "",
-      "dlg": "Eliminate the heretic…"
-    },
-    {
-      "id": "battle_kill_10704_1",
-      "desc": "",
-      "dlg": "…Another one goes."
-    },
-    {
-      "id": "battle_break_10704_1",
-      "desc": "",
-      "dlg": "…Gah! Where am…"
-    },
-	{
-      "id": "battle_dead_10704_1",
-      "desc": "1hmm idk what to do if it gets censored",
-      "dlg": "Dammit… Cathy…"
-    },
-	
-
-	
-	{	
-      "id": "battle_select_10604_1",
-      "desc": "############ Liu South Sect5 Hong Lu ############",
-      "dlg": "Is there anything you want to say?"
-    },
-    {
-      "id": "battle_endcommand_10604_1",
-      "desc": "",
-      "dlg": "With grace!"
-    },
-    {
-      "id": "battle_enemy_break_10604_1",
-      "desc": "",
-      "dlg": "Their balance is broken!"
-    },
-    {
-      "id": "battle_kill_10604_1",
-      "desc": "",
-      "dlg": "It burns bright!"
-    },
-    {
-      "id": "battle_break_10604_1",
-      "desc": "",
-      "dlg": "Oh dear..."
-    },
-	{
-      "id": "battle_dead_10604_1",
-      "desc": "",
-      "dlg": "Well, I... really could use... a warm cup... of tea."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_11104_1",
-      "desc": "############ Seven South Sect6 Outis ############",
-      "dlg": "Do you have an opinion you want to voice?"
-    },
-    {
-      "id": "battle_endcommand_11104_1",
-      "desc": "",
-      "dlg": "I’ll take charge."
-    },
-    {
-      "id": "battle_enemy_break_11104_1",
-      "desc": "",
-      "dlg": "You’re full of gaps."
-    },
-    {
-      "id": "battle_kill_11104_1",
-      "desc": "",
-      "dlg": "There goes one."
-    },
-    {
-      "id": "battle_break_11104_1",
-      "desc": "",
-      "dlg": "Kgh..."
-    },
-	{
-      "id": "battle_dead_11104_1",
-      "desc": "",
-      "dlg": "As I feared... I’m not fit for the field..."
-    },
 	{
       "id": "battle_s3_11104_1",
-      "desc": "",
+      "desc": "############ Seven South Sect6 Outis ############",
       "dlg": "As predicted."
     },
 	{
@@ -2697,41 +1433,9 @@
       "dlg": "As predicted!"
     },
 	
-	
-	
-	{	
-      "id": "battle_select_10404_1",
-      "desc": "############ R.B. Chef de Cuisine Ryoshu ############",
-      "dlg": "Ordered for pick-up?"
-    },
-    {
-      "id": "battle_endcommand_10404_1",
-      "desc": "",
-      "dlg": "How will you taste?"
-    },
-    {
-      "id": "battle_enemy_break_10404_1",
-      "desc": "",
-      "dlg": "Gotta make sure to drain all the blood."
-    },
-    {
-      "id": "battle_kill_10404_1",
-      "desc": "",
-      "dlg": "Now, you look useful."
-    },
-    {
-      "id": "battle_break_10404_1",
-      "desc": "",
-      "dlg": "Tch..."
-    },
-	{
-      "id": "battle_dead_10404_1",
-      "desc": "",
-      "dlg": "I never thought... I'd be an ingredient..."
-    },
 	{
       "id": "battle_s3_10404_1_1",
-      "desc": "",
+      "desc": "############ R.B. Chef de Cuisine Ryoshu ############",
       "dlg": "Y.\n<size=50%>(You're.)</size>"
     },
 	{
@@ -2749,116 +1453,16 @@
       "desc": "",
       "dlg": "Y.A.T.T.A.\n<size=50%>(You're a tastebud-tickiling attraction.)</size>"
     },
-	
-	
-	
-	
-	
-	
-	{	
-      "id": "battle_select_11204_1",
-      "desc": "############ R.B. Sous-chef Gregor ############",
-      "dlg": "Yeesh, ya startled me! I almost swung at you."
-    },
-    {
-      "id": "battle_endcommand_11204_1",
-      "desc": "",
-      "dlg": "Time to slice n' dice!"
-    },
-    {
-      "id": "battle_enemy_break_11204_1",
-      "desc": "",
-      "dlg": "A cut goes here~ A chop goes there~"
-    },
-    {
-      "id": "battle_kill_11204_1",
-      "desc": "",
-      "dlg": "Whew! All diced up~"
-    },
-    {
-      "id": "battle_break_11204_1",
-      "desc": "",
-      "dlg": "Uh..."
-    },
-	{
-      "id": "battle_dead_11204_1",
-      "desc": "",
-      "dlg": "Ah... Shoot..."
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10304_1",
-      "desc": "############ N Corp Mittlehammer DonQ ############",
-      "dlg": "Hahahahah! Ah, you were by the side!"
-    },
-    {
-      "id": "battle_endcommand_10304_1",
-      "desc": "",
-      "dlg": "I shall pierce thee!"
-    },
-    {
-      "id": "battle_enemy_break_10304_1",
-      "desc": "",
-      "dlg": "<i>Huhuhahahahaha!</i>"
-    },
-    {
-      "id": "battle_kill_10304_1",
-      "desc": "",
-      "dlg": "Rightly executed."
-    },
-    {
-      "id": "battle_break_10304_1",
-      "desc": "",
-      "dlg": "<i>Hahahahahahah!</i>"
-    },
-	{
-      "id": "battle_dead_10304_1",
-      "desc": "",
-      "dlg": "Krh... There are still—deeds undone..."
-    },
+
 	{
       "id": "battle_s3_10304_1_2",
-      "desc": "",
+      "desc": "############ N Corp Mittlehammer DonQ ############",
       "dlg": "Hurrah-tta!!"
     },
 	
-	
-	{	
-      "id": "battle_select_11005_1",
-      "desc": "############ One Who Shall Grip Sinclair ############",
-      "dlg": "I'm busy right now."
-    },
-    {
-      "id": "battle_endcommand_11005_1",
-      "desc": "",
-      "dlg": "Unto the fire."
-    },
-    {
-      "id": "battle_enemy_break_11005_1",
-      "desc": "",
-      "dlg": "...Good."
-    },
-    {
-      "id": "battle_kill_11005_1",
-      "desc": "",
-      "dlg": "...Go down in flames."
-    },
-    {
-      "id": "battle_break_11005_1",
-      "desc": "",
-      "dlg": "Huch!"
-    },
-	{
-      "id": "battle_dead_11005_1",
-      "desc": "",
-      "dlg": "Was this... not the answer...?"
-    },
 	{
       "id": "battle_s3_11005_1_1",
-      "desc": "",
+      "desc": "############ One Who Shall Grip Sinclair ############",
       "dlg": "That filth..."
     },
 	{
@@ -2871,70 +1475,10 @@
       "desc": "",
       "dlg": "I'll purge it off you."
     },
-	
-	
-	
-	{	
-      "id": "battle_select_10505_1",
-      "desc": "############ Rosespanner Meursault ############",
-      "dlg": "I presume you have a request."
-    },
-    {
-      "id": "battle_endcommand_10505_1",
-      "desc": "",
-      "dlg": "Entendu, will do."
-    },
-    {
-      "id": "battle_enemy_break_10505_1",
-      "desc": "",
-      "dlg": "The assignment is steadily approaching completion."
-    },
-    {
-      "id": "battle_kill_10505_1",
-      "desc": "",
-      "dlg": "One has been taken care of."
-    },
-    {
-      "id": "battle_break_10505_1",
-      "desc": "",
-      "dlg": "Gasp."
-    },
-	{
-      "id": "battle_dead_10505_1",
-      "desc": "",
-      "dlg": "Ah... Allow me to rest for a moment..."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10905_1",
-      "desc": "############ Rosespanner Rodion ############",
-      "dlg": "Mm? Bit busy right now, make it quick!"
-    },
-    {
-      "id": "battle_endcommand_10905_1",
-      "desc": "",
-      "dlg": "Let's go!"
-    },
-    {
-      "id": "battle_enemy_break_10905_1",
-      "desc": "",
-      "dlg": "Hmheh, pinched 'em right!"
-    },
-    {
-      "id": "battle_kill_10905_1",
-      "desc": "",
-      "dlg": "Yeah, that's one done!"
-    },
-    {
-      "id": "battle_break_10905_1",
-      "desc": "",
-      "dlg": "Kuh..."
-    },
+
 	{
       "id": "battle_dead_10905_1",
-      "desc": "",
+      "desc": "############ Rosespanner Rodion ############",
       "dlg": "If I knew this would happen... I woulda gone for a bigger spree... the other day."
     },
 	{
@@ -2943,620 +1487,71 @@
       "dlg": "Get caught...!"
     },
 	
-	
-	
-	{	
-      "id": "battle_select_10705_1",
-      "desc": "############ Sunshower Heathcliff ############",
-      "dlg": "...What?"
-    },
-    {
-      "id": "battle_endcommand_10705_1",
-      "desc": "",
-      "dlg": "I'll beat you to a pulp."
-    },
-    {
-      "id": "battle_enemy_break_10705_1",
-      "desc": "",
-      "dlg": "Haha, look at 'em slip."
-    },
-    {
-      "id": "battle_kill_10705_1",
-      "desc": "",
-      "dlg": "All messed up, eh."
-    },
-    {
-      "id": "battle_break_10705_1",
-      "desc": "",
-      "dlg": "Dammit!"
-    },
-	{
-      "id": "battle_dead_10705_1",
-      "desc": "",
-      "dlg": "Not yet... I've still got things to do..."
-    },
 	{
       "id": "battle_s3_10705_1_1",
-      "desc": "",
+      "desc": "############ Sunshower Heathcliff ############",
       "dlg": "Spread Out!"
     },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_11205_1",
-      "desc": "############ Rosespanner Gregor ############",
-      "dlg": "What, something needs maintenance?"
-    },
-    {
-      "id": "battle_endcommand_11205_1",
-      "desc": "",
-      "dlg": "Is it time to rev up?"
-    },
-    {
-      "id": "battle_enemy_break_11205_1",
-      "desc": "",
-      "dlg": "Doable."
-    },
-    {
-      "id": "battle_kill_11205_1",
-      "desc": "",
-      "dlg": "Sharpening the sawblade yesterday paid off."
-    },
-    {
-      "id": "battle_break_11205_1",
-      "desc": "",
-      "dlg": "Ow... Easy, buddy."
-    },
-	{
-      "id": "battle_dead_11205_1",
-      "desc": "",
-      "dlg": "Should've... given my arm... a self-destruct upgrade..."
-    },
+
 	{
       "id": "battle_s3_11205_1_1-01",
-      "desc": "",
+      "desc": "############ Rosespanner Gregor ############",
       "dlg": "Alright~!"
     },
 	
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10104_1",
-      "desc": "############ Spicebush Yi Sang ############",
-      "dlg": "Did you call me?"
-    },
-    {
-      "id": "battle_endcommand_10104_1",
-      "desc": "",
-      "dlg": "Let's make it bloom."
-    },
-    {
-      "id": "battle_enemy_break_10104_1",
-      "desc": "",
-      "dlg": "So did they bloom."
-    },
-    {
-      "id": "battle_kill_10104_1",
-      "desc": "",
-      "dlg": "They will not be tormenting anyone any longer."
-    },
-    {
-      "id": "battle_break_10104_1",
-      "desc": "",
-      "dlg": "Ahh... Dear."
-    },
-	{
-      "id": "battle_dead_10104_1",
-      "desc": "",
-      "dlg": "When... the time comes... I would have to wilt..."
-    },
 	{
       "id": "battle_s3_10104_1_4",
-      "desc": "",
+      "desc": "############ Spicebush Yi Sang ############",
       "dlg": "Bloom."
     },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10805_1",
-      "desc": "############ Sloshing Ishmael ############",
-      "dlg": "Not in the mood, please make it short."
-    },
-    {
-      "id": "battle_endcommand_10805_1",
-      "desc": "",
-      "dlg": "Here I go!"
-    },
-    {
-      "id": "battle_enemy_break_10805_1",
-      "desc": "",
-      "dlg": "A toast! ...I mean, a clean hit, right?"
-    },
-    {
-      "id": "battle_kill_10805_1",
-      "desc": "",
-      "dlg": "Knocked out by the booze."
-    },
-    {
-      "id": "battle_break_10805_1",
-      "desc": "",
-      "dlg": "Bwegh..."
-    },
-	{
-      "id": "battle_dead_10805_1",
-      "desc": "",
-      "dlg": "Bah... You had to keep being sticky... to the bitter end..."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10605_1",
-      "desc": "############ K Corp Hong Lu ############",
-      "dlg": "I'm busy right now~ But I'll make time to hear what you say."
-    },
-    {
-      "id": "battle_endcommand_10605_1",
-      "desc": "",
-      "dlg": "Excising now."
-    },
-    {
-      "id": "battle_enemy_break_10605_1",
-      "desc": "",
-      "dlg": "That'll be hard to recover from."
-    },
-    {
-      "id": "battle_kill_10605_1",
-      "desc": "",
-      "dlg": "Melted into a puddle, have you?"
-    },
-    {
-      "id": "battle_break_10605_1",
-      "desc": "",
-      "dlg": "Oh dear."
-    },
-	{
-      "id": "battle_dead_10605_1",
-      "desc": "",
-      "dlg": "Oh my... Have I... overdosed... on the ampule...?"
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_11006_1",
-      "desc": "############ Red Sheet Sinclair ############",
-      "dlg": "Stay... focused."
-    },
-    {
-      "id": "battle_endcommand_11006_1",
-      "desc": "",
-      "dlg": "Stop there, and stay there."
-    },
-    {
-      "id": "battle_enemy_break_11006_1",
-      "desc": "",
-      "dlg": "They've become sluggish."
-    },
-    {
-      "id": "battle_kill_11006_1",
-      "desc": "",
-      "dlg": "Into the curse they sink."
-    },
-    {
-      "id": "battle_break_11006_1",
-      "desc": "",
-      "dlg": "Hkh..."
-    },
-	{
-      "id": "battle_dead_11006_1",
-      "desc": "",
-      "dlg": "Ah... So it stops... in the end..."
-    },
+
+
 	{
       "id": "battle_s3_11006_1_2-03",
-      "desc": "",
+      "desc": "############ Red Sheet Sinclair ############",
       "dlg": "Like this!"
     },
-	
-	
-	
-	{	
-      "id": "battle_select_10806_1",
-      "desc": "############ Liu South Sect4 Ishmael ############",
-      "dlg": "Keep your distance. You'll get yourself hurt."
-    },
-    {
-      "id": "battle_endcommand_10806_1",
-      "desc": "",
-      "dlg": "I'll end this in a moment."
-    },
-    {
-      "id": "battle_enemy_break_10806_1",
-      "desc": "",
-      "dlg": "That's one..."
-    },
-    {
-      "id": "battle_kill_10806_1",
-      "desc": "",
-      "dlg": "Down the gutter!"
-    },
-    {
-      "id": "battle_break_10806_1",
-      "desc": "",
-      "dlg": "Kgh..."
-    },
-	{
-      "id": "battle_dead_10806_1",
-      "desc": "",
-      "dlg": "Agh... I could... really use... a bowl of beef... noodles."
-    },
+
 	{
       "id": "battle_s3_10806_1_5",
-      "desc": "",
+      "desc": "############ Liu South Sect4 Ishmael ############",
       "dlg": "Hmph, you've got ash on me."
     },
-	
-	
-	{	
-      "id": "battle_select_10506_1",
-      "desc": "############ R Corp. 4th Pack Rhino Meursault ############",
-      "dlg": "It's not safe here."
-    },
-    {
-      "id": "battle_endcommand_10506_1",
-      "desc": "",
-      "dlg": "Haah!"
-    },
-    {
-      "id": "battle_enemy_break_10506_1",
-      "desc": "",
-      "dlg": "Their lines are broken."
-    },
-    {
-      "id": "battle_kill_10506_1",
-      "desc": "",
-      "dlg": "Confirming cessation of biological activity."
-    },
-    {
-      "id": "battle_break_10506_1",
-      "desc": "",
-      "dlg": "Hnnh..."
-    },
-	{
-      "id": "battle_dead_10506_1",
-      "desc": "",
-      "dlg": "Ah... must I repeat the selection process...?"
-    },
+
 	{
       "id": "battle_s3_10506_1_1",
-      "desc": "",
+      "desc": "############ R Corp. 4th Pack Rhino Meursault ############",
       "dlg": "Piercing through!"
     },
 	
-	
-	{	
-      "id": "battle_select_10906_1",
-      "desc": "############ Zwei South Sect5 Rodion ############",
-      "dlg": "Stay behind my back!"
-    },
-    {
-      "id": "battle_endcommand_10906_1",
-      "desc": "",
-      "dlg": "Subduing target!"
-    },
-    {
-      "id": "battle_enemy_break_10906_1",
-      "desc": "",
-      "dlg": "Phew~ Did they get knocked out cold?"
-    },
-    {
-      "id": "battle_kill_10906_1",
-      "desc": "",
-      "dlg": "Threat, removed~"
-    },
-    {
-      "id": "battle_break_10906_1",
-      "desc": "",
-      "dlg": "Oh, oh boy..."
-    },
-	{
-      "id": "battle_dead_10906_1",
-      "desc": "",
-      "dlg": "Ah... but... my performance records..."
-    },
-	
-	
-	
-	
-	{	
-      "id": "battle_select_10305_1",
-      "desc": "############ Cinq South Sect5 DonQ ############",
-      "dlg": "'Tis ill-advised to speak to me whilst I fight a duel."
-    },
-    {
-      "id": "battle_endcommand_10305_1",
-      "desc": "",
-      "dlg": "Allez!"
-    },
-    {
-      "id": "battle_enemy_break_10305_1",
-      "desc": "",
-      "dlg": "Dost thou surrender?"
-    },
-    {
-      "id": "battle_kill_10305_1",
-      "desc": "",
-      "dlg": "'Twas a duel most amusing!"
-    },
-    {
-      "id": "battle_break_10305_1",
-      "desc": "",
-      "dlg": "Tsk..."
-    },
-	{
-      "id": "battle_dead_10305_1",
-      "desc": "",
-      "dlg": "Aah... 'Twas... a shameful display..."
-    },
 	{
       "id": "battle_s3_10305_1_3",
-      "desc": "",
+      "desc": "############ Cinq South Sect5 DonQ ############",
       "dlg": "Rest now."
     },
 	
-	
-	{	
-      "id": "battle_select_10807_1",
-      "desc": "############ Molar Boatworks Ishmael ############",
-      "dlg": "What's up?"
-    },
-    {
-      "id": "battle_endcommand_10807_1",
-      "desc": "",
-      "dlg": "I'll harpoon and crack you open."
-    },
-    {
-      "id": "battle_enemy_break_10807_1",
-      "desc": "",
-      "dlg": "How's that? Painful, I'm sure."
-    },
-    {
-      "id": "battle_kill_10807_1",
-      "desc": "",
-      "dlg": "Crushed it."
-    },
-    {
-      "id": "battle_break_10807_1",
-      "desc": "",
-      "dlg": "Oww..."
-    },
-	{
-      "id": "battle_dead_10807_1",
-      "desc": "",
-      "dlg": "Ah... Haa... Is this... the end?"
-    },
 	{
       "id": "battle_s3_10807_1_2",
-      "desc": "",
+      "desc": "############ Molar Boatworks Ishmael ############",
       "dlg": "Get crushed!"
     },
 	
-	
-	{	
-      "id": "battle_select_11007_1",
-      "desc": "############ Molar Boatworks Sinclair ############",
-      "dlg": "Need something repaired?"
-    },
-    {
-      "id": "battle_endcommand_11007_1",
-      "desc": "",
-      "dlg": "Stabilizing output... There!"
-    },
-    {
-      "id": "battle_enemy_break_11007_1",
-      "desc": "",
-      "dlg": "Good going...!"
-    },
-    {
-      "id": "battle_kill_11007_1",
-      "desc": "",
-      "dlg": "Phew, took care of that one."
-    },
-    {
-      "id": "battle_break_11007_1",
-      "desc": "",
-      "dlg": "Ngh..."
-    },
-	{
-      "id": "battle_dead_11007_1",
-      "desc": "",
-      "dlg": "No... They're... waiting... for me."
-    },
-	
-	
-	{	
-      "id": "battle_select_10205_1",
-      "desc": "############ Zwei South Sect4 Faust ############",
-      "dlg": "Do other territories require my attention?"
-    },
-    {
-      "id": "battle_endcommand_10205_1",
-      "desc": "",
-      "dlg": "Moving to protect."
-    },
-    {
-      "id": "battle_enemy_break_10205_1",
-      "desc": "",
-      "dlg": "You've been immobilized."
-    },
-    {
-      "id": "battle_kill_10205_1",
-      "desc": "",
-      "dlg": "Hostiles eliminated."
-    },
-    {
-      "id": "battle_break_10205_1",
-      "desc": "",
-      "dlg": "Ngh..."
-    },
-	{
-      "id": "battle_dead_10205_1",
-      "desc": "",
-      "dlg": "Worry... not. My colleagues will... protect..."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_11206_1",
-      "desc": "############ Zwei South Sect4 Gregor ############",
-      "dlg": "Yeah, what's up?"
-    },
-    {
-      "id": "battle_endcommand_11206_1",
-      "desc": "",
-      "dlg": "Get behind me!"
-    },
-    {
-      "id": "battle_enemy_break_11206_1",
-      "desc": "",
-      "dlg": "Oof, did it hurt that much?"
-    },
-    {
-      "id": "battle_kill_11206_1",
-      "desc": "",
-      "dlg": "Threat neutralized!"
-    },
-    {
-      "id": "battle_break_11206_1",
-      "desc": "",
-      "dlg": "Ugh..."
-    },
-	{
-      "id": "battle_dead_11206_1",
-      "desc": "",
-      "dlg": "Haah... Sorry about that... Client fella..."
-    },
 	{
       "id": "battle_s3_11206_1_1_03_1",
-      "desc": "",
+      "desc": "############ Zwei South Sect4 Gregor ############",
       "dlg": "That's enough!"
     },
 	
-	
-	
-	
-	{	
-      "id": "battle_select_10405_1",
-      "desc": "############ W Corp Ryoshu ############",
-      "dlg": "Get out of my way. I'm... in the zone."
-    },
-    {
-      "id": "battle_endcommand_10405_1",
-      "desc": "",
-      "dlg": "Witness my work."
-    },
-    {
-      "id": "battle_enemy_break_10405_1",
-      "desc": "",
-      "dlg": "Nearing completion already..."
-    },
-    {
-      "id": "battle_kill_10405_1",
-      "desc": "",
-      "dlg": "The finishing touches."
-    },
-    {
-      "id": "battle_break_10405_1",
-      "desc": "",
-      "dlg": "Ha."
-    },
-	{
-      "id": "battle_dead_10405_1",
-      "desc": "",
-      "dlg": "Hah, this is also... quite avant—garde..."
-    },
-	
-	
-	{	
-    "id": "battle_select_10606_1",
-    "desc": "############ W Corp Hong Lu ############",
-    "dlg": "Oh dear~ You're not supposed to come in while we're cleaning up."
-  },
-  {
-    "id": "battle_endcommand_10606_1",
-    "desc": "",
-    "dlg": "Taking care of problem passengers."
-  },
-  {
-    "id": "battle_enemy_break_10606_1",
-    "desc": "",
-    "dlg": "Stay calm and stay down, now~"
-  },
-  {
-    "id": "battle_kill_10606_1",
-    "desc": "",
-    "dlg": "Okay, let's get their limbs and torsos over here~"
-  },
-  {
-    "id": "battle_break_10606_1",
-    "desc": "",
-    "dlg": "Ouch!"
-  },
-	{
-    "id": "battle_dead_10606_1",
-    "desc": "",
-    "dlg": "Ah... It was... supposed to be a simple cleanup...?"
-  },
+
   {
     "id": "battle_s2_10606_1-04",
-    "desc": "",
+    "desc": "############ W Corp Hong Lu ############",
     "dlg": "Ah-ha~"
   },
 	
-	
-	
-	{	
-      "id": "battle_select_10206_1",
-      "desc": "############ Seven Assoc. Faust ############",
-      "dlg": "Before the tea cools."
-    },
-    {
-      "id": "battle_endcommand_10206_1",
-      "desc": "",
-      "dlg": "Flawless."
-    },
-    {
-      "id": "battle_enemy_break_10206_1",
-      "desc": "",
-      "dlg": "Like shattered tea leaves."
-    },
-    {
-      "id": "battle_kill_10206_1",
-      "desc": "",
-      "dlg": "There is no more information to be gained."
-    },
-    {
-      "id": "battle_break_10206_1",
-      "desc": "",
-      "dlg": "Ah…"
-    },
-	{
-      "id": "battle_dead_10206_1",
-      "desc": "",
-      "dlg": "Haah... But... I don't have anyone... to cover my next shift..."
-    },
 	{
       "id": "battle_s3_10206_1_1",
-      "desc": "",
+      "desc": "############ Seven Assoc. Faust ############",
       "dlg": "The observation..."
     },
 	{
@@ -3565,632 +1560,52 @@
       "dlg": "... is over."
     },
 	
-	
-	
-	{	
-      "id": "battle_select_10706_1",
-      "desc": "############ Seven Assoc. Heathcliff ############",
-      "dlg": "Huh? What. It's not him? No way."
-    },
-    {
-      "id": "battle_endcommand_10706_1",
-      "desc": "",
-      "dlg": "Is it you?!"
-    },
-    {
-      "id": "battle_enemy_break_10706_1",
-      "desc": "",
-      "dlg": "Reeling, are you?"
-    },
-    {
-      "id": "battle_kill_10706_1",
-      "desc": "",
-      "dlg": "Right, so that one's taken care of."
-    },
-    {
-      "id": "battle_break_10706_1",
-      "desc": "",
-      "dlg": "Kah..."
-    },
-	{
-      "id": "battle_dead_10706_1",
-      "desc": "",
-      "dlg": "Ah... That's... odd. That deviates... from the patterns."
-    },
-	
-	
-	{	
-      "id": "battle_select_11105_1",
-      "desc": "############ Molar Office Outis ############",
-      "dlg": "What, something wrong?"
-    },
-    {
-      "id": "battle_endcommand_11105_1",
-      "desc": "",
-      "dlg": "Let's get this party started."
-    },
-    {
-      "id": "battle_enemy_break_11105_1",
-      "desc": "",
-      "dlg": "Ah~ Did I hit ya too hard?"
-    },
-    {
-      "id": "battle_kill_11105_1",
-      "desc": "",
-      "dlg": "Phew! Hmph, you could’ve tried dodging that."
-    },
-    {
-      "id": "battle_break_11105_1",
-      "desc": "",
-      "dlg": "Tsk."
-    },
-	{
-      "id": "battle_dead_11105_1",
-      "desc": "",
-      "dlg": "Suppose... I went in too deep... without a good backup... That was foolish... of me."
-    },
-	
-	
-	{	
-      "id": "battle_select_10105_1",
-      "desc": "############ Molar Office Yi Sang ############",
-      "dlg": "The situation has hitherto been quite... ideal."
-    },
-    {
-      "id": "battle_endcommand_10105_1",
-      "desc": "",
-      "dlg": "Stay calm."
-    },
-    {
-      "id": "battle_enemy_break_10105_1",
-      "desc": "",
-      "dlg": "This is an opportunity."
-    },
-    {
-      "id": "battle_kill_10105_1",
-      "desc": "",
-      "dlg": "There was naught to worry."
-    },
-    {
-      "id": "battle_break_10105_1",
-      "desc": "",
-      "dlg": "Ach..."
-    },
-	{
-      "id": "battle_dead_10105_1",
-      "desc": "",
-      "dlg": "...I expected as little from myself."
-    },
-	
-	
-	{	
-      "id": "battle_select_10907_1",
-      "desc": "############ Dieci South Sect4 Rodion ############",
-      "dlg": "Ooh? Is it snack time?!"
-    },
-    {
-      "id": "battle_endcommand_10907_1",
-      "desc": "",
-      "dlg": "Let the truths be self—evident to them."
-    },
-    {
-      "id": "battle_enemy_break_10907_1",
-      "desc": "",
-      "dlg": "Ignoramuses..."
-    },
-    {
-      "id": "battle_kill_10907_1",
-      "desc": "",
-      "dlg": "Get Smacked."
-    },
-    {
-      "id": "battle_break_10907_1",
-      "desc": "",
-      "dlg": "Ah!"
-    },
-	{
-      "id": "battle_dead_10907_1",
-      "desc": "",
-      "dlg": "I should've studied... like my seniors always told me to..."
-    },
 	{
       "id": "battle_s3_10907_1_1",
-      "desc": "1Need to test",
+      "desc": "############ Dieci South Sect4 Rodion ############",
       "dlg": "Gah! Get it now?"
     },
 	
-	
-	
-	
-	{	
-      "id": "battle_select_10207_1",
-      "desc": "############ Regret EGO Faust ############",
-      "dlg": "Do you require more Work to be done?"
-    },
-    {
-      "id": "battle_endcommand_10207_1",
-      "desc": "",
-      "dlg": "Containment Breach confirmed."
-    },
-    {
-      "id": "battle_enemy_break_10207_1",
-      "desc": "",
-      "dlg": "The entity is weakening."
-    },
-    {
-      "id": "battle_kill_10207_1",
-      "desc": "",
-      "dlg": "Escaped entity neutralized."
-    },
-    {
-      "id": "battle_break_10207_1",
-      "desc": "",
-      "dlg": "Uh..."
-    },
-	{
-      "id": "battle_dead_10207_1",
-      "desc": "",
-      "dlg": "Suppression Work failed…"
-    },
 	{
       "id": "battle_s3_10207_1_4-01",
-      "desc": "",
+      "desc": "############ Regret EGO Faust ############",
       "dlg": "Suppression complete."
     },
 	
-	
-	{	
-      "id": "battle_select_10607_1",
-      "desc": "############ Hook Hong Lu ############",
-      "dlg": "Ah, I wasn't supposed to hang them up like that?"
-    },
-    {
-      "id": "battle_endcommand_10607_1",
-      "desc": "",
-      "dlg": "Get over... here!"
-    },
-    {
-      "id": "battle_enemy_break_10607_1",
-      "desc": "",
-      "dlg": "Hmm~ No point dragging on."
-    },
-    {
-      "id": "battle_kill_10607_1",
-      "desc": "",
-      "dlg": "Let's get this over with, okay?"
-    },
-    {
-      "id": "battle_break_10607_1",
-      "desc": "",
-      "dlg": "Uh oh..."
-    },
-	{
-      "id": "battle_dead_10607_1",
-      "desc": "",
-      "dlg": "Oh... they were... predicting my moves..."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10106_1",
-      "desc": "############ W Corp Yi Sang ############",
-      "dlg": "Is there aught else?"
-    },
-    {
-      "id": "battle_endcommand_10106_1",
-      "desc": "",
-      "dlg": "Hah... Hm!"
-    },
-    {
-      "id": "battle_enemy_break_10106_1",
-      "desc": "",
-      "dlg": "Now..."
-    },
-    {
-      "id": "battle_kill_10106_1",
-      "desc": "",
-      "dlg": "You may rest."
-    },
-    {
-      "id": "battle_break_10106_1",
-      "desc": "",
-      "dlg": "Ah..."
-    },
-	{
-      "id": "battle_dead_10106_1",
-      "desc": "",
-      "dlg": "Am I freed at last... from the yoke?"
-    },
 	{
       "id": "battle_s3_10106_1_3",
-      "desc": "",
+      "desc": "############ W Corp Yi Sang ############",
       "dlg": "In an instant."
     },
 	
-	{	
-      "id": "battle_select_10406_1",
-      "desc": "############ LCCB Manager Ryoshu ############",
-      "dlg": "Oh, am I getting a signal? Acknowledge."
-    },
-    {
-      "id": "battle_endcommand_10406_1",
-      "desc": "",
-      "dlg": "I'll beat you up and blast you to bits."
-    },
-    {
-      "id": "battle_enemy_break_10406_1",
-      "desc": "",
-      "dlg": "You're staggered... Next, I'll blast your guts to smithereens."
-    },
-    {
-      "id": "battle_kill_10406_1",
-      "desc": "",
-      "dlg": "T.N. I mean... Target Neutralized."
-    },
-    {
-      "id": "battle_break_10406_1",
-      "desc": "",
-      "dlg": "Tsk..."
-    },
-	{
-      "id": "battle_dead_10406_1",
-      "desc": "",
-      "dlg": "Akh... Tsk, didn't think... I'd follow them so soon..."
-    },
 	
-	
-	
-	{	
-      "id": "battle_select_11207_1",
-      "desc": "############ Twinhook Pirate Gregor ############",
-      "dlg": "I'm busy. Go bother one of my underlings."
-    },
-    {
-      "id": "battle_endcommand_11207_1",
-      "desc": "",
-      "dlg": "I'll poke you a new breathing hole."
-    },
-    {
-      "id": "battle_enemy_break_11207_1",
-      "desc": "",
-      "dlg": "Flapping like a torn sail, huh?"
-    },
-    {
-      "id": "battle_kill_11207_1",
-      "desc": "",
-      "dlg": "Heh, that was nothing."
-    },
-    {
-      "id": "battle_break_11207_1",
-      "desc": "",
-      "dlg": "What..."
-    },
-	{
-      "id": "battle_dead_11207_1",
-      "desc": "",
-      "dlg": "I-I can't die like this... The M-Middle will..."
-    },
 	{
       "id": "battle_s3_11207_1_01",
-      "desc": "",
+      "desc": "############ Twinhook Pirate Gregor ############",
       "dlg": "Shall I take one arm?"
     },
 	
-	
-	{	
-      "id": "battle_select_10306_1",
-      "desc": "############ Middle Lilsis DonQ ############",
-      "dlg": "Ah! Hath the Big Brother summoned me?"
-    },
-    {
-      "id": "battle_endcommand_10306_1",
-      "desc": "",
-      "dlg": "Ha ha! Charge!"
-    },
-    {
-      "id": "battle_enemy_break_10306_1",
-      "desc": "",
-      "dlg": "Steel thyself! The Book demands that thy death be carried out in clear mind."
-    },
-    {
-      "id": "battle_kill_10306_1",
-      "desc": "",
-      "dlg": "Vengeance hath been executed."
-    },
-    {
-      "id": "battle_break_10306_1",
-      "desc": "",
-      "dlg": "No…!"
-    },
-	{
-      "id": "battle_dead_10306_1",
-      "desc": "",
-      "dlg": "To end here… is… No. The Middle… will remember…"
-    },
 	{
       "id": "battle_s3_10306_1_1",
-      "desc": "",
+      "desc": "############ Middle Lilsis DonQ ############",
       "dlg": "Cross that one off."
     },
 	
-	
-	
-	{	
-      "id": "battle_select_10507_1",
-      "desc": "############ Middle Lilbro Meursault ############",
-      "dlg": "I am reading the Book."
-    },
-    {
-      "id": "battle_endcommand_10507_1",
-      "desc": "",
-      "dlg": "Vengeance comes for you."
-    },
-    {
-      "id": "battle_enemy_break_10507_1",
-      "desc": "",
-      "dlg": "You should have prepared for retribution when you slighted a member of our family."
-    },
-    {
-      "id": "battle_kill_10507_1",
-      "desc": "",
-      "dlg": "Vengeance has been executed."
-    },
-    {
-      "id": "battle_break_10507_1",
-      "desc": "",
-      "dlg": "Kgh."
-    },
-	{
-      "id": "battle_dead_10507_1",
-      "desc": "",
-      "dlg": "I won't… Be the last… of us… The Middle… Remembers…"
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10107_1",
-      "desc": "############ Pequod Yi Sang ############",
-      "dlg": "Is the Captain in danger?"
-    },
-    {
-      "id": "battle_endcommand_10107_1",
-      "desc": "",
-      "dlg": "Please, allow me to demonstrate."
-    },
-    {
-      "id": "battle_enemy_break_10107_1",
-      "desc": "",
-      "dlg": "Hm! They appear to be quite spent."
-    },
-    {
-      "id": "battle_kill_10107_1",
-      "desc": "",
-      "dlg": "Tsk. There is no oil to be gleaned from this fellow."
-    },
-    {
-      "id": "battle_break_10107_1",
-      "desc": "",
-      "dlg": "Haah..."
-    },
-	{
-      "id": "battle_dead_10107_1",
-      "desc": "",
-      "dlg": "Ha ha ha... Thus does my... voyage... end..."
-    },
-	
-	
-	{	
-      "id": "battle_select_10707_1",
-      "desc": "############ Pequod Heathcliff ############",
-      "dlg": "Want me to tie knot again? Desperate's Knot?"
-    },
-    {
-      "id": "battle_endcommand_10707_1",
-      "desc": "",
-      "dlg": "Stab deep."
-    },
-    {
-      "id": "battle_enemy_break_10707_1",
-      "desc": "",
-      "dlg": "That one. Slowed. Easy target."
-    },
-    {
-      "id": "battle_kill_10707_1",
-      "desc": "",
-      "dlg": "End of voyage. Nearing."
-    },
-    {
-      "id": "battle_break_10707_1",
-      "desc": "",
-      "dlg": "Aagh..."
-    },
-	{
-      "id": "battle_dead_10707_1",
-      "desc": "",
-      "dlg": "Miss the sunset... the shimmering... sky..."
-    },
 	{
       "id": "battle_s3_10707_1",
-      "desc": "",
+      "desc": "############ Pequod Heathcliff ############",
       "dlg": "Heart, Stopped."
     },
 	
-	
-	{	
-      "id": "battle_select_11008_1",
-      "desc": "############ Cinq South Sect4 Sinclair ############",
-      "dlg": "......."
-    },
-    {
-      "id": "battle_endcommand_11008_1",
-      "desc": "",
-      "dlg": "There it is."
-    },
-    {
-      "id": "battle_enemy_break_11008_1",
-      "desc": "",
-      "dlg": "More."
-    },
-    {
-      "id": "battle_kill_11008_1",
-      "desc": "",
-      "dlg": "I've hit all of your vital areas."
-    },
-    {
-      "id": "battle_break_11008_1",
-      "desc": "",
-      "dlg": "Hah?!"
-    },
-	{
-      "id": "battle_dead_11008_1",
-      "desc": "",
-      "dlg": "Huh? No... I thought... the duel was... going well..."
-    },
 	{
       "id": "battle_s3_11008_1-02",
-      "desc": "",
+      "desc": "############ Cinq South Sect4 Sinclair ############",
       "dlg": "Already, reached."
     },
 	
-	
-	
-	{	
-      "id": "battle_select_11106_1",
-      "desc": "############ Cinq South Sect4 Outis ############",
-      "dlg": "... I'm a bit preoccupied at the moment."
-    },
-    {
-      "id": "battle_endcommand_11106_1",
-      "desc": "",
-      "dlg": "A perfect distance."
-    },
-    {
-      "id": "battle_enemy_break_11106_1",
-      "desc": "",
-      "dlg": "Hmph, predictable."
-    },
-    {
-      "id": "battle_kill_11106_1",
-      "desc": "",
-      "dlg": "Ah, my victory."
-    },
-    {
-      "id": "battle_break_11106_1",
-      "desc": "",
-      "dlg": "Agh..."
-    },
-	{
-      "id": "battle_dead_11106_1",
-      "desc": "",
-      "dlg": "Gah... what... a shame..."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_11106_1",
-      "desc": "############ Cinq South Sect4 Outis ############",
-      "dlg": "... I'm a bit preoccupied at the moment."
-    },
-    {
-      "id": "battle_endcommand_11106_1",
-      "desc": "",
-      "dlg": "A perfect distance."
-    },
-    {
-      "id": "battle_enemy_break_11106_1",
-      "desc": "",
-      "dlg": "Hmph, predictable."
-    },
-    {
-      "id": "battle_kill_11106_1",
-      "desc": "",
-      "dlg": "Ah, my victory."
-    },
-    {
-      "id": "battle_break_11106_1",
-      "desc": "",
-      "dlg": "Agh..."
-    },
-	{
-      "id": "battle_dead_11106_1",
-      "desc": "",
-      "dlg": "Gah... what... a shame..."
-    },
-	
-	
-	{	
-      "id": "battle_select_10307_1",
-      "desc": "############ Lantern DonQ ############",
-      "dlg": "Is there aught else to suppress?!"
-    },
-    {
-      "id": "battle_endcommand_10307_1",
-      "desc": "",
-      "dlg": "I shall chew thee to shreds!"
-    },
-    {
-      "id": "battle_enemy_break_10307_1",
-      "desc": "",
-      "dlg": "Just thee wait! Thou shall be devoured whole posthaste!"
-    },
-    {
-      "id": "battle_kill_10307_1",
-      "desc": "",
-      "dlg": "Om nom."
-    },
-    {
-      "id": "battle_break_10307_1",
-      "desc": "",
-      "dlg": "… 'Twas but a moment of hesitation."
-    },
-	{
-      "id": "battle_dead_10307_1",
-      "desc": "",
-      "dlg": "So I have always… shone so brightly…"
-    },
-	{
-      "id": "battle_dead_10307_1",
-      "desc": "",
-      "dlg": "So I have always… shone so brightly…"
-    },
-	
-	
-	{	
-      "id": "battle_select_11107_1",
-      "desc": "############ Magic Bullet Outis ############",
-      "dlg": "I have them in my sights. State your business, quickly."
-    },
-    {
-      "id": "battle_endcommand_11107_1",
-      "desc": "",
-      "dlg": "For the perfect shot."
-    },
-    {
-      "id": "battle_enemy_break_11107_1",
-      "desc": "",
-      "dlg": "Bullseye."
-    },
-    {
-      "id": "battle_kill_11107_1",
-      "desc": "",
-      "dlg": "Worry not. There won't be any pain."
-    },
-    {
-      "id": "battle_break_11107_1",
-      "desc": "",
-      "dlg": "Ach…"
-    },
-	{
-      "id": "battle_dead_11107_1",
-      "desc": "",
-      "dlg": "… The contract won't end here…"
-    },
 	{
       "id": "battle_s2_11107_1_1-01",
-      "desc": "",
+      "desc": "############ Magic Bullet Outis ############",
       "dlg": "One bullet chambered."
     },
 	{
@@ -4208,74 +1623,10 @@
       "desc": "",
       "dlg": "Fire!!"
     },
-	
-	
-	{	
-      "id": "battle_select_10108_1",
-      "desc": "############ Dieci South Sect4 Yi Sang ############",
-      "dlg": "Is there aught you would like to ask?"
-    },
-    {
-      "id": "battle_endcommand_10108_1",
-      "desc": "",
-      "dlg": "Pain paves the road to understanding!"
-    },
-    {
-      "id": "battle_enemy_break_10108_1",
-      "desc": "",
-      "dlg": "The path to enlightenment is an excruciating one."
-    },
-    {
-      "id": "battle_kill_10108_1",
-      "desc": "",
-      "dlg": "Let us finish this."
-    },
-    {
-      "id": "battle_break_10108_1",
-      "desc": "",
-      "dlg": "Ahm…"
-    },
-	{
-      "id": "battle_dead_10108_1",
-      "desc": "",
-      "dlg": "I must have forgotten… the knowledge that would have been my salvation from death…"
-    },
 
-	
-	
-	{	
-      "id": "battle_select_10608_1",
-      "desc": "############ Dieci South Sect4 Hong Lu ############",
-      "dlg": "Yep~ I'm listening!"
-    },
-    {
-      "id": "battle_endcommand_10608_1",
-      "desc": "",
-      "dlg": "To bring the umbra of ignorance to light."
-    },
-    {
-      "id": "battle_enemy_break_10608_1",
-      "desc": "",
-      "dlg": "The sealed intellect…"
-    },
-    {
-      "id": "battle_kill_10608_1",
-      "desc": "",
-      "dlg": "… Shall be unveiled unto the light."
-    },
-    {
-      "id": "battle_break_10608_1",
-      "desc": "",
-      "dlg": "Ouch…"
-    },
-	{
-      "id": "battle_dead_10608_1",
-      "desc": "",
-      "dlg": "Um… I guess knowledge about food recipes… weren't too useful…"
-    },
 	{
       "id": "battle_s3_10608_1_1-01",
-      "desc": "",
+      "desc": "############ Dieci South Sect4 Hong Lu ############",
       "dlg": "Directly!"
     },
 	{
@@ -4283,42 +1634,10 @@
       "desc": "",
       "dlg": "I'll unlock it for you~"
     },
-	
-	
-	
-	{	
-      "id": "battle_select_10808_1",
-      "desc": "############ Pequod Captain Ishmael ############",
-      "dlg": "Focus on the Whale if you have the time to flap your gums!"
-    },
-    {
-      "id": "battle_endcommand_10808_1",
-      "desc": "",
-      "dlg": "All hands! CHARGE!"
-    },
-    {
-      "id": "battle_enemy_break_10808_1",
-      "desc": "",
-      "dlg": "Our foes cower! This is our opportunity to turn the tide!"
-    },
-    {
-      "id": "battle_kill_10808_1",
-      "desc": "",
-      "dlg": "Good! Do not stop until we have slaughtered every last one of them! We shall seek no respite until it is done!"
-    },
-    {
-      "id": "battle_break_10808_1",
-      "desc": "",
-      "dlg": "Hngh…! Hold your stations! The foe has its eyes on me—use this opportunity to strike them!"
-    },
-	{
-      "id": "battle_dead_10808_1",
-      "desc": "",
-      "dlg": "I-I am Captain Ishmael!\nI will not fall… here…!"
-    },
+
 	{
       "id": "battle_special_10808_2",
-      "desc": "",
+      "desc": "############ Pequod Captain Ishmael ############",
       "dlg": "Sailors! Protect me."
     },
 	{
@@ -4357,39 +1676,9 @@
       "dlg": "You see?! The enemy has been crushed like this...\nVictory is right before our eyes!"
     },
 	
-	{	
-      "id": "battle_select_10208_1",
-      "desc": "############ Blade Lineage Faust ############",
-      "dlg": "Are you enjoying yourself?"
-    },
-    {
-      "id": "battle_endcommand_10208_1",
-      "desc": "",
-      "dlg": "Scoundrels."
-    },
-    {
-      "id": "battle_enemy_break_10208_1",
-      "desc": "",
-      "dlg": "Let it blossom."
-    },
-    {
-      "id": "battle_kill_10208_1",
-      "desc": "",
-      "dlg": "Like a bed of flowers."
-    },
-    {
-      "id": "battle_break_10208_1",
-      "desc": "",
-      "dlg": "Mmm."
-    },
-	{
-      "id": "battle_dead_10208_1",
-      "desc": "",
-      "dlg": "So... the red plum blossom... blooms from me all the same..."
-    },
 	{
       "id": "battle_s3_10208_1_1",
-      "desc": "",
+      "desc": "############ Blade Lineage Faust ############",
       "dlg": "Some are beautiful..."
     },
 	{
@@ -4397,75 +1686,9 @@
       "desc": "",
       "dlg": "... some are not."
     },
-	
-	
-	
-	{	
-      "id": "battle_select_10308_1",
-      "desc": "############ Blade Lineage DonQ ############",
-      "dlg": "I am quite busy at the moment!"
-    },
-    {
-      "id": "battle_endcommand_10308_1",
-      "desc": "",
-      "dlg": "How thrilling!"
-    },
-    {
-      "id": "battle_enemy_break_10308_1",
-      "desc": "",
-      "dlg": "Hm? Aha, I must not have struck true..."
-    },
-    {
-      "id": "battle_kill_10308_1",
-      "desc": "",
-      "dlg": "Ah, truly! 'Twas a flesh-splitting sensation!"
-    },
-    {
-      "id": "battle_break_10308_1",
-      "desc": "",
-      "dlg": "Uagh!"
-    },
-	{
-      "id": "battle_dead_10308_1",
-      "desc": "",
-      "dlg": "Aah, haah... Forsooth, well did I expect to be... hewn... myself."
-    },
-	
-	
-	
-	{	
-      "id": "battle_select_10508_1",
-      "desc": "############ Blade Lineage Mentor Meursault ############",
-      "dlg": "I will not accept any unsolicited advice."
-    },
-    {
-      "id": "battle_endcommand_10508_1",
-      "desc": "",
-      "dlg": "If you will cut... then wager your life on it."
-    },
-    {
-      "id": "battle_enemy_break_10508_1",
-      "desc": "",
-      "dlg": "Yield the flesh."
-    },
-    {
-      "id": "battle_kill_10508_1",
-      "desc": "",
-      "dlg": "To claim the bones."
-    },
-    {
-      "id": "battle_break_10508_1",
-      "desc": "",
-      "dlg": "A defeat of my own making..."
-    },
-	{
-      "id": "battle_dead_10508_1",
-      "desc": "",
-      "dlg": "Ah... how will I stand tall before my... fellows...?"
-    },
 	{
       "id": "battle_s3_10508_1_1-01",
-      "desc": "",
+      "desc": "############ Blade Lineage Mentor Meursault ############",
       "dlg": "Yield my flesh!"
     },
 	{
@@ -4484,217 +1707,22 @@
       "dlg": "To claim their bones."
     },
 
-	
-	{
-      "id": "battle_select_11208_1",
-      "desc": "############ Kurokumo Captain Gregor ############",
-      "dlg": "I told you, I don't talk and fight! ... So what is it?"
-    },
-    {
-      "id": "battle_endcommand_11208_1",
-      "desc": "",
-      "dlg": "First try!"
-    },
-    {
-      "id": "battle_enemy_break_11208_1",
-      "desc": "",
-      "dlg": "What got you all wobbly?"
-    },
-    {
-      "id": "battle_kill_11208_1",
-      "desc": "",
-      "dlg": "Man, what a letdown."
-    },
-    {
-      "id": "battle_break_11208_1",
-      "desc": "",
-      "dlg": "Agh..."
-    },
-	{
-      "id": "battle_dead_11208_1",
-      "desc": "",
-      "dlg": "Is my last thought... really gonna be... about... that drink I left back home...?"
-    },
-	
-	
-	{
-      "id": "battle_select_10407_1",
-      "desc": "############ Liu South Sect4 Ryoshu ############",
-      "dlg": "Scram. I'm trying to focus."
-    },
-    {
-      "id": "battle_endcommand_10407_1",
-      "desc": "",
-      "dlg": "First Form!"
-    },
-    {
-      "id": "battle_enemy_break_10407_1",
-      "desc": "",
-      "dlg": "Get up. A wooden dummy stands taller than you do."
-    },
-    {
-      "id": "battle_kill_10407_1",
-      "desc": "",
-      "dlg": "Tsk, already broken. How useless."
-    },
-    {
-      "id": "battle_break_10407_1",
-      "desc": "",
-      "dlg": "Tsk…!"
-    },
-	{
-      "id": "battle_dead_10407_1",
-      "desc": "",
-      "dlg": "Haah… These… moving dummies must've been… insufficient training material."
-    },
-	
-	
-	
-	
-	{
-      "id": "battle_select_10908_1",
-      "desc": "############ Liu South Sect4 Rodion ############",
-      "dlg": "Whew, watch out for the heat! I can hear ya just as well from a distance, y'know~"
-    },
-    {
-      "id": "battle_endcommand_10908_1",
-      "desc": "",
-      "dlg": "With a single strike!"
-    },
-    {
-      "id": "battle_enemy_break_10908_1",
-      "desc": "",
-      "dlg": "Stop fighting and just accept it. It'll hurt less that way."
-    },
-    {
-      "id": "battle_kill_10908_1",
-      "desc": "",
-      "dlg": "Relax. You won't be hurting anymore."
-    },
-    {
-      "id": "battle_break_10908_1",
-      "desc": "",
-      "dlg": "Agh…"
-    },
-	{
-      "id": "battle_dead_10908_1",
-      "desc": "",
-      "dlg": "Cough… Didn't think… I'd be buried in ash myself…"
-    },
+
 	{
       "id": "battle_s3_10908_1_2",
-      "desc": "",
+      "desc": "############ Liu South Sect4 Rodion ############",
       "dlg": "You won't even realize you've been pierced, will you?"
     },
-	
 
-	
-	
-	{
-      "id": "battle_select_10708_1",
-      "desc": "############ Oufi Heathcliff ############",
-      "dlg": "An unauthorized involvement of a third party is also prohibited."
-    },
-    {
-      "id": "battle_endcommand_10708_1",
-      "desc": "",
-      "dlg": "I told you to watch yourself!"
-    },
-    {
-      "id": "battle_enemy_break_10708_1",
-      "desc": "",
-      "dlg": "You better start listening now."
-    },
-    {
-      "id": "battle_kill_10708_1",
-      "desc": "",
-      "dlg": "Now that's one less obstacle in our way."
-    },
-    {
-      "id": "battle_break_10708_1",
-      "desc": "",
-      "dlg": "Agh…"
-    },
-	{
-      "id": "battle_dead_10708_1",
-      "desc": "",
-      "dlg": "You can kill me… but the Öufi will ensure that… the contract is executed to its full extent…"
-    },
 	{
       "id": "battle_s3_10708_1_1",
-      "desc": "",
+      "desc": "############ Oufi Heathcliff ############",
       "dlg": "It is a legitimate use of force by the Öufi."
     },
-	
-	
-	
-	
-	
-	{
-      "id": "battle_select_10509_1",
-      "desc": "############ Dead Rabbits Boss Meursault ############",
-      "dlg": "I do not have much time at this moment."
-    },
-    {
-      "id": "battle_endcommand_10509_1",
-      "desc": "",
-      "dlg": "I will thrash them."
-    },
-    {
-      "id": "battle_enemy_break_10509_1",
-      "desc": "",
-      "dlg": "Are you hallucinating rabbits? You must be concussed."
-    },
-    {
-      "id": "battle_kill_10509_1",
-      "desc": "",
-      "dlg": "I will take what surplus time you have."
-    },
-    {
-      "id": "battle_break_10509_1",
-      "desc": "",
-      "dlg": "Hm…"
-    },
-	{
-      "id": "battle_dead_10509_1",
-      "desc": "",
-      "dlg": "I knew… that this day would come… I will take it slow… to my last breath…"
-    },
-	
-	
-	{
-      "id": "battle_select_11108_1",
-      "desc": "############ Wuthering Cheif Butler Outis ############",
-      "dlg": "Is something not to your liking?"
-    },
-    {
-      "id": "battle_endcommand_11108_1",
-      "desc": "",
-      "dlg": "If anyone even dares to lay their hands on this land, on the Mistress…"
-    },
-    {
-      "id": "battle_enemy_break_11108_1",
-      "desc": "",
-      "dlg": "Leave now or suffer, uninvited guest."
-    },
-    {
-      "id": "battle_kill_11108_1",
-      "desc": "",
-      "dlg": "Every uninvited thing must be removed from the premises."
-    },
-    {
-      "id": "battle_break_11108_1",
-      "desc": "",
-      "dlg": "Oh, I hear it. The rush of the hypogean waters… it beckons me…"
-    },
-	{
-      "id": "battle_dead_11108_1",
-      "desc": "",
-      "dlg": "No, I can't… not before I drink from the waters…"
-    },
+    
 	{
       "id": "battle_s3_11108_1_2-1",
-      "desc": "",
+      "desc": "############ Wuthering Cheif Butler Outis ############",
       "dlg": "I'll clean up..."
     },
 	{
@@ -4702,43 +1730,10 @@
       "desc": "",
       "dlg": "... all the filth."
     },
-
-
-	{
-      "id": "battle_select_10209_1",
-      "desc": "############ Wuthering Butler Faust ############",
-      "dlg": "Is something not to your liking?"
-    },
-    {
-      "id": "battle_endcommand_10209_1",
-      "desc": "",
-      "dlg": "… This way, please."
-    },
-    {
-      "id": "battle_enemy_break_10209_1",
-      "desc": "",
-      "dlg": "How ill-mannered."
-    },
-    {
-      "id": "battle_kill_10209_1",
-      "desc": "",
-      "dlg": "Please vacate the premises. Immediately."
-    },
-    {
-      "id": "battle_break_10209_1",
-      "desc": "",
-      "dlg": "Hup…"
-    },
-	{
-      "id": "battle_dead_10209_1",
-      "desc": "",
-      "dlg": "My deepest apologies, Lady Outis, Mistress. I have failed to complete my… duties…"
-    },
-	
 	
 	{
       "id": "battle_select_11209_1",
-      "desc": "############ Edgar Heir Gregor ############",
+      "desc": "",
       "dlg": "Have you something to say to me?"
     },
     {
@@ -4768,7 +1763,7 @@
     },
 	{
       "id": "battle_s3_11209_1",
-      "desc": "",
+      "desc": "############ Edgar Heir Gregor ############",
       "dlg": "This must be..."
     },
 	{
@@ -4777,41 +1772,9 @@
       "dlg": "... your vital point!"
     },
 	
-	
-	
-	{
-      "id": "battle_select_10408_1",
-      "desc": "############ Edgar Chief Butler Ryoshu ############",
-      "dlg": "Quit it with your idiotic bravado and take cover behind me, you fool of a Master."
-    },
-    {
-      "id": "battle_endcommand_10408_1",
-      "desc": "",
-      "dlg": "Headed out for a combat reception."
-    },
-    {
-      "id": "battle_enemy_break_10408_1",
-      "desc": "",
-      "dlg": "Get ready to close your eyes…"
-    },
-    {
-      "id": "battle_kill_10408_1",
-      "desc": "",
-      "dlg": "Go enjoy your dream. Now."
-    },
-    {
-      "id": "battle_break_10408_1",
-      "desc": "",
-      "dlg": "Tch…"
-    },
-	{
-      "id": "battle_dead_10408_1",
-      "desc": "",
-      "dlg": "Cough… I have to… protect my fool of a Master…"
-    },
 	{
       "id": "battle_s3_10408_1_1_4",
-      "desc": "",
+      "desc": "############ Edgar Chief Butler Ryoshu ############",
       "dlg": "I'll guide you to an eternal sleep."
     },
 	{
@@ -4819,73 +1782,10 @@
       "desc": "",
       "dlg": "What the hell...\nYou little wild bastard...!"
     },
-	
-	
-	{
-      "id": "battle_select_10809_1",
-      "desc": "############ Edgar Butler Ishmael ############",
-      "dlg": "Yes? Is there anything I can help you with?"
-    },
-    {
-      "id": "battle_endcommand_10809_1",
-      "desc": "",
-      "dlg": "I'll dust them."
-    },
-    {
-      "id": "battle_enemy_break_10809_1",
-      "desc": "",
-      "dlg": "Even the old, crusty dirt…"
-    },
-    {
-      "id": "battle_kill_10809_1",
-      "desc": "",
-      "dlg": "… Gets dusted in the end."
-    },
-    {
-      "id": "battle_break_10809_1",
-      "desc": "",
-      "dlg": "Hah…!"
-    },
-	{
-      "id": "battle_dead_10809_1",
-      "desc": "",
-      "dlg": "Apolo…gies… Master. I failed… my mission…"
-    },
-	
-	
-	{
-      "id": "battle_select_11009_1",
-      "desc": "############ Dawn Office Sinclair ############",
-      "dlg": "Give me the courage to face something…"
-    },
-    {
-      "id": "battle_endcommand_11009_1",
-      "desc": "",
-      "dlg": "I will follow your judgment."
-    },
-    {
-      "id": "battle_enemy_break_11009_1",
-      "desc": "",
-      "dlg": "I shouldn't hesitate…"
-    },
-    {
-      "id": "battle_kill_11009_1",
-      "desc": "",
-      "dlg": "… I have to be bold!"
-    },
-    {
-      "id": "battle_break_11009_1",
-      "desc": "",
-      "dlg": "I feel like I'm just causing you concern…"
-    },
-	{
-      "id": "battle_dead_11009_1",
-      "desc": "",
-      "dlg": "I thought… I'd be there for you all the way…"
-    },
+
 	{
       "id": "battle_s3_11009_1_1",
-      "desc": "",
+      "desc": "############ Dawn Office Sinclair ############",
       "dlg": "I'll carve this stigma..."
     },
 	{
@@ -4928,78 +1828,16 @@
       "desc": "",
       "dlg": "Maybe I shouldn't have... gone down this path..."
     },
-	
-	
-	{
-      "id": "battle_select_10109_1",
-      "desc": "############ Ring Pointillist Yi Sang ############",
-      "dlg": "Have you aught to say about my work?"
-    },
-    {
-      "id": "battle_endcommand_10109_1",
-      "desc": "",
-      "dlg": "Quite the pointed critique!"
-    },
-    {
-      "id": "battle_enemy_break_10109_1",
-      "desc": "",
-      "dlg": "Mm, this piece is off-balance."
-    },
-    {
-      "id": "battle_kill_10109_1",
-      "desc": "",
-      "dlg": "Finally… it is complete."
-    },
-    {
-      "id": "battle_break_10109_1",
-      "desc": "",
-      "dlg": "Kngh…"
-    },
-	{
-      "id": "battle_dead_10109_1",
-      "desc": "",
-      "dlg": "To perish in the process of artistic creation… Truly, there is no… death… more ideal…"
-    },
+
 	{
       "id": "battle_s3_10109_1_4-7",
-      "desc": "",
+      "desc": "############ Ring Pointillist Yi Sang ############",
       "dlg": "A passing grade."
     },
-	
-	
-	{
-      "id": "battle_select_11109_1",
-      "desc": "############ Ring Pointillist Outis ############",
-      "dlg": "I'm still in the conceptualization phase. Be quick about it."
-    },
-    {
-      "id": "battle_endcommand_11109_1",
-      "desc": "",
-      "dlg": "A sound opinion. Let's go with that."
-    },
-    {
-      "id": "battle_enemy_break_11109_1",
-      "desc": "",
-      "dlg": "The rough sketch is complete. Now be quick and paint over it."
-    },
-    {
-      "id": "battle_kill_11109_1",
-      "desc": "",
-      "dlg": "This artwork is complete. Let us critique it once we return."
-    },
-    {
-      "id": "battle_break_11109_1",
-      "desc": "",
-      "dlg": "Agh…"
-    },
-	{
-      "id": "battle_dead_11109_1",
-      "desc": "",
-      "dlg": "I should've gotten… better teammates…"
-    },
+
 	{
       "id": "battle_s3_11109_1_2-01",
-      "desc": "",
+      "desc": "############ Ring Pointillist Outis ############",
       "dlg": "Not bad."
     },
 	{
@@ -5008,110 +1846,15 @@
       "dlg": "Not bad."
     },
 	
-	
-	{
-      "id": "battle_select_10409_1",
-      "desc": "############ Yurodivy Ryoshu ############",
-      "dlg": "They better give us a good fight."
-    },
-    {
-      "id": "battle_endcommand_10409_1",
-      "desc": "",
-      "dlg": "Let's bring them down."
-    },
-    {
-      "id": "battle_enemy_break_10409_1",
-      "desc": "",
-      "dlg": "Shake down the loaded pigs…"
-    },
-    {
-      "id": "battle_kill_10409_1",
-      "desc": "",
-      "dlg": "… and share the pilfered time with everyone."
-    },
-    {
-      "id": "battle_break_10409_1",
-      "desc": "",
-      "dlg": "Tsk."
-    },
-	{
-      "id": "battle_dead_10409_1",
-      "desc": "",
-      "dlg": "Even I end up 'redistributed'… Haah. Not bad, not bad…"
-    },
-	
-	
-	  {
-      "id": "battle_select_10609_1",
-      "desc": "############ Yurodivy Hong Lu ############",
-      "dlg": "Is there anything you'd like to know about the case?"
-    },
-    {
-      "id": "battle_endcommand_10609_1",
-      "desc": "",
-      "dlg": "We'll bring them down with our own hands!"
-    },
-    {
-      "id": "battle_enemy_break_10609_1",
-      "desc": "",
-      "dlg": "Don't fight the great cause~"
-    },
-    {
-      "id": "battle_kill_10609_1",
-      "desc": "",
-      "dlg": "And make this easy for all of us, okay?"
-    },
-    {
-      "id": "battle_break_10609_1",
-      "desc": "",
-      "dlg": "Ngh… Oh dear."
-    },
-  	{
-      "id": "battle_dead_10609_1",
-      "desc": "",
-      "dlg": "Ah… so this… is how I'm silenced…"
-    },
   	{
       "id": "battle_s3_10609_1_3_4",
-      "desc": "",
+      "desc": "############ Yurodivy Hong Lu ############",
       "dlg": "It can do this too..."
     },
-	
-	
-	
-	  {
-      "id": "battle_select_10309_1",
-      "desc": "############ T Corp DonQ ############",
-      "dlg": "No need to be hasty in thy speech! For I have all the ti— for I have a moderate sum of time in the world."
-    },
-    {
-      "id": "battle_endcommand_10309_1",
-      "desc": "",
-      "dlg": "It shall be done!"
-    },
-    {
-      "id": "battle_enemy_break_10309_1",
-      "desc": "",
-      "dlg": "There is aught else to collect from thee! Breathe not thy final breath!"
-    },
-    {
-      "id": "battle_kill_10309_1",
-      "desc": "",
-      "dlg": "Fie… target deceased. Collection status: inaccessible."
-    },
-    {
-      "id": "battle_break_10309_1",
-      "desc": "",
-      "dlg": "Agh…!"
-    },
-	  {
-      "id": "battle_dead_10309_1",
-      "desc": "",
-      "dlg": "There is yet much time that must be collected…"
-    },
+
 	  {
       "id": "battle_s0_10309_1",
-      "desc": "",
+      "desc": "############ T Corp DonQ ############",
       "dlg": "Enforcing time collection."
     },
 	  {
@@ -5120,74 +1863,9 @@
       "dlg": "Accelerate!"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_10909_1",
-      "desc": "############ T Corp Rodion ############",
-      "dlg": "Can ya speak a bit faster? You're literally wasting my time."
-    },
-    {
-      "id": "battle_endcommand_10909_1",
-      "desc": "",
-      "dlg": "This won't take long."
-    },
-    {
-      "id": "battle_enemy_break_10909_1",
-      "desc": "",
-      "dlg": "If you lack both the capability and the will to make your payments…"
-    },
-    {
-      "id": "battle_kill_10909_1",
-      "desc": "",
-      "dlg": "… then I have no choice but to completely drain your time."
-    },
-    {
-      "id": "battle_break_10909_1",
-      "desc": "",
-      "dlg": "Ugh…"
-    },
-	  {
-      "id": "battle_dead_10909_1",
-      "desc": "",
-      "dlg": "Ha… ha… so this is how… how it ends…?"
-    },
-	
-	
-	
-	  {
-      "id": "battle_select_10510_1",
-      "desc": "############ Dieci South Meursault ############",
-      "dlg": "Questions must wait until this task is completed."
-    },
-    {
-      "id": "battle_endcommand_10510_1",
-      "desc": "",
-      "dlg": "Let this become knowledge as well."
-    },
-    {
-      "id": "battle_enemy_break_10510_1",
-      "desc": "",
-      "dlg": "To know is not eternal."
-    },
-    {
-      "id": "battle_kill_10510_1",
-      "desc": "",
-      "dlg": "… Thus, turn not from ignorance."
-    },
-    {
-      "id": "battle_break_10510_1",
-      "desc": "",
-      "dlg": "Mm…"
-    },
-	  {
-      "id": "battle_dead_10510_1",
-      "desc": "",
-      "dlg": "The moment of inevitability claims me… as well…"
-    },
     {
       "id": "battle_s3_10510_1",
-      "desc": "",
+      "desc": "############ Dieci South Meursault ############",
       "dlg": "When facing knowledge..."
     },
     {
@@ -5196,112 +1874,18 @@
       "dlg": "Be humble!"
     },
 	
-	
-	  {
-      "id": "battle_select_11110_1",
-      "desc": "############ W Corp Outis ############",
-      "dlg": "Please wait until this train is cleaned up. Then I'll answer your questions."
-    },
-    {
-      "id": "battle_endcommand_11110_1",
-      "desc": "",
-      "dlg": "Testing gear charges. Let's clean them up in one fell swoop."
-    },
-    {
-      "id": "battle_enemy_break_11110_1",
-      "desc": "",
-      "dlg": "Passenger neutralization confirmed."
-    },
-    {
-      "id": "battle_kill_11110_1",
-      "desc": "",
-      "dlg": "Neutralization complete. Passenger reconstruction procedure, ready to commence."
-    },
-    {
-      "id": "battle_break_11110_1",
-      "desc": "",
-      "dlg": "Hup…"
-    },
-    {
-      "id": "battle_dead_11110_1",
-      "desc": "",
-      "dlg": "So this is how I… in this wandering path with no end in sight…"
-    },
 	  {
       "id": "battle_s3_11110_1_4",
-      "desc": "",
+      "desc": "############ W Corp Outis ############",
       "dlg": "Ripping dimension!"
     },
 
-	
-  	{
-      "id": "battle_select_10210_1",
-      "desc": "############ Multicrack Faust ############",
-      "dlg": "Have you forgotten the plan?"
-    },
-    {
-      "id": "battle_endcommand_10210_1",
-      "desc": "",
-      "dlg": "Attack range confirmed."
-    },
-    {
-      "id": "battle_enemy_break_10210_1",
-      "desc": "",
-      "dlg": "Efficiently…"
-    },
-    {
-      "id": "battle_kill_10210_1",
-      "desc": "",
-      "dlg": "… dispatched."
-    },
-    {
-      "id": "battle_break_10210_1",
-      "desc": "",
-      "dlg": "Uh…"
-    },
-	  {
-      "id": "battle_dead_10210_1",
-      "desc": "",
-      "dlg": "I have… insurance…"
-    },
   	{
       "id": "battle_s3_10210_1_txt",
-      "desc": "",
+      "desc": "############ Multicrack Faust ############",
       "dlg": "Maximum output."
     },
 	
-	
-	
-  	{
-      "id": "battle_select_10709_1",
-      "desc": "############ Multicrack Heathcliff ############",
-      "dlg": "Come on, out with it."
-    },
-    {
-      "id": "battle_endcommand_10709_1",
-      "desc": "",
-      "dlg": "Outta my way! Let me at 'em first!"
-    },
-    {
-      "id": "battle_enemy_break_10709_1",
-      "desc": "",
-      "dlg": "Now sit tight, you…"
-    },
-    {
-      "id": "battle_kill_10709_1",
-      "desc": "",
-      "dlg": "Oi, you dead already?"
-    },
-    {
-      "id": "battle_break_10709_1",
-      "desc": "",
-      "dlg": "Huh…?"
-    },
-	  {
-      "id": "battle_dead_10709_1",
-      "desc": "",
-      "dlg": "Huh, didn't think this would kill me…"
-    },
 	
 	
 	
@@ -5416,85 +2000,16 @@
       "desc": "",
       "dlg": "You must be feeling resentful... so wail as much as you can!\nUntil the sound of the storm is drowned out!"
     },
-	
-	
-	
-	  {
-      "id": "battle_select_10110_1",
-      "desc": "############ Solmen Lament Yi Sang ############",
-      "dlg": "Idle chatter is ill-advised in mourning."
-    },
-    {
-      "id": "battle_endcommand_10110_1",
-      "desc": "",
-      "dlg": "Please, step forth."
-    },
-    {
-      "id": "battle_enemy_break_10110_1",
-      "desc": "",
-      "dlg": "Go into the night without worry."
-    },
-    {
-      "id": "battle_kill_10110_1",
-      "desc": "",
-      "dlg": "For your remembrance shall be mine as you sleep."
-    },
-    {
-      "id": "battle_break_10110_1",
-      "desc": "",
-      "dlg": "Mm…"
-    },
-	  {
-      "id": "battle_dead_10110_1",
-      "desc": "",
-      "dlg": "Could the small wings… of a butterfly have… fluttered away from this… place…?"
-    },
+
 	  {
       "id": "battle_s3_10110_1_txt",
-      "desc": "",
+      "desc": "############ Solmen Lament Yi Sang ############",
       "dlg": "Rest in peace."
     },	
 	
-	
-	
-	  {
-      "id": "battle_select_10410_1",
-      "desc": "############ RE&P Ryoshu ############",
-      "dlg": "Don't stare at these eyes for too long. I won't help you if it snares you in its trance."
-    },
-    {
-      "id": "battle_endcommand_10410_1",
-      "desc": "",
-      "dlg": "Get ready to have your skull cracked open."
-    },
-    {
-      "id": "battle_enemy_break_10410_1",
-      "desc": "",
-      "dlg": "Isn't this a nice spread for a meal, S.H?"
-    },
-    {
-      "id": "battle_kill_10410_1",
-      "desc": "",
-      "dlg": "My sins are mine to deal with, S.F."
-    },
-    {
-      "id": "battle_break_10410_1",
-      "desc": "",
-      "dlg": "I know. Shut up."
-    },
-	  { 
-      "id": "battle_break_10410_2",
-      "desc": "",
-      "dlg": "Agh…"
-    },
-	  {
-      "id": "battle_dead_10410_1",
-      "desc": "",
-      "dlg": "The eyes close shut…\nand the lights… fade…"
-    },
 	  {
       "id": "battle_s3_10410_1_txt",
-      "desc": "",
+      "desc": "############ RE&P Ryoshu ############",
       "dlg": "Eat it all up!"
     },
 	  {
@@ -5503,40 +2018,9 @@
       "dlg": "It's time! Skull face, Spider head!"
     },
 
-	
-	  {
-      "id": "battle_select_10910_1",
-      "desc": "############ Devyat North Rodion ############",
-      "dlg": "Talk later, hmm? Can't be late for delivery."
-    },
-    {
-      "id": "battle_endcommand_10910_1",
-      "desc": "",
-      "dlg": "Get outta my way, c'mon!"
-    },
-    {
-      "id": "battle_enemy_break_10910_1",
-      "desc": "",
-      "dlg": "Stop wasting my time…"
-    },
-    {
-      "id": "battle_kill_10910_1",
-      "desc": "",
-      "dlg": "… and get outta my way!"
-    },
-    {
-      "id": "battle_break_10910_1",
-      "desc": "",
-      "dlg": "Ngh…"
-    },
-	  {
-      "id": "battle_dead_10910_1",
-      "desc": "",
-      "dlg": "Ah… I'll be… just another suitcase recovery mission, huh…"
-    },
 	  {
       "id": "battle_s3_10910_1_1-02",
-      "desc": "",
+      "desc": "############ Devyat North Rodion ############",
       "dlg": "Polu, use your strength a bit!\n<color=#00fa9f><size=70%><i>[Output increase request confirmed.]</i></size></color>"
     },
     {
@@ -5555,41 +2039,9 @@
       "dlg": "N-no, stop! I'll get moving right now, oka-\n<color=#00fa9f><size=70%><i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i></size></color>"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_10810_1",
-      "desc": "############ Zwei West Ishmael ############",
-      "dlg": "We're mid-battle. Keep it short."
-    },
-    {
-      "id": "battle_endcommand_10810_1",
-      "desc": "",
-      "dlg": "Potentially dangerous individual identified. Moving in to suppress."
-    },
-    {
-      "id": "battle_enemy_break_10810_1",
-      "desc": "",
-      "dlg": "Should've contracted the Zwei…"
-    },
-    {
-      "id": "battle_kill_10810_1",
-      "desc": "",
-      "dlg": "… or your head wouldn't have been crushed by my greatsword."
-    },
-    {
-      "id": "battle_break_10810_1",
-      "desc": "",
-      "dlg": "Wh— huh…?"
-    },
-	  {
-      "id": "battle_dead_10810_1",
-      "desc": "",
-      "dlg": "Dammit, they got us…\nWe need to call for reinforcements…"
-    },
 	  {
       "id": "battle_s3_10810_1_4-01",
-      "desc": "",
+      "desc": "############ Zwei West Ishmael ############",
       "dlg": "The best defense!"
     },
 	  {
@@ -5598,149 +2050,21 @@
       "dlg": "Greatsword Guard."
     },
 	
-	
-	
-	  {
-      "id": "battle_select_10511_1",
-      "desc": "############ Cinq West Meursault ############",
-      "dlg": "Currently focused."
-    },
-    {
-      "id": "battle_endcommand_10511_1",
-      "desc": "",
-      "dlg": "Attaque."
-    },
-    {
-      "id": "battle_enemy_break_10511_1",
-      "desc": "",
-      "dlg": "Again. This duel is not over."
-    },
-    {
-      "id": "battle_kill_10511_1",
-      "desc": "",
-      "dlg": "A good match."
-    },
-    {
-      "id": "battle_break_10511_1",
-      "desc": "",
-      "dlg": "Hm. Rompre."
-    },
-	  {
-      "id": "battle_dead_10511_1",
-      "desc": "",
-      "dlg": "So that… wasn't enough… Perhaps this defeat could be… reviewed… in a video…"
-    },
 	  {
       "id": "battle_s3_10511_1_1",
-      "desc": "",
+      "desc": "############ Cinq West Meursault ############",
       "dlg": "This is the decisive moment."
     },
 	
-	
-	
-  	{
-      "id": "battle_select_11010_1",
-      "desc": "############ Zwei West Sinclair ############",
-      "dlg": "I thought I submitted everything…? What's wrong?"
-    },
-    {
-      "id": "battle_endcommand_11010_1",
-      "desc": "",
-      "dlg": "Securing personnel…!"
-    },
-    {
-      "id": "battle_enemy_break_11010_1",
-      "desc": "",
-      "dlg": "Get behind me, now…!"
-    },
-    {
-      "id": "battle_kill_11010_1",
-      "desc": "",
-      "dlg": "Excluding high-risk individuals…"
-    },
-    {
-      "id": "battle_break_11010_1",
-      "desc": "",
-      "dlg": "Nngh…"
-    },
-  	{
-      "id": "battle_dead_11010_1",
-      "desc": "",
-      "dlg": "I'll be fine… so run… get as far away as you can from here…"
-    },
   	{
       "id": "battle_s4_11010_3-02",
-      "desc": "",
+      "desc": "############ Zwei West Sinclair ############",
       "dlg": "Greatsword... Guard!"
     },
 	
-	
-  	{
-      "id": "battle_select_10610_1",
-      "desc": "############ Fanghunt Hong Lu ############",
-      "dlg": "I should wipe that blood off my weapon."
-    },
-    {
-      "id": "battle_endcommand_10610_1",
-      "desc": "",
-      "dlg": "Let's hunt."
-    },
-    {
-      "id": "battle_enemy_break_10610_1",
-      "desc": "",
-      "dlg": "Does it hurt?"
-    },
-    {
-      "id": "battle_kill_10610_1",
-      "desc": "",
-      "dlg": "Hahaha!"
-    },
-    {
-      "id": "battle_break_10610_1",
-      "desc": "",
-      "dlg": "Agh…"
-    },
-	  {
-      "id": "battle_dead_10610_1",
-      "desc": "",
-      "dlg": "I'll take… one more of you with me…"
-    },
-	
-	
-	
-	  {
-      "id": "battle_select_11111_1",
-      "desc": "############ LaMancha Barber Outis ############",
-      "dlg": "Hm? Did the strap for your mask fall off?"
-    },
-    {
-      "id": "battle_endcommand_11111_1",
-      "desc": "",
-      "dlg": "I'll snip off the carbage!"
-    },
-    {
-      "id": "battle_enemy_break_11111_1",
-      "desc": "",
-      "dlg": "Huh. Did the seams burst?"
-    },
-    {
-      "id": "battle_kill_11111_1",
-      "desc": "",
-      "dlg": "Not even worth a patchwork. Fall apart where you stand."
-    },
-    {
-      "id": "battle_break_11111_1",
-      "desc": "",
-      "dlg": "Tsk…"
-    },
-	  {
-      "id": "battle_dead_11111_1",
-      "desc": "",
-      "dlg": "A-at least let me keep the mask on…! … Then… kill me…"
-    },
 	  {
       "id": "battle_s3_11111_1_1-01",
-      "desc": "",
+      "desc": "############ LaMancha Barber Outis ############",
       "dlg": "Look forward to it."
     },
 	  {
@@ -5749,41 +2073,9 @@
       "dlg": "Look forward to it."
     },
 	
-	
-	
-	  {
-      "id": "battle_select_11210_1",
-      "desc": "############ LaMancha Priest Gregor ############",
-      "dlg": "Can you come back later for the consultation? I'm a bit… occupied at the moment."
-    },
-    {
-      "id": "battle_endcommand_11210_1",
-      "desc": "",
-      "dlg": "Are you a sinner as well?"
-    },
-    {
-      "id": "battle_enemy_break_11210_1",
-      "desc": "",
-      "dlg": "This too shall be forgiven…"
-    },
-    {
-      "id": "battle_kill_11210_1",
-      "desc": "",
-      "dlg": "… so rest now, forevermore."
-    },
-    {
-      "id": "battle_break_11210_1",
-      "desc": "",
-      "dlg": "Pain… must be endured…"
-    },
-	  {
-      "id": "battle_dead_11210_1",
-      "desc": "",
-      "dlg": "Hnh. Finally… freed from…\nthe hunger…"
-    },
 	  {
       "id": "battle_s3_11210_1",
-      "desc": "",
+      "desc": "############ LaMancha Priest Gregor ############",
       "dlg": "Urgh... Blood... Blood!"
     },
 	  {
@@ -5796,79 +2088,16 @@
       "desc": "",
       "dlg": "Oh...! Blood!! Blood!!!"
     },	
-	
-	
-	  {
-      "id": "battle_select_10911_1",
-      "desc": "############ LaMancha Princess Rodion ############",
-      "dlg": "Talking to me in the middle of a Parade isn't so polite, hm?"
-    },
-    {
-      "id": "battle_endcommand_10911_1",
-      "desc": "",
-      "dlg": "With grace."
-    },
-    {
-      "id": "battle_enemy_break_10911_1",
-      "desc": "",
-      "dlg": "… Hideous."
-    },
-    {
-      "id": "battle_kill_10911_1",
-      "desc": "",
-      "dlg": "Your fountain of blood… How pretty."
-    },
-    {
-      "id": "battle_break_10911_1",
-      "desc": "",
-      "dlg": "Ah… ha ha."
-    },
-	  {
-      "id": "battle_dead_10911_1",
-      "desc": "",
-      "dlg": "Can we… finally come to a stop…?"
-    },
+
 	  {
       "id": "battle_s3_10911_1_6",
-      "desc": "",
+      "desc": "############ LaMancha Princess Rodion ############",
       "dlg": "Let us begin the finale."
     },
 	
-	
-	
-	  {
-      "id": "battle_select_11011_1",
-      "desc": "############ Devyat North Sinclair ############",
-      "dlg": "Uh… did you call me? Oh, did you order something through the Devyat'?"
-    },
-    {
-      "id": "battle_endcommand_11011_1",
-      "desc": "",
-      "dlg": "I still have time…"
-    },
-    {
-      "id": "battle_enemy_break_11011_1",
-      "desc": "",
-      "dlg": "Can you clear the way, please…?"
-    },
-    {
-      "id": "battle_kill_11011_1",
-      "desc": "",
-      "dlg": "… I said move!"
-    },
-    {
-      "id": "battle_break_11011_1",
-      "desc": "",
-      "dlg": "Nngh…"
-    },
-	  {
-      "id": "battle_dead_11011_1",
-      "desc": "",
-      "dlg": "Poludnitsa… help…\n<color=#00fa9f><size=70%><i>[Pathfinding failed. Courier absence detected. Poludnitsa, engaging Protection Mode.]</i></size></color>"
-    },
 	  {
       "id": "battle_s3_11011_1_4",
-      "desc": "",
+      "desc": "############ Devyat North Sinclair ############",
       "dlg": "If you dont move!"
     },
 	  {
@@ -5879,7 +2108,7 @@
 	  {
       "id": "battle_special_11011_1",
       "desc": "",
-      "dlg": "W-wait a moment! Iet's rest for a bit."
+      "dlg": "W-wait a moment! let's rest for a bit."
     },
 	  {
       "id": "battle_devai_11011_7",
@@ -5928,38 +2157,8 @@
     },
 	
 	  {
-      "id": "battle_select_10310_1",
-      "desc": "############ LaMancha Manager DonQ ############",
-      "dlg": "I… cannot speak a word."
-    },
-    {
-      "id": "battle_endcommand_10310_1",
-      "desc": "",
-      "dlg": "For the Family…"
-    },
-    {
-      "id": "battle_enemy_break_10310_1",
-      "desc": "",
-      "dlg": "From this impalement…"
-    },
-    {
-      "id": "battle_kill_10310_1",
-      "desc": "",
-      "dlg": "… shall it cascade."
-    },
-    {
-      "id": "battle_break_10310_1",
-      "desc": "",
-      "dlg": "This is nothing."
-    },
-	  {
-      "id": "battle_dead_10310_1",
-      "desc": "",
-      "dlg": "Is this… 'the retribution' you spoke of, Priest…?"
-    },
-	  {
       "id": "battle_react_10310_1-1",
-      "desc": "",
+      "desc": "############ LaMancha Manager DonQ ############",
       "dlg": "Flowing blood..."
     },
 	  {
@@ -5969,7 +2168,7 @@
     },
 	  {
       "id": "battle_react_10310_1-3",
-      "desc": "1Unsure if it's even used lol",
+      "desc": "1Unsure if it's even used",
       "dlg": "Blood... filled with emotions."
     },
 	  {
@@ -6053,42 +2252,9 @@
       "dlg": "My only sister... I leave the rest of the Family to you."
     },
 	
-	
-	
-	
-	  {
-      "id": "battle_select_10611_1",
-      "desc": "############ Full-stop Hong Lu Start ############",
-      "dlg": "Nervous? Take a deep, deep breath—it'll help."
-    },
-    {
-      "id": "battle_endcommand_10611_1",
-      "desc": "",
-      "dlg": "Target in sight. One O'clock."
-    },
-    {
-      "id": "battle_enemy_break_10611_1",
-      "desc": "",
-      "dlg": "You don't really know what you're doing, do you~?"
-    },
-    {
-      "id": "battle_kill_10611_1",
-      "desc": "",
-      "dlg": "Next target."
-    },
-    {
-      "id": "battle_break_10611_1",
-      "desc": "",
-      "dlg": "Ugh…!"
-    },
-	  {
-      "id": "battle_dead_10611_1",
-      "desc": "",
-      "dlg": "Looks like I was the one who was made light of…"
-    },
 	  {
       "id": "battle_s3_10611_1-01",
-      "desc": "",
+      "desc": "############ Full-stop Hong Lu Start ############",
       "dlg": "A full-stop..."
     },
   	{
@@ -6136,41 +2302,10 @@
       "desc": "",
       "dlg": "Okay, I've got this."
     },
-	
-	
-  	{
-      "id": "battle_select_10711_1",
-      "desc": "############ Full-stop Heathcliff Start ############",
-      "dlg": "… Don't try to chat me up when I'm holding my breath, yeah?"
-    },
-    {
-      "id": "battle_endcommand_10711_1",
-      "desc": "",
-      "dlg": "Opening fire!"
-    },
-    {
-      "id": "battle_enemy_break_10711_1",
-      "desc": "",
-      "dlg": "Nice, it's been a breeze so far…!"
-    },
-    {
-      "id": "battle_kill_10711_1",
-      "desc": "",
-      "dlg": "Clean shot to the head. Bullseye."
-    },
-    {
-      "id": "battle_break_10711_1",
-      "desc": "",
-      "dlg": "Ngh, dammit…"
-    },
-	  {
-      "id": "battle_dead_10711_1",
-      "desc": "",
-      "dlg": "You're shittin' me… I'm not finished yet…"
-    },
+    
 	  {
       "id": "battle_s3_10711_1_1",
-      "desc": "",
+      "desc": "############ Full-stop Heathcliff Start ############",
       "dlg": "Goin' for the bullseye."
     },
 	  {
@@ -6209,74 +2344,9 @@
       "dlg": "Sniper repositioning complete."
     },
 	
-	
-	
-	
-    {
-      "id": "battle_select_10111_1",
-      "desc": "############ Lantern Yi Sang Start ############",
-      "dlg": "… It would be deeply appreciated if the exclusion category were not to be necessitated here…"
-    },
-    {
-      "id": "battle_endcommand_10111_1",
-      "desc": "",
-      "dlg": "Subject suppressed."
-    },
-    {
-      "id": "battle_enemy_break_10111_1",
-      "desc": "",
-      "dlg": "Hm. Thus I leave a recording of this weakness."
-    },
-    {
-      "id": "battle_kill_10111_1",
-      "desc": "",
-      "dlg": "Suppression complete."
-    },
-    {
-      "id": "battle_break_10111_1",
-      "desc": "",
-      "dlg": "Ngh…"
-    },
-	  {
-      "id": "battle_dead_10111_1",
-      "desc": "",
-      "dlg": "Haah… yet… there is so much of the unknown… in this world… to be learned…"
-    },
-	
-	
-	  {
-      "id": "battle_select_10211_1",
-      "desc": "############ AdorBlossom Faust Start ############",
-      "dlg": "Keep your distance. This flame spreads far."
-    },
-    {
-      "id": "battle_endcommand_10211_1",
-      "desc": "",
-      "dlg": "Proceeding with subject repression."
-    },
-    {
-      "id": "battle_enemy_break_10211_1",
-      "desc": "",
-      "dlg": "Structural integrity collapse confirmed."
-    },
-    {
-      "id": "battle_kill_10211_1",
-      "desc": "",
-      "dlg": "Subject incinerated."
-    },
-    {
-      "id": "battle_break_10211_1",
-      "desc": "",
-      "dlg": "Hngh…"
-    },
-	  {
-      "id": "battle_dead_10211_1",
-      "desc": "",
-      "dlg": "This experiment… will be a failure…"
-    },
     {
       "id": "battle_s3_10211_1_1",
-      "desc": "",
+      "desc": "############ AdorBlossom Faust Start ############",
       "dlg": "Uncontrollably..."
     },
 	  {
@@ -6315,42 +2385,9 @@
       "dlg": "... flickering flames!"
     },
 	
-	
-	
-	
-	  { 
-      "id": "battle_select_10712_1",
-      "desc": "############ Kurokumo Heathcliff Start ############",
-      "dlg": "Phoo… let me catch my breath."
-    },
-    {
-      "id": "battle_endcommand_10712_1",
-      "desc": "",
-      "dlg": "Kill 'em all!"
-    },
-    {
-      "id": "battle_enemy_break_10712_1",
-      "desc": "",
-      "dlg": "This'll hurt like hell."
-    },
-    {
-      "id": "battle_kill_10712_1",
-      "desc": "",
-      "dlg": "Next! Chop-chop!"
-    },
-    {
-      "id": "battle_break_10712_1",
-      "desc": "",
-      "dlg": "Agh."
-    },
-	  {
-      "id": "battle_dead_10712_1",
-      "desc": "",
-      "dlg": "I've cut through enough of 'em… I'll leave the rest to you…"
-    },
 	  {
       "id": "battle_s3_10712_1_4",
-      "desc": "",
+      "desc": "############ Kurokumo Heathcliff Start ############",
       "dlg": "Your neck's wide open!"
     },
 	  {
@@ -6364,42 +2401,9 @@
       "dlg": "Hah... these bastards really want to die!"
     },
 	
-
-
-
-	  {
-      "id": "battle_select_10811_1",
-      "desc": "############ Kurokumo Captain Ishmael Start ############",
-      "dlg": "Anything left to say?"
-    },
-    {
-      "id": "battle_endcommand_10811_1",
-      "desc": "",
-      "dlg": "Here I go."
-    },
-    {
-      "id": "battle_enemy_break_10811_1",
-      "desc": "",
-      "dlg": "My, didn't you know? You've been cut."
-    },
-    {
-      "id": "battle_kill_10811_1",
-      "desc": "",
-      "dlg": "How are you keeping up with me this well…?"
-    },
-    {
-      "id": "battle_break_10811_1",
-      "desc": "",
-      "dlg": "Ngh…"
-    },
-	  {
-      "id": "battle_dead_10811_1",
-      "desc": "",
-      "dlg": "… Kuh. So this… is where the thirty-fourth Captain falls…"
-    },
 	  {
       "id": "battle_s3_10811_1_1-01",
-      "desc": "",
+      "desc": "############ Kurokumo Captain Ishmael Start ############",
       "dlg": "4th Form..."
     },
 	  {
@@ -6413,46 +2417,9 @@
       "dlg": "Go out and fight. I'll take care of the back."
     },
 	
-	
-	
-	
-	
-	
-	
-	
-	  {
-      "id": "battle_select_10112_1",
-      "desc": "############ Liu Sect3 Yi Sang Start ############",
-      "dlg": "Ah, be wary of the embers."
-    },
-    {
-      "id": "battle_endcommand_10112_1",
-      "desc": "",
-      "dlg": "Flamestrike sword."
-    },
-    {
-      "id": "battle_enemy_break_10112_1",
-      "desc": "",
-      "dlg": "Cremation…"
-    },
-    {
-      "id": "battle_kill_10112_1",
-      "desc": "",
-      "dlg": "… like a blossom."
-    },
-    {
-      "id": "battle_break_10112_1",
-      "desc": "",
-      "dlg": "Mm…"
-    },
-	  {
-      "id": "battle_dead_10112_1",
-      "desc": "",
-      "dlg": "What a shame it is… that I… must depart this world… with the void of knowledge… so vast…"
-    },
 	  {
       "id": "battle_s3_10112_1_1-03",
-      "desc": "",
+      "desc": "############ Liu Sect3 Yi Sang Start ############",
       "dlg": "In the end..."
     },
 	  {
@@ -6461,79 +2428,15 @@
       "dlg": "They shall burn completely...!"
     },
 	
-	
-	
-	  { 
-      "id": "battle_select_10311_1",
-      "desc": "############ Cinq East DonQ ############",
-      "dlg": "'Tis an emergency, hm? Do know that it shall cost thee a tad more!"
-    },
-    {
-      "id": "battle_endcommand_10311_1",
-      "desc": "",
-      "dlg": "The virescent pyrojade burneth."
-    },
-    {
-      "id": "battle_enemy_break_10311_1",
-      "desc": "",
-      "dlg": "This duel!"
-    },
-    {
-      "id": "battle_kill_10311_1",
-      "desc": "",
-      "dlg": "Endeth with my victory!"
-    },
-    {
-      "id": "battle_break_10311_1",
-      "desc": "",
-      "dlg": "Hup?!"
-    },
-	  {
-      "id": "battle_dead_10311_1",
-      "desc": "",
-      "dlg": "Ahaaa… 'twas… quite education…al…"
-    },
 	  {
       "id": "battle_s3_10311_1_3",
-      "desc": "",
+      "desc": "############ Cinq East DonQ ############",
       "dlg": "Finish!"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_11211_1",
-      "desc": "############ Firefist Gregor Start ############",
-      "dlg": "This conversation can wait… until the park closes."
-    },
-    {
-      "id": "battle_endcommand_11211_1",
-      "desc": "",
-      "dlg": "Let's see how much more of this you can take."
-    },
-    {
-      "id": "battle_enemy_break_11211_1",
-      "desc": "",
-      "dlg": "I don't assume you have any last words?"
-    },
-    {
-      "id": "battle_kill_11211_1",
-      "desc": "",
-      "dlg": "… All burnt to ashes."
-    },
-    {
-      "id": "battle_break_11211_1",
-      "desc": "",
-      "dlg": "Haah… don't worry. Wound's been cauterized."
-    },
-	  {
-      "id": "battle_dead_11211_1",
-      "desc": "",
-      "dlg": "Haah… isn't it too… early for me to join them…?"
-    },
 	  {
       "id": "battle_s3_11211_1_3-02",
-      "desc": "",
+      "desc": "############ Firefist Gregor Start ############",
       "dlg": "<i>HYAAAAAAAAAAAAAAAAAAH!!!</i>"
     },
 	  {
@@ -6562,160 +2465,27 @@
       "dlg": "These vermin-like bastards!"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_10411_1",
-      "desc": "############ Mao Branch Ryoshu Start ############",
-      "dlg": "Any more prey I should take care of?"
-    },
-    {
-      "id": "battle_endcommand_10411_1",
-      "desc": "",
-      "dlg": "Mao branch of the Heishou Pack, ready to hop."
-    },
-    {
-      "id": "battle_enemy_break_10411_1",
-      "desc": "",
-      "dlg": "Hah. Don't die just yet."
-    },
-    {
-      "id": "battle_kill_10411_1",
-      "desc": "",
-      "dlg": "Hmph, worthless. Die."
-    },
-    {
-      "id": "battle_break_10411_1",
-      "desc": "",
-      "dlg": "Tch, wait…"
-    },
-	  {
-      "id": "battle_dead_10411_1",
-      "desc": "",
-      "dlg": "Ah… dammit. That… was… fun."
-    },
 	  {
       "id": "battle_s3_10411_1_4-04",
-      "desc": "",
+      "desc": "############ Mao Branch Ryoshu Start ############",
       "dlg": "Cutting off their breath."
     },
 	
-	
-	
-	
-	
-	
-	  {
-      "id": "battle_select_11112_1",
-      "desc": "############ Mao Branch Outis Start ############",
-      "dlg": "My lord, to be present here in your person is— No, my lord. Please, do speak your will."
-    },
-    {
-      "id": "battle_endcommand_11112_1",
-      "desc": "",
-      "dlg": "I will cut them down."
-    },
-    {
-      "id": "battle_enemy_break_11112_1",
-      "desc": "",
-      "dlg": "What a pathetic cry."
-    },
-    {
-      "id": "battle_kill_11112_1",
-      "desc": "",
-      "dlg": "You're finished."
-    },
-    {
-      "id": "battle_break_11112_1",
-      "desc": "",
-      "dlg": "… Kah."
-    },
-	  {
-      "id": "battle_dead_11112_1",
-      "desc": "",
-      "dlg": "I may die here… but… the Mao branch shall…"
-    },
 	  {
       "id": "battle_s3_11112_1_3-01",
-      "desc": "",
+      "desc": "############ Mao Branch Outis Start ############",
       "dlg": "Sink into the shadows."
     },
 	
-	
-	
-	
-	
-	
-	  {
-      "id": "battle_select_11012_1",
-      "desc": "############ Middle Lilbro Sinclair Start ############",
-      "dlg": "Who meddles in our business?"
-    },
-    {
-      "id": "battle_endcommand_11012_1",
-      "desc": "",
-      "dlg": "I'll pummel them to dust."
-    },
-    {
-      "id": "battle_enemy_break_11012_1",
-      "desc": "",
-      "dlg": "Don't resist."
-    },
-    {
-      "id": "battle_kill_11012_1",
-      "desc": "",
-      "dlg": "… Nice, now I can cross that off the book."
-    },
-    {
-      "id": "battle_break_11012_1",
-      "desc": "",
-      "dlg": "You… little… shit!"
-    },
-	  {
-      "id": "battle_dead_11012_1",
-      "desc": "",
-      "dlg": "Heh… heh. Killing me won't clear your name off the book."
-    },
 	  {
       "id": "battle_s3_11012_1_3-02",
-      "desc": "",
+      "desc": "############ Middle Lilbro Sinclair Start ############",
       "dlg": "Does that sting?"
     },
 	
-	
-	  {
-      "id": "battle_select_10612_1",
-      "desc": "############ R Corp Hong Lu Start ############",
-      "dlg": "Can you please be quie— Nngh! Why the hell did you wait until now to call me up?!"
-    },
-    {
-      "id": "battle_endcommand_10612_1",
-      "desc": "",
-      "dlg": "Focusing Antlers…\nBrainwave Charge."
-    },
-    {
-      "id": "battle_enemy_break_10612_1",
-      "desc": "",
-      "dlg": "Please… shut up…"
-    },
-    {
-      "id": "battle_kill_10612_1",
-      "desc": "",
-      "dlg": "… Much better."
-    },
-    {
-      "id": "battle_break_10612_1",
-      "desc": "",
-      "dlg": "<i>Hehheh… Hehaha… Heeheeeheee…</i>"
-    },
-	  {
-      "id": "battle_dead_10612_1",
-      "desc": "",
-      "dlg": "Haha… I'll seeya later. The Pack… it'll come back in a stampede in no time."
-    },
 	  {
       "id": "battle_s3_10612_1",
-      "desc": "",
+      "desc": "############ R Corp Hong Lu Start ############",
       "dlg": "Urgh... If you don't want to get caught up in it, then move!"
     },
 	
@@ -6723,7 +2493,7 @@
 	
 	  {
       "id": "battle_select_10912_1",
-      "desc": "############ Si Branch Rodion Start ############",
+      "desc": "",
       "dlg": "Didya call, m'lord? Feel free to summon me for anything ya need."
     },
     {
@@ -6753,85 +2523,19 @@
     },
 	  {
       "id": "battle_s3_10912_1_3",
-      "desc": "",
-      "dlg": "This distance is just enough for me…\nMight be a bit far for you, though!"
+      "desc": "############ Si Branch Rodion Start ############",
+      "dlg": "<size=90%>This distance is just enough for me…</size>\nMight be a bit far for you, though!"
     },
 	
-	
-	
-	
-	  {
-      "id": "battle_select_11212_1",
-      "desc": "############ Si Branch Gregor Start ############",
-      "dlg": "Told you to watch yourself around a coiled-up snake."
-    },
-    {
-      "id": "battle_endcommand_11212_1",
-      "desc": "",
-      "dlg": "Now, give it a real good guess. Which direction will my arm strike from?"
-    },
-    {
-      "id": "battle_enemy_break_11212_1",
-      "desc": "",
-      "dlg": "Didn't see that coming, did you?"
-    },
-    {
-      "id": "battle_kill_11212_1",
-      "desc": "",
-      "dlg": "Clean bite, huh?"
-    },
-    {
-      "id": "battle_break_11212_1",
-      "desc": "",
-      "dlg": "Hup…"
-    },
-	  {
-      "id": "battle_dead_11212_1",
-      "desc": "",
-      "dlg": "Haah… So death can claim me, after all."
-    },
 	  {
       "id": "battle_s3_11212_1_3",
-      "desc": "",
+      "desc": "############ Si Branch Gregor Start ############",
       "dlg": "I don’t think that’s the right direction."
     },
 	
-	
-	
-	
-	  {
-      "id": "battle_select_10212_1",
-      "desc": "############ Mao Adept Faust Start ############",
-      "dlg": "Command without hesitation."
-    },
-    {
-      "id": "battle_endcommand_10212_1",
-      "desc": "",
-      "dlg": "Futility inheres in impossibility(不可違也). I will not be restrained."
-    },
-    {
-      "id": "battle_enemy_break_10212_1",
-      "desc": "",
-      "dlg": "Futile."
-    },
-    {
-      "id": "battle_kill_10212_1",
-      "desc": "",
-      "dlg": "Find your enlightenment, now."
-    },
-    {
-      "id": "battle_break_10212_1",
-      "desc": "",
-      "dlg": "… Indeed."
-    },
-	  {
-      "id": "battle_dead_10212_1",
-      "desc": "",
-      "dlg": "… Please straighten my bamboo hat. Yes. That is… enough…"
-    },
 	  {
       "id": "battle_s3_10212_1_2",
-      "desc": "",
+      "desc": "############ Mao Adept Faust Start ############",
       "dlg": "Cut through their opening…"
     },
 	  {
@@ -6839,83 +2543,21 @@
       "desc": "",
       "dlg": "Immediately."
     },
-	
-	
-	  {
-      "id": "battle_select_10812_1",
-      "desc": "############ Xichun Ishmael Start ############",
-      "dlg": "Please, I don't need any unnecessary fussing. I prefer the silence."
-    },
-    {
-      "id": "battle_endcommand_10812_1",
-      "desc": "",
-      "dlg": "Let's take them all out. No need to waste our time here."
-    },
-    {
-      "id": "battle_enemy_break_10812_1",
-      "desc": "",
-      "dlg": "Hmph. You're open!"
-    },
-    {
-      "id": "battle_kill_10812_1",
-      "desc": "",
-      "dlg": "Nice try."
-    },
-    {
-      "id": "battle_break_10812_1",
-      "desc": "",
-      "dlg": "Agh! What the hell—"
-    },
-	  {
-      "id": "battle_dead_10812_1",
-      "desc": "",
-      "dlg": "What a… short-lived spring this is…"
-    },
+
 	  {
       "id": "battle_s3_10812_1_001",
-      "desc": "",
+      "desc": "############ Xichun Ishmael Start ############",
       "dlg": "A fleeting life…"
     },
 	  {
       "id": "battle_s3_10812_1_003",
       "desc": "",
-      "dlg": "Simply snuffed out like a flame."
+      "dlg": "... Simply snuffed out like a flame."
     },
-	
-	
-	  {
-      "id": "battle_select_10512_1",
-      "desc": "############ Thumb Meursault Start ############",
-      "dlg": "… The concept of manners must be alien to you."
-    },
-    {
-      "id": "battle_endcommand_10512_1",
-      "desc": "",
-      "dlg": "Are you ready?"
-    },
-    {
-      "id": "battle_enemy_break_10512_1",
-      "desc": "",
-      "dlg": "Is this really your best?"
-    },
-    {
-      "id": "battle_kill_10512_1",
-      "desc": "",
-      "dlg": "Standing around as you did is what cost you your head."
-    },
-    {
-      "id": "battle_break_10512_1",
-      "desc": "",
-      "dlg": "Keh… Why, that's quite good."
-    },
-	  {
-      "id": "battle_dead_10512_1",
-      "desc": "",
-      "dlg": "Puff… motherfucker…"
-    },
+
   	{
       "id": "battle_s3_10512_1_2-02",
-      "desc": "",
+      "desc": "############ Thumb Meursault Start ############",
       "dlg": "Full Barrage...!"
     },
 	  {
@@ -6939,42 +2581,10 @@
       "dlg": "Full Barrage!!"
     },
 
-	
-	
 
-  	{
-      "id": "battle_select_11013_1",
-      "desc": "############ Thumb Sinclair Start ############",
-      "dlg": "Progressing through the mission as commanded."
-    },
-    {
-      "id": "battle_endcommand_11013_1",
-      "desc": "",
-      "dlg": "I will follow your command."
-    },
-    {
-      "id": "battle_enemy_break_11013_1",
-      "desc": "",
-      "dlg": "We all have our lots…"
-    },
-    {
-      "id": "battle_kill_11013_1",
-      "desc": "",
-      "dlg": "… there's no need for sympathy, mutual or otherwise."
-    },
-    {
-      "id": "battle_break_11013_1",
-      "desc": "",
-      "dlg": "So, in this life dedicated to propriety…"
-    },
-	  {
-      "id": "battle_dead_11013_1",
-      "desc": "",
-      "dlg": "I don't think I was discourteous…"
-    },
 	  {
       "id": "battle_s3_11013_1_1",
-      "desc": "",
+      "desc": "############ Thumb Sinclair Start ############",
       "dlg": "Firepower... propulsion!"
     },
 		{
@@ -6983,85 +2593,16 @@
       "dlg": "Ammunition! I shall supply it for you."
     },
 	
-	
-	
-	
-	
-	
-	
-	
-	  {
-      "id": "battle_select_10113_1",
-      "desc": "############ N Corp Yi Sang Start ############",
-      "dlg": "Heh heh… mm. Forget you heard the laughter. What is your business here?"
-    },
-    {
-      "id": "battle_endcommand_10113_1",
-      "desc": "",
-      "dlg": "To pierce and scatter."
-    },
-    {
-      "id": "battle_enemy_break_10113_1",
-      "desc": "",
-      "dlg": "Become a porous thing—"
-    },
-    {
-      "id": "battle_kill_10113_1",
-      "desc": "",
-      "dlg": "Thus, you sink into a bottomless slumber."
-    },
-    {
-      "id": "battle_break_10113_1",
-      "desc": "",
-      "dlg": "… Oh."
-    },
-	  {
-      "id": "battle_dead_10113_1",
-      "desc": "",
-      "dlg": "The heart that wished to die… has finally found a knife."
-    },
+
 	  {
       "id": "battle_s3_10113_1_3",
-      "desc": "",
+      "desc": "############ N Corp Yi Sang Start ############",
       "dlg": "I shall fire and pierce you as you are."
     },
-	
-	
-	
-	
-	  {
-      "id": "battle_select_10312_1",
-      "desc": "############ Love&Hate DonQ Start ############",
-      "dlg": "Gasp! Doth aught requireth mine assistance?"
-    },
-    {
-      "id": "battle_endcommand_10312_1",
-      "desc": "",
-      "dlg": "Tis evident this foe shall pose a challenge… allow me!"
-    },
-    {
-      "id": "battle_enemy_break_10312_1",
-      "desc": "",
-      "dlg": "Heh heh, 'tis light work!"
-    },
-    {
-      "id": "battle_kill_10312_1",
-      "desc": "",
-      "dlg": "Behold, for evil hath been cleansed thus!"
-    },
-    {
-      "id": "battle_break_10312_1",
-      "desc": "",
-      "dlg": "Ngh, this cannot be…"
-    },
-	  {
-      "id": "battle_dead_10312_1",
-      "desc": "",
-      "dlg": "I… swore I would… protect thee all… to the bitter…"
-    },
+
   	{
       "id": "battle_select_hysteric_10312_1",
-      "desc": "",
+      "desc": "############ Love&Hate DonQ Start ############",
       "dlg": "Get out of my head…"
     },
     {
@@ -7130,45 +2671,9 @@
       "dlg": "...Hoh? Hath aught transpired?"
     },
 	
-	
-	
-	
-	
-	
-	
-	  {
-      "id": "battle_select_10913_1",
-      "desc": "############ KOD Rodion Start ############",
-      "dlg": "Um… can we talk later? I'm feeling a bit low."
-    },
-    {
-      "id": "battle_endcommand_10913_1",
-      "desc": "",
-      "dlg": "Keen… and precise."
-    },
-    {
-      "id": "battle_enemy_break_10913_1",
-      "desc": "",
-      "dlg": "… Even you must've had someone who cared about you."
-    },
-    {
-      "id": "battle_kill_10913_1",
-      "desc": "",
-      "dlg": "… I have a lot to protect, too."
-    },
-    {
-      "id": "battle_break_10913_1",
-      "desc": "",
-      "dlg": "I swore to protect, but…"
-    },
-	  {
-      "id": "battle_dead_10913_1",
-      "desc": "",
-      "dlg": "Please… don't wake me up… I… wanna rest."
-    },
 	  {
       "id": "battle_s2_10913_1_1",
-      "desc": "",
+      "desc": "############ KOD Rodion Start ############",
       "dlg": "In order to protect…"
     },
 	  {
@@ -7186,42 +2691,10 @@
       "desc": "",
       "dlg": "Let nothing remain."
     },
-	
-	
-	
-	  {
-      "id": "battle_select_11113_1",
-      "desc": "############ T Corp Outis Start ############",
-      "dlg": "<i>It'sHardToCommunicateWhenI'mInAcceleratedTime.</i>"
-    },
-    {
-      "id": "battle_endcommand_11113_1",
-      "desc": "",
-      "dlg": "This is a warranted execution of official duties."
-    },
-    {
-      "id": "battle_enemy_break_11113_1",
-      "desc": "",
-      "dlg": "Slowed to a crawl already?"
-    },
-    {
-      "id": "battle_kill_11113_1",
-      "desc": "",
-      "dlg": "Hmmm, came to a full stop, did you? No matter. Your time debt's been collected."
-    },
-    {
-      "id": "battle_break_11113_1",
-      "desc": "",
-      "dlg": "Hnngh… The time…"
-    },
-	  {
-      "id": "battle_dead_11113_1",
-      "desc": "",
-      "dlg": "Impossible… But… I saved up so much time… for that day… I never got… to…"
-    },
+
 	  {
       "id": "battle_s2_11113_1_2",
-      "desc": "",
+      "desc": "############ T Corp Outis Start ############",
       "dlg": "Accelerate."
     },
 	  {
@@ -7239,43 +2712,10 @@
       "desc": "",
       "dlg": "Executing!"
     },
-	
-	
-	
-	
-	  {
-      "id": "battle_select_10613_1",
-      "desc": "############ Lord Hong Lu Start ############",
-      "dlg": "I rule with blood."
-    },
-    {
-      "id": "battle_endcommand_10613_1",
-      "desc": "battle_endcommand_10613_1",
-      "dlg": "Unleash the beasts."
-    },
-    {
-      "id": "battle_enemy_break_10613_1",
-      "desc": "battle_enemy_break_10613_1",
-      "dlg": "To let oneself be shaken by this siltcurrent…"
-    },
-    {
-      "id": "battle_kill_10613_1",
-      "desc": "battle_kill_10613_1",
-      "dlg": "Never shall the green within you wake."
-    },
-    {
-      "id": "battle_break_10613_1",
-      "desc": "battle_break_10613_1",
-      "dlg": "… Such insolence."
-    },
-    {
-      "id": "battle_dead_10613_1",
-      "desc": "battle_dead_10613_1",
-      "dlg": "Reflecting back on the road that’s led me here, this is… but another path that I must take…"
-    },
+
     {
       "id": "battle_s3-1_10613_1_1",
-      "desc": "battle_s3-1_10613_1_1",
+      "desc": "############ Lord of Hongyuan Hong Lu Start ############",
       "dlg": "I'll personally sever your neck."
     },
     {
@@ -7434,39 +2874,9 @@
       "dlg": "Until I fulfil my goal... Death... Pass by me once more!"
     },
 	
-	  {
-      "id": "battle_select_10114_1",
-      "desc": "############ Wu Branch Yi Sang Start ############",
-      "dlg": "Let us return to the task at hand(閑話休題). Obsess not over the individual; avert your focus toward the battlefield."
-    },
-	  {
-      "id": "battle_break_10114_1",
-      "desc": "",
-      "dlg": "… Twisted."
-    },
-    {
-      "id": "battle_dead_10114_1",
-      "desc": "",
-      "dlg": "Swift were my hooves… They brought me to you before my time, young Miss…"
-    },
-	  {
-      "id": "battle_endcommand_10114_1",
-      "desc": "",
-      "dlg": "A single cavalry carries the might of a thousand men…! (一騎當千)."
-    },
-	  {
-      "id": "battle_enemy_break_10114_1",
-      "desc": "",
-      "dlg": "Open wide with the heart unburdened…"
-    },
-	  {
-      "id": "battle_kill_10114_1",
-      "desc": "",
-      "dlg": "… and let the gale guide your trampling."
-    },
     {
       "id": "battle_s3_10114_1_1",
-      "desc": "",
+      "desc": "############ Wu Branch Yi Sang Start ############",
       "dlg": "Overcome one..."
     },
 	  {
@@ -7520,41 +2930,9 @@
       "dlg": "Layer upon layer of gates…\nI shall break through them!"
     },
 	
-	
-	
-	  {
-      "id": "battle_select_11014_1",
-      "desc": "############ You Branch Sinclair Start ############",
-      "dlg": "… Stop gawking around like a chicken in a battlefield. A rooster with a particularly violent streak might just peck you to death."
-    },	
-	  {
-      "id": "battle_break_11014_1",
-      "desc": "",
-      "dlg": "… *spits*"
-    },
-    {
-      "id": "battle_dead_11014_1",
-      "desc": "",
-      "dlg": "I wanted to see the sun rise… over this battlefield…"
-    },
-	  {
-      "id": "battle_endcommand_11014_1",
-      "desc": "",
-      "dlg": "Spread my wings, and bore them with my talons."
-    },
-	  {
-      "id": "battle_enemy_break_11014_1",
-      "desc": "",
-      "dlg": "You're cornered.\nNowhere to go."
-    },
-	  {
-      "id": "battle_kill_11014_1",
-      "desc": "",
-      "dlg": "… Dead. Where to next…"
-    },
 	  {
       "id": "battle_s3_11014_1_6-02",
-      "desc": "",
+      "desc": "############ You Branch Sinclair Start ############",
       "dlg": "Bloodflame Blade Ignite!"
     },
 	  {
@@ -7578,41 +2956,9 @@
       "dlg": "Bloodflame Blade Ignite."
     },	
 	
-	
-	
-    {
-      "id": "battle_select_10412_1",
-      "desc": "############ Contempt Ryoshu Start ############",
-      "dlg": "Do you realize who you're talking to?"
-    },	
-    {
-      "id": "battle_break_10412_1",
-      "desc": "",
-      "dlg": "Ngh."
-    },
-    {
-      "id": "battle_dead_10412_1",
-      "desc": "",
-      "dlg": "Hah… even the gaze that once embraced me…\ncontemns me… How electrifying."
-    },
-	  {
-      "id": "battle_endcommand_10412_1",
-      "desc": "",
-      "dlg": "There's no escaping the 'spiral'."
-    },
-	  {
-      "id": "battle_enemy_break_10412_1",
-      "desc": "",
-      "dlg": "That gaze…\nHow contemptuous."
-    },
-	  {
-      "id": "battle_kill_10412_1",
-      "desc": "",
-      "dlg": "Did you think you could escape?"
-    },
     {
       "id": "battle_special_10412_4_A",
-      "desc": "",
+      "desc": "############ Contempt Ryoshu Start ############",
       "dlg": "Blood will splatter."
     },
     {
@@ -7651,45 +2997,9 @@
       "dlg": "Don't get blinded by this gaze."
     },
 	
-	
-	  {
-      "id": "battle_select_10213_1",
-      "desc": "############ Shi East Sect3 Faust Start ############",
-      "dlg": "Waiting for the right moment."
-    },
-	  {
-      "id": "battle_select_10213_2",
-      "desc": "",
-      "dlg": "... Target locked."
-    },
-    {
-      "id": "battle_break_10213_1",
-      "desc": "",
-      "dlg": "Mm..."
-    },
-    {
-      "id": "battle_dead_10213_1",
-      "desc": "",
-      "dlg": "Again, fairness is simply a universal concept—even... for me."
-    },
-	  {
-      "id": "battle_endcommand_10213_1",
-      "desc": "",
-      "dlg": "Let the pelting rain bury you."
-    },
-	  {
-      "id": "battle_enemy_break_10213_1",
-      "desc": "",
-      "dlg": "Clean shot through the lung."
-    },
-    {
-      "id": "battle_kill_10213_1",
-      "desc": "",
-      "dlg": "Bullseye."
-    },
 	  {
       "id": "battle_s3_10213_1_4",
-      "desc": "",
+      "desc": "############ Shi East Sect3 Faust Start ############",
       "dlg": "This time, I'll cut you down."
     },
 	  {
@@ -7737,39 +3047,10 @@
       "desc": "",
       "dlg": "… Target locked."
     },
-	  {
-        "id": "battle_select_10513_1",
-        "desc": "######### Prince of La Manchaland Meursualt Start #############",
-        "dlg": "Are you enjoying the banquet?"
-    },
-    {
-        "id": "battle_endcommand_10513_1",
-        "desc": "Commencing Attack",
-        "dlg": "The Parade and its Finale."
-    },
-    {
-        "id": "battle_enemy_break_10513_1",
-        "desc": "Enemy Stagger",
-        "dlg": "That's it. Kneel."
-    },
-    {
-        "id": "battle_break_10513_1",
-        "desc": "Staggered",
-        "dlg": "... Hah. Blood... more blood...!"
-    },
-    {
-        "id": "battle_kill_10513_1",
-        "desc": "Enemy Killed",
-        "dlg": "You... are too feeble to join the Family."
-    },
-    {
-        "id": "battle_dead_10513_1",
-        "desc": "Death",
-        "dlg": "Thus, in the end... our royal Family too, marches to ruin..."
-    },
+
 	  {
         "id": "battle_special_10513_1",
-        "desc": "",
+        "desc": "######### Prince of La Manchaland Meursualt Start #########",
         "dlg": "I bestow upon you the King’s protection."
     },
     {
@@ -7797,39 +3078,10 @@
         "desc": "",
         "dlg": "Ah...\nThe highlight of the Parade.\nThis is...  the Overture’s Finale."
     },
-	  {
-        "id": "battle_select_10713_1",
-        "desc": "###### W Corp Heathcliff Start ######",
-        "dlg": "Leave the cleanup to the newbies. I'm off to the Congested compartment."
-    },
-    {
-        "id": "battle_endcommand_10713_1",
-        "desc": "Commencing Attack",
-        "dlg": "Confirming armour activation."
-    },
-	  {
-        "id": "battle_enemy_break_10713_1",
-        "desc": "Enemy Stagger",
-        "dlg": "Now sit there nice and quiet..."
-    },
-    {
-        "id": "battle_break_10713_1",
-        "desc": "Staggered",
-        "dlg": "Gah..."
-    },
-    {
-        "id": "battle_kill_10713_1",
-        "desc": "Enemy Killed",
-        "dlg": "... Train's done operatin', that's what!"
-    },
-    {
-        "id": "battle_dead_10713_1",
-        "desc": "Death",
-        "dlg": "... So this is the last stop."
-    },
+	  
 	  {
         "id": "battle_special_10713_1",
-        "desc": "",
+        "desc": "###### W Corp Heathcliff Start ######",
         "dlg": "Come at me! If you’re confident."
     },
 	  {
@@ -7842,39 +3094,10 @@
         "desc": "",
         "dlg": "I'll split you in two!"
     },
-	  {
-        "id": "battle_select_10813_1",
-        "desc": "###### Jeong's Office Ishmael ######",
-        "dlg": "I'm already carrying out my duties as an observer. Chatting me up is a rule violation."
-    },
-    {
-        "id": "battle_endcommand_10813_1",
-        "desc": "Commencing Attack",
-        "dlg": "Hey now, that makes a matching hand!"
-    },
-	  {
-        "id": "battle_enemy_break_10813_1",
-        "desc": "Enemy Stagger",
-        "dlg": "Let's go! Koi-koi!"
-    },
-    {
-        "id": "battle_break_10813_1",
-        "desc": "Staggered",
-        "dlg": "What a shitty hand..."
-    },
-    {
-        "id": "battle_kill_10813_1",
-        "desc": "Enemy Killed",
-        "dlg": "Hmph. You went all-in, didn't you?"
-    },
-    {
-        "id": "battle_dead_10813_1",
-        "desc": "Death",
-        "dlg": "Never thought I'd be cornered like this..."
-    },
+	
 	  {
         "id": "battle_s3_10813_1_1",
-        "desc": "",
+        "desc": "###### Jeong's Office Ishmael ######",
         "dlg": "March..."
     },
 	  {
@@ -7917,39 +3140,10 @@
         "desc": "",
         "dlg": "Gōkō!"
     },
-	  {
-        "id": "battle_select_11213_1",
-        "desc": "###### NightAwl Capitano Gregor ######",
-        "dlg": "Stay sharp and focus on the fight if you don't want to snuff it."
-    },
-    {
-        "id": "battle_endcommand_11213_1",
-        "desc": "Commencing Attack",
-        "dlg": "Let's deal with this quickly."
-    },
-	  {
-        "id": "battle_enemy_break_11213_1",
-        "desc": "Enemy Stagger",
-        "dlg": "Is this your weak spot?"
-    },
-    {
-        "id": "battle_break_11213_1",
-        "desc": "Staggered",
-        "dlg": "Gah..."
-    },
-    {
-        "id": "battle_kill_11213_1",
-        "desc": "Enemy Killed",
-        "dlg": "You were full of openings."
-    },
-    {
-        "id": "battle_dead_11213_1",
-        "desc": "Death",
-        "dlg": "I guess running away... did nothing to unseal our fate..."
-    },
+
 	  {
         "id": "battle_s3_11213_1_4",
-        "desc": "",
+        "desc": "###### NightAwl Capitano Gregor ######",
         "dlg":"You're full of openings...!"
     },
 	  {
@@ -8002,79 +3196,21 @@
         "desc": "",
         "dlg": "... I’ll pierce through it."
     },
-    {
-      "id": "battle_select_10313_1",
-      "desc": "Viewed in Battle ###### Heishou Wei Don Quixote ######",
-      "dlg": "Charge!!"
-    },
-    {
-      "id": "battle_endcommand_10313_1",
-      "desc": "Commencing Attack",
-      "dlg": "Topple them ere the battle is afoot!"
-    },
-    {
-      "id": "battle_enemy_break_10313_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Doth not thy brainpan rattle from within?"
-    },
-    {
-      "id": "battle_break_10313_1",
-      "desc": "Staggered",
-      "dlg": "Hrrk...!"
-    },
-    {
-      "id": "battle_kill_10313_1",
-      "desc": "Enemy Killed",
-      "dlg": "Down they crumble!"
-    },
-    {
-      "id": "battle_dead_10313_1",
-      "desc": "Death",
-      "dlg": "Gah?! Aah... Is... is this... mine end?"
-    },
+   
     {
       "id": "battle_s3_10313_1_4",
-      "desc": "",
+      "desc": "###### Heishou Wei Don Quixote ######",
       "dlg": "Aaaagh...! Shatter!!"
     },
-    {
-      "id": "battle_select_10714_1",
-      "desc": "Viewed in Battle ###### Heishou You Adept Heathcliff ######",
-      "dlg": "Sod off or die."
-    },
-    {
-      "id": "battle_endcommand_10714_1",
-      "desc": "Commencing Attack",
-      "dlg": "Talons out!"
-    },
-    {
-      "id": "battle_enemy_break_10714_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Wha, you're down already? That's a bit bland, innit?"
-    },
-    {
-      "id": "battle_break_10714_1",
-      "desc": "Staggered",
-      "dlg": "Keheh, yes! I like that!"
-    },
-    {
-      "id": "battle_kill_10714_1",
-      "desc": "Enemy Killed",
-      "dlg": "Pecked 'em to death! Next! NEXT!"
-    },
-    {
-      "id": "battle_dead_10714_1",
-      "desc": "Death",
-      "dlg": "Hah... I totally lost control, didn't I...? Well... I was always going to end up a carcass... anyway."
-    },
+    
     {
         "id": "battle_s3_10714_1_1",
-        "desc": "",
+        "desc": "###### Heishou You Adept Heathcliff ######",
         "dlg": "Bloodtalons...! Conflagrate!"
     },
     {
         "id": "battle_special_10714_1",
-        "desc": "1UnknownVL-Stilllooking",
+        "desc": "",
         "dlg": "Thought my damn neck was gonna snap from holding back...\nHeh. Kill ’em all!!"
     },
     {
@@ -8092,39 +3228,10 @@
         "desc": "",
         "dlg": "Flame Rooster's Death Defiance\n(炎鳥不死戦)... Heh!\nYou really thought I was gonna kick it...\nHuh?!"
     },
-    {
-        "id": "battle_select_10413_1",
-        "desc": "Viewed in Battle ###### Drifting Blade Ryoshu ######",
-        "dlg": "Straying from my back isn't a smart choice."
-    },
-    {
-        "id": "battle_endcommand_10413_1",
-        "desc": "Commencing Attack",
-        "dlg": "Gladly."
-    },
-    {
-        "id": "battle_enemy_break_10413_1",
-        "desc": "Enemy Stagger",
-        "dlg": "Storm them without mercy..."
-    },
-    {
-        "id": "battle_break_10413_1",
-        "desc": "Staggered",
-        "dlg": "... Hah."
-    },
-    {
-        "id": "battle_kill_10413_1",
-        "desc": "Enemy Killed",
-        "dlg": "Scatter, never again to be found."
-    },
-    {
-        "id": "battle_dead_10413_1",
-        "desc": "Death",
-        "dlg": "My only regret... is that I die without avenging... that foolish lord of mine."
-    },
+
     {
           "id": "battle_s3_10413_1_3-02",
-          "desc": "",
+          "desc": "###### Drifting Blade Ryoshu ######",
           "dlg": "Shadow of the Sky-Stepping Spear(踏空槍零)."
     },
     {
@@ -8147,39 +3254,10 @@
           "desc": "",
           "dlg": "I won't let you die."
     },
-    {
-      "id": "battle_select_10914_1",
-      "desc": "Viewed in Battle ########## R Corp Rodion ##########",
-      "dlg": "... Ha ha. Would ya look at that. Everybody's twinkle-twinkle."
-    },
-    {
-      "id": "battle_endcommand_10914_1",
-      "desc": "Commencing Attack",
-      "dlg": "Why's it gotta be today...? Why's it gotta be just the 4th Pack Reindeer, why's it gotta be <i>just</i> me and my roomies for this mission, huh...?"
-    },
-    {
-      "id": "battle_enemy_break_10914_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Hah, I'll zap you in all the pretty colors. It's the Christmas special."
-    },
-    {
-      "id": "battle_break_10914_1",
-      "desc": "Staggered",
-      "dlg": "Ngh, nngh..."
-    },
-    {
-      "id": "battle_kill_10914_1",
-      "desc": "Enemy Killed",
-      "dlg": "Good kids on the nice list woulda gone easy on you... agh. Too bad we're on the naughty list, huh?"
-    },
-    {
-      "id": "battle_dead_10914_1",
-      "desc": "Death",
-      "dlg": "This... is the worst... I'll be one... morbid Christmas tree..."
-    },
+
     {
       "id": "battle_s3_10914_1_4",
-          "desc": "",
+      "desc": "########## R Corp Rodion ##########",
       "dlg": "Ahaha… aren’t the fireworks pretty?"
     },
 	  
@@ -8188,38 +3266,8 @@
     },
 	  
     {
-      "id": "battle_select_11114_1",
-      "desc": "Viewed in Battle ######## LCA Udjat Vanguard Outis ########",
-      "dlg": "No need. I've already spotted a gap. The Eye of Udjat… never misses faults in allied defensive positions."
-    },
-    {
-      "id": "battle_endcommand_11114_1",
-      "desc": "",
-      "dlg": "Encircle the target."
-    },
-    {
-      "id": "battle_enemy_break_11114_1",
-      "desc": "",
-      "dlg": "As predicted…"
-    },
-    {
-      "id": "battle_break_11114_1",
-      "desc": "",
-      "dlg": "Dammit, this pattern…"
-    },
-    {
-      "id": "battle_kill_11114_1",
-      "desc": "",
-      "dlg": "Enemy unit neutralized…\nKill confirmed."
-    },
-    {
-      "id": "battle_dead_11114_1",
-      "desc": "",
-      "dlg": "This is… *sigh* Disregard. All units, continue to… engage…"
-    },
-    {
       "id": "battle_s3_11114_1_1-01-1",
-      "desc": "",
+      "desc": "######## LCA Udjat Vanguard Outis ########",
       "dlg": "Fire!"
     },
     {
@@ -8249,38 +3297,8 @@
     },
 
     {
-      "id": "battle_select_10214_1",
-      "desc": "############## Index Proselyte Faust #############",
-      "dlg": "To converse is not a violation of the Prescript."
-    },
-    {
-      "id": "battle_endcommand_10214_1",
-      "desc": "",
-      "dlg": "As the Prescript commands—my blade strikes."
-    },
-    {
-      "id": "battle_enemy_break_10214_1",
-      "desc": "",
-      "dlg": "Please hold. You are to be cleaved five more times."
-    },
-    {
-      "id": "battle_break_10214_1",
-      "desc": "",
-      "dlg": "Nngh…"
-    },
-    {
-      "id": "battle_kill_10214_1",
-      "desc": "",
-      "dlg": "It is done."
-    },
-    {
-      "id": "battle_dead_10214_1",
-      "desc": "",
-      "dlg": "Did the Prescript… point toward death…? If not… whose will… could this be…?"
-    },
-    {
       "id": "battle_s3_10214_1_4",
-      "desc": "",
+      "desc": "############## Index Proselyte Faust #############",
       "dlg": "Fulfilled."
     },
     {
@@ -8329,40 +3347,9 @@
       "dlg": "It is the Will of the Prescript… I will not hold any regrets."
     },
 	
-	
-	  {
-      "id": "battle_select_10314_1",
-      "desc": "Viewed in Battle ######## Index EGO Don Quixote ########",
-      "dlg": "Prithee, hold awhile. Prescripts delivered by the Great Magicked Beeper are, in sooth, o-obscure to decipher..."
-    },
-    {
-      "id": "battle_endcommand_10314_1",
-      "desc": "Commencing Attack",
-      "dlg": "Render it unforeseeable."
-    },
-    {
-      "id": "battle_enemy_break_10314_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Thou art shaken."
-    },
-    {
-      "id": "battle_break_10314_1",
-      "desc": "Staggered",
-      "dlg": "Guuh... Th-that paineth me sore..."
-    },
-    {
-      "id": "battle_kill_10314_1",
-      "desc": "Enemy Killed",
-      "dlg": "'Tis a fate long prescribed."
-    },
-    {
-      "id": "battle_dead_10314_1",
-      "desc": "Death",
-      "dlg": "... Prithee... t-tell him... I have... done my utmost..."
-    },
 	  {
       "id": "battle_s3_10314_1_4",
-      "desc": "",
+      "desc": "######## Index EGO Don Quixote ########",
       "dlg": "<i><color=#50acff>*beep*</color></i> Thou wert not kind."
     },
 	  {
@@ -8405,39 +3392,10 @@
       "desc": "",
       "dlg": "'Tis death most fateful."
     },
-    {
-      "id": "battle_select_10814_1",
-      "desc": "Viewed in Battle ####### House of Spiders Middle Apperentice Ishmael #######",
-      "dlg": "Didya see that move just now? That detail, man, that was just insane...\nIs this the way to move? Or—nah, like <i>this</i>?"
-    },
-    {
-      "id": "battle_endcommand_10814_1",
-      "desc": "Commencing Attack",
-      "dlg": "This is gonna be so dope!"
-    },
-    {
-      "id": "battle_enemy_break_10814_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Teehee. You malding, bro? Whatchagonna do about it?"
-    },
-    {
-      "id": "battle_break_10814_1",
-      "desc": "Staggered",
-      "dlg": "Argh!"
-    },
-    {
-      "id": "battle_kill_10814_1",
-      "desc": "Enemy Killed",
-      "dlg": "Hah! In your dreams, dumbass~"
-    },
-    {
-      "id": "battle_dead_10814_1",
-      "desc": "Death",
-      "dlg": "Ma... ma..."
-    },
+
     {
         "id": "battle_s2_10814_1_1-02",
-        "desc": "",
+        "desc": "####### House of Spiders Middle Apperentice Ishmael #######",
         "dlg": "One."
     },
     {
@@ -8490,39 +3448,10 @@
       "desc": "",
       "dlg": "As expected, mama's the best~!"
     },
-    {
-      "id": "battle_select_11214_1",
-      "desc": "########## Lamp EGO Gregor ############",
-      "dlg": "Sadly, only the dead live in my forest. Now, the only thing I can do… is kill the beast."
-    },
-    {
-      "id": "battle_endcommand_11214_1",
-      "desc": "",
-      "dlg": "Boosting E.G.O Attunement…"
-    },
-    {
-      "id": "battle_enemy_break_11214_1",
-      "desc": "",
-      "dlg": "Sit still."
-    },
-    {
-      "id": "battle_break_11214_1",
-      "desc": "",
-      "dlg": "Oh…"
-    },
-    {
-      "id": "battle_kill_11214_1",
-      "desc": "",
-      "dlg": "I'm here to save you."
-    },
-    {
-      "id": "battle_dead_11214_1",
-      "desc": "",
-      "dlg": "So… this is how it ends, huh…"
-    },
+
     {
       "id": "battle_s3_11214_1_5",
-      "desc": "",
+      "desc": "########## Lamp EGO Gregor ############",
       "dlg": "Let's brighten the road ahead, so I can have a good view of the lives I must save."
     },
     {
@@ -8535,39 +3464,10 @@
       "desc": "",
       "dlg": "Come this way… I’ll make sure to keep you safe."
     },
-    {
-      "id": "battle_select_11015_1",
-      "desc": "########## The Pinky Apperentice Sinclair ############",
-      "dlg": "A single straight stroke to fell them all…!"
-    },
-    {
-      "id": "battle_endcommand_11015_1",
-      "desc": "",
-      "dlg": "Permit me to demonstrate."
-    },
-    {
-      "id": "battle_enemy_break_11015_1",
-      "desc": "",
-      "dlg": "One mustn't submit so easily."
-    },
-    {
-      "id": "battle_break_11015_1",
-      "desc": "",
-      "dlg": "Hngh…!"
-    },
-    {
-      "id": "battle_kill_11015_1",
-      "desc": "",
-      "dlg": "Another step closer to that singular Way of the Blade."
-    },
-    {
-      "id": "battle_dead_11015_1",
-      "desc": "본인 사망",
-      "dlg": "A life so fleeting, a death meant to be… But this failure to inherit the name of a Star… is my woeful regret."
-    },
+
     {
       "id": "battle_s2_11015_1_4",
-      "desc": "",
+      "desc": "########## The Pinky Apperentice Sinclair ############",
       "dlg": "Blade's path secured."
     },
     {
@@ -8623,47 +3523,17 @@
     {
       "id": "battle_s3_11015_1_7",
       "desc": "",
-      "dlg": "Witness, the blade cleaves and falls, in a moment."
+      "dlg": "Witness, the blade cleaves and fells, in a moment."
     },
     {
       "id": "battle_s3_11015_1_8",
       "desc": "",
       "dlg": "At last, the moon has risen to full."
     },
-	
-    {
-      "id": "battle_select_10115_1",
-      "desc": "############# House of Spiders Index Nuresfather Yi Sang #################",
-      "dlg": "It would seem... that I am \"frozen\" still."
-    },
-    {
-      "id": "battle_endcommand_10115_1",
-      "desc": "",
-      "dlg": "How far, I wonder, are you resolved to go?"
-    },
-    {
-      "id": "battle_enemy_break_10115_1",
-      "desc": "",
-      "dlg": "That glimmer of sorrow in your eyes... makes quite a fine sight."
-    },
-    {
-      "id": "battle_break_10115_1",
-      "desc": "",
-      "dlg": "Haha."
-    },
-    {
-      "id": "battle_kill_10115_1",
-      "desc": "",
-      "dlg": "Because a brief sting... paid a visit to my heart."
-    },
-    {
-      "id": "battle_dead_10115_1",
-      "desc": "",
-      "dlg": "... How... lonely."
-    },
+
     {
       "id": "battle_s3_10115_1_6",
-      "desc": "",
+      "desc": "############# House of Spiders Index Nuresfather Yi Sang #################",
       "dlg": "<i><color=#50acff>*beep*</color></i> Hah... the waves are rolling in."
     },
     {
@@ -8714,17 +3584,17 @@
     {
       "id": "battle_special_10115_10",
       "desc": "",
-      "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+      "dlg": "Wading through a dream, the self nowhere to be found (無我夢中)."
     },
     {
       "id": "battle_special_10115_11",
       "desc": "",
-      "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+      "dlg": "Like the Naraka of Avīci and Raurava (阿鼻叫喚)."
     },
     {
       "id": "battle_special_10115_12",
       "desc": "",
-      "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+      "dlg": "Severed and torn until even the form is undone (支離滅裂)."
     },
     {
       "id": "battle_special_10115_13",
@@ -8766,39 +3636,10 @@
       "desc": "",
       "dlg": "Ah… Don Quixote. Indeed, if you complete this battle well… I shall praise you."
     },
-    {
-      "id": "battle_select_10514_1",
-      "desc": "########### Hornet E.G.O Meursault ###########",
-      "dlg": "My weapon was designed for the sole purpose of inflicting bodily harm. If you are in need of Sanity recuperation, please search for a different Agent."
-    },
-    {
-      "id": "battle_endcommand_10514_1",
-      "desc": "",
-      "dlg": "All that's needed is the will to hit bullseye."
-    },
-    {
-      "id": "battle_enemy_break_10514_1",
-      "desc": "",
-      "dlg": "Suppression target is exhibiting signs of fatigue."
-    },
-    {
-      "id": "battle_break_10514_1",
-      "desc": "",
-      "dlg": "Agh... Requesting a shot of HP-N Bullet."
-    },
-    {
-      "id": "battle_kill_10514_1",
-      "desc": "",
-      "dlg": "Target neutralized. Moving on to the next suppression target..."
-    },
-    {
-      "id": "battle_dead_10514_1",
-      "desc": "",
-      "dlg": "... I thought I would die by an Execution Bullet... or during Management... but...\nWhat a rare experience to cap it off..."
-    },
+
     {
       "id": "battle_s3_10514_1_1",
-      "desc": "",
+      "desc": "########### Hornet E.G.O Meursault ###########",
       "dlg": "Dust Spark, Field test successful."
     },
     {
@@ -8858,38 +3699,8 @@
     },
 
     {
-      "id": "battle_select_10414_1",
-      "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
-      "dlg": "Give me a heads-up if you're gonna use a HP Recovery Bullet on me. Pull that trigger without warning like last time, and I'll slap away your fancy bullet with my scabbard again."
-    },
-    {
-      "id": "battle_endcommand_10414_1",
-      "desc": "",
-      "dlg": "Time to burrow deep, F.A., S."
-    },
-    {
-      "id": "battle_enemy_break_10414_1",
-      "desc": "",
-      "dlg": "Let the flowers lull you to sleep..."
-    },
-    {
-      "id": "battle_break_10414_1",
-      "desc": "",
-      "dlg": "Tsk. I get this sweet smell even in my mouth..."
-    },
-    {
-      "id": "battle_kill_10414_1",
-      "desc": "",
-      "dlg": "... Be buried in the dust."
-    },
-    {
-      "id": "battle_dead_10414_1",
-      "desc": "",
-      "dlg": "... Sleepy. Has the time come... for my spring hibernation...?"
-    },
-    {
       "id": "battle_s3_10414_1_2",
-      "desc": "",
+      "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
       "dlg": "Go back to where you were born."
     },
     {
@@ -8937,39 +3748,10 @@
       "desc": "",
       "dlg": "Go back to the grave... with all that desires to live."
     },
-    {
-      "id": "battle_select_11215_1",
-      "desc": "################# LCE AEDD Gregor ###############",
-      "dlg": "Experiment is underway. Do practice caution when controlling the variables."
-    },
-    {
-      "id": "battle_endcommand_11215_1",
-      "desc": "",
-      "dlg": "Let us run a test and trial."
-    },
-    {
-      "id": "battle_enemy_break_11215_1",
-      "desc": "",
-      "dlg": "Admirable effort. However..."
-    },
-    {
-      "id": "battle_break_11215_1",
-      "desc": "",
-      "dlg": "Ngh... Hah."
-    },
-    {
-      "id": "battle_kill_11215_1",
-      "desc": "",
-      "dlg": "... Nothing too remarkable."
-    },
-    {
-      "id": "battle_dead_11215_1",
-      "desc": "",
-      "dlg": "Well... I don't suppose I was all that exceptional either..."
-    },
+
     {
       "id": "battle_s3_11215_1_3",
-      "desc": "",
+      "desc": "################# LCE AEDD Gregor ###############",
       "dlg": "Standard-duty battery, temporary discharge!"
     },
     {
@@ -8999,38 +3781,8 @@
     },
 
     {
-      "id": "battle_select_10215_1",
-      "desc": "########## The Ring Apprentice Faust #############",
-      "dlg": "Please observe from a distance—it's for viewing only."
-    },
-    {
-      "id": "battle_endcommand_10215_1",
-      "desc": "",
-      "dlg": "A spark of inspiration."
-    },
-    {
-      "id": "battle_enemy_break_10215_1",
-      "desc": "",
-      "dlg": "These blood vessels are sufficiently thick. Not bad at all."
-    },
-    {
-      "id": "battle_break_10215_1",
-      "desc": "",
-      "dlg": "Are you afraid, Fascia?"
-    },
-    {
-      "id": "battle_kill_10215_1",
-      "desc": "",
-      "dlg": "Only now have we become friends."
-    },
-    {
-      "id": "battle_dead_10215_1",
-      "desc": "",
-      "dlg": "Fa... scia..."
-    },
-    {
       "id": "battle_s2_10215_1_1",
-      "desc": "",
+      "desc": "########## The Ring Apprentice Faust #############",
       "dlg": "I'll take this ingredient."
     },
     {
@@ -9054,40 +3806,9 @@
       "dlg": "You always manage to awaken my inspiration."
     },
 
-
-    {
-      "id": "battle_select_10614_1",
-      "desc": "############# The Ring Nursefather Hong Lu ###############",
-      "dlg": "Shh. Please be silent while viewing an exhibition."
-    },
-    {
-      "id": "battle_endcommand_10614_1",
-      "desc": "",
-      "dlg": "Please, do share your impressions!"
-    },
-    {
-      "id": "battle_enemy_break_10614_1",
-      "desc": "",
-      "dlg": "Have you any last words to impart to the world...?"
-    },
-    {
-      "id": "battle_break_10614_1",
-      "desc": "",
-      "dlg": "Perhaps my... eye for sublimity was lacking..."
-    },
-    {
-      "id": "battle_kill_10614_1",
-      "desc": "",
-      "dlg": "Ah... What a wonderful cry of death."
-    },
-    {
-      "id": "battle_dead_10614_1",
-      "desc": "",
-      "dlg": "It's you... My undertaker..."
-    },
     {
       "id": "battle_s3_10614_1_2",
-      "desc": "",
+      "desc": "############# The Ring Nursefather Hong Lu ###############",
       "dlg": "Do you hear it? The euphonious harmony of the humerus pair and 24 ribs...! Tibia's Melody!"
     },
     {
@@ -9167,38 +3888,8 @@
     },
 
     {
-      "id": "battle_select_10515_1",
-      "desc": "####### The Ring Fauvist Student Meursault #######",
-      "dlg": "Tugging a hound's leash before its prey is—!"
-    },
-    {
-      "id": "battle_endcommand_10515_1",
-      "desc": "",
-      "dlg": "C'est Sauvage!"
-    },
-    {
-      "id": "battle_enemy_break_10515_1",
-      "desc": "",
-      "dlg": "Once the canine material has been mastered,"
-    },
-    {
-      "id": "battle_break_10515_1",
-      "desc": "",
-      "dlg": "Ngh, but the assignment—"
-    },
-    {
-      "id": "battle_kill_10515_1",
-      "desc": "",
-      "dlg": "I would like to work <i>with</i> you for my next project."
-    },
-    {
-      "id": "battle_dead_10515_1",
-      "desc": "",
-      "dlg": "The fetor of death... was myself as the artwork... all along."
-    },
-    {
       "id": "battle_s3_10515_1_2",
-      "desc": "",
+      "desc": "####### The Ring Fauvist Student Meursault #######",
       "dlg": "Deeper into something more savage..."
     },
     {
@@ -9222,40 +3913,9 @@
       "dlg": "Thank you for the inspiration."
     },
     
-    
-    {
-        "id": "battle_select_10915_1",
-        "desc": "####### The Ring Fauvist Docent Rodion #######",
-        "dlg": "Careful. You're undressing the artwork with your eyes."
-    },
-    {
-        "id": "battle_endcommand_10915_1",
-        "desc": "",
-        "dlg": "With a palette of colors out of this world."
-    },
-    {
-        "id": "battle_enemy_break_10915_1",
-        "desc": "",
-        "dlg": "What's wrong? Did my claws get under your skin?"
-    },
-    {
-        "id": "battle_break_10915_1",
-        "desc": "",
-        "dlg": "Hmm. This material's got more bite than it looks."
-    },
-    {
-        "id": "battle_kill_10915_1",
-        "desc": "",
-        "dlg": "Adieu."
-    },
-    {
-        "id": "battle_dead_10915_1",
-        "desc": "",
-        "dlg": "Hah... Wasn't planning... on marking up my stuff... with a posthumous premium this soon."
-    },
     {
       "id": "battle_s3_10915_1_1",
-      "desc": "",
+      "desc": "####### The Ring Fauvist Docent Rodion #######",
       "dlg": "Underdone art..."
     },
     {
@@ -9310,38 +3970,8 @@
     },
 
     {
-      "id": "battle_select_10715_1",
-      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
-      "dlg": "Hmm... What d'you reckon? Looks more luscious now, don't it?"
-    },
-    {
-      "id": "battle_endcommand_10715_1",
-      "desc": "",
-      "dlg": "Get ready, here comes Big Bro!"
-    },
-    {
-      "id": "battle_enemy_break_10715_1",
-      "desc": "",
-      "dlg": "Out cold, are we? All right—one line crossed off the Book."
-    },
-    {
-      "id": "battle_break_10715_1",
-      "desc": "",
-      "dlg": "Tch... *spit*"
-    },
-    {
-      "id": "battle_kill_10715_1",
-      "desc": "",
-      "dlg": "Oi, get up! You've still got 11 deaths left in you!"
-    },
-    {
-      "id": "battle_dead_10715_1",
-      "desc": "",
-      "dlg": "Gah... even if I drop... Great Brother's Vengeance'll find you...!"
-    },
-    {
       "id": "battle_s3_10715_1_5",
-      "desc": "",
+      "desc": "############ Ricardo The Middle Big Brother Heathcliff ##############",
       "dlg": "I bring you the promised suffering!"
     },
     {
@@ -9505,38 +4135,6 @@
       "desc": "이스터 - 거던(히든) - 렌 조우 시",
       "dlg": "... A stranger with a familiar form. But how? Our threads have never been entangled."
     },
-
-    {
-      "id": "battle_select_10415_1",
-      "desc": "Viewed in Battle",
-      "dlg": "... This ticking, too, will break away in the end."
-    },
-    {
-      "id": "battle_endcommand_10415_1",
-      "desc": "Commencing Attack",
-      "dlg": "As painted."
-    },
-    {
-      "id": "battle_enemy_break_10415_1",
-      "desc": "Enemy Stagger",
-      "dlg": "The more I cut..."
-    },
-    {
-      "id": "battle_break_10415_1",
-      "desc": "Staggered",
-      "dlg": "Not now... I don't want to return yet..."
-    },
-    {
-      "id": "battle_kill_10415_1",
-      "desc": "Enemy Killed",
-      "dlg": "... Does resentment dull, too?"
-    },
-    {
-      "id": "battle_dead_10415_1",
-      "desc": "Death",
-      "dlg": "Even in death... It still won't be severed..."
-    },
-
     {
       "id": "battle_s3_10415_1",
       "desc": "",
@@ -9614,38 +4212,8 @@
     },
 
     {
-      "id": "battle_select_11115_1",
-      "desc": "###### HoS The Middle Nursefather Outis ###### Viewed in Battle",
-      "dlg": "That unsettling noise... Got a bad feeling about this. Don't let your guard down."
-    },
-    {
-      "id": "battle_endcommand_11115_1",
-      "desc": "Commencing Attack",
-      "dlg": "Welcome to the kill zone!"
-    },
-    {
-      "id": "battle_enemy_break_11115_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Alright, out of phases, or do you have more surprises up your sleeve?"
-    },
-    {
-      "id": "battle_break_11115_1",
-      "desc": "Staggered",
-      "dlg": "Haha! It's been so long. I'm actually kinda winded!"
-    },
-    {
-      "id": "battle_kill_11115_1",
-      "desc": "Enemy Killed",
-      "dlg": "Game over!"
-    },
-    {
-      "id": "battle_dead_11115_1",
-      "desc": "Death",
-      "dlg": "... Won't let you... take my sword. Not ever..."
-    },
-    {
       "id": "battle_s3_11115_1_1",
-      "desc": "",
+      "desc": "###### HoS The Middle Nursefather Outis ######",
       "dlg": "These toys..."
     },
     {

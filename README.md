@@ -1,9 +1,22 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.106.0, The Middle Nursefather Outis Added!
-## The Old Installers (below v1.5) are falsely getting flagged as virus, Be sure to get the Latest Updated Ver. For the Fix! [here](https://github.com/NotherWael/LimbusSpeechBubbleEN_Installer/archive/refs/heads/main.zip) (Follow instructions below, if first-time installing/using.)
+# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.106.2, Speech Bubble Mod Update.
+## REGARDING UNINSTALLATION TO SEE PM's SPEECH BUBBLES
+1. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
+Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
+      <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
+      <img src="Screenshot/datass.png" alt="datass"/>
+
+2. Delete the "Lang" in the "LimbusCompany_Data" folder.
+      <img src="Screenshot/Likethis.png" alt="Likethis"/>
+      - Note this will remove all other custom translation mods, if you have any.
+
+3. Alternatively to disable the mod instead of uninstalling, Launch Limbus and on the Login Screen, you can click on "Select Custom Language," and choose **-**, and restart the game.
 
 <details>
   <summary><h3>Changelogs (Click To Expand!)</h3></summary>
   
+  ### v1.106.2
+  - Since PM made the theater lines automatically become speech bubbles, I've removed the theater lines in the mod, reducing line count from 9000+ to 4000+
+
   ### v1.106.0
   - Added Speech Bubbles to The Middle Nursefather Outis.
   - Revised The Middle Apprentice Ishmael's New Line. (might be a mistranslation lowkey a confusing line)
