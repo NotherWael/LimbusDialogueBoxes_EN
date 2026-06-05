@@ -1772,11 +1772,6 @@
       "desc": "############ Edgar Chief Butler Ryoshu ############",
       "dlg": "I'll guide you to an eternal sleep."
     },
-	{
-      "id": "battle_special_10408_1",
-      "desc": "",
-      "dlg": "What the hell...\nYou little wild bastard...!"
-    },
 
 	{
       "id": "battle_s3_11009_1_1",
@@ -1880,10 +1875,6 @@
       "desc": "############ Multicrack Faust ############",
       "dlg": "Maximum output."
     },
-	
-	
-	
-	
 	
 	  {
       "id": "battle_select_10710_1",
