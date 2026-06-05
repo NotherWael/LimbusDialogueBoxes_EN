@@ -3580,7 +3580,7 @@
     {
       "id": "battle_s3_10514_1_1",
       "desc": "########### Hornet E.G.O Meursault ###########",
-      "dlg": "Dust Spark, Field test successful."
+      "dlg": "Dust Spark. Field test successful."
     },
     {
       "id": "battle_special_10514_1",
@@ -3620,12 +3620,12 @@
     {
       "id": "battle_special_10514_6-4",
       "desc": "",
-      "dlg": "Buckshot ammo, Field test successful."
+      "dlg": "Buckshot ammo. Field test successful."
     },
     {
       "id": "battle_special_10514_6-5",
       "desc": "",
-      "dlg": "Incendiary ammo, Field test successful."
+      "dlg": "Incendiary ammo. Field test successful."
     },
     {
       "id": "battle_special_10514_7",
